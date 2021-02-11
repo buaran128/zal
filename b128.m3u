@@ -108,8 +108,6 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Vidio
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Dailymotion
-https://stream-02.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS_CZ7Gh404n7Cdvp6CQ-TGo)/dm/3/x75p70w/d/live-3.m3u8
 
 
 
@@ -117,8 +115,10 @@ https://stream-02.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS_CZ7Gh404n7Cdvp6C
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/TrL03a2.png" group-title="NATIONAL",Mivo TV - Mivo
-http://3.12.6.247:65535/mivo_mivotv.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/320px-MNCTV_logo.png" group-title="NATIONAL",MNC TV - Vidio
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
 
@@ -175,8 +175,8 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 
 
 
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/ruang-trampil.png" group-title="NATIONAL",Ruang Trampil - Maxstream
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(56a81d9a-f190-463b-9a01-42f85674e8bd)/manifest.mpd
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="NATIONAL",SCTV - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227227/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="NATIONAL",SCTV - Vidio
@@ -387,6 +387,8 @@ https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY",CGTN Documentary - Viettel
+http://36.37.252.114:888/Apple/OneTV-063/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAr3T2Z.png" group-title="DOCUMENTARY",Crime+Investigation - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227341/02.m3u8
 
@@ -429,7 +431,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/192
 #EXTINF:-1 tvg-logo="https://imgur.com/DvK4ngM.png" group-title="DOCUMENTARY",HGTV - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227035/04.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m8rlDGX.png" group-title="DOCUMENTARY",History - MyRepublic
-http://103.47.132.164/PLTV/88888888/224/3221227335/02.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227335/03.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/m8rlDGX.png" group-title="DOCUMENTARY",History - True Visions
@@ -475,6 +477,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227157/03.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="DOCUMENTARY",National Geographic - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227177/03.m3u8
+#EXTINF:-1 tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="DOCUMENTARY",National Geographic - Viettel
+http://36.37.252.114:888/Apple/OneTV-101/playlist.m3u8
 
 
 
@@ -666,6 +670,8 @@ https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="ENTERTAINMENT",HBO - FDTV Apps
 http://fdtvapps.xyz/channel/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="ENTERTAINMENT",HBO - Viettel
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 
 
 
@@ -681,16 +687,22 @@ http://ott-cdn.ucom.am/s64/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/dT9diAr.png" group-title="ENTERTAINMENT",HBO Family - FDTV Apps
 http://fdtvapps.xyz/channel/hbofam.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dT9diAr.png" group-title="ENTERTAINMENT",HBO Family - Viettel
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/fnZ0zzW.png" group-title="ENTERTAINMENT",HBO Hits - FDTV Apps
 http://fdtvapps.xyz/channel/hbohits.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fnZ0zzW.png" group-title="ENTERTAINMENT",HBO Hits - Viettel
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 
 
 
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/7F6sSAT.png" group-title="ENTERTAINMENT",HBO Signature - Viettel
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="ENTERTAINMENT",Hits - MyRepublic
@@ -905,6 +917,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Jyx4MWW.png" group-title="KIDS",Gem Kids
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Jyx4MWW.png" group-title="KIDS",Gem Kids - Viettel
+http://36.37.252.114:888/Apple/OneTV-025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gbWqsAC.png" group-title="KIDS",Gem Junior
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
 
@@ -1008,6 +1022,8 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Dj1rsG.png" group-title="LIFESTYLE",Fashion TV - Ucom
 http://ott-cdn.ucom.am/s30/04.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1Dj1rsG.png" group-title="LIFESTYLE",Fashion TV - Viettel
+http://36.37.252.114:888/Apple/OneTV-059/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1Dj1rsG.png" group-title="LIFESTYLE",Fashion Top Model
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
@@ -1123,6 +1139,8 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2017-09/1505815440_www.satsis.info__eu-music-hd.png" group-title="MUSIC",EU Music - Viettel
+http://36.37.252.114:888/Apple/OneTV-060/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbBDbn.png" group-title="MUSIC",Karaoke Channel - LinkNet
@@ -1250,6 +1268,8 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227267/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/7/71/Aljazeera.svg/144px-Aljazeera.svg.png" group-title="NEWS",AlJazeera - Vidio
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=713fd63d76c8a57b16fc433fb4ae718a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/7/71/Aljazeera.svg/144px-Aljazeera.svg.png" group-title="NEWS",AlJazeera - Viettel
+http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8
 
 
 
@@ -1396,6 +1416,8 @@ http://ott-cdn.ucom.am/s65/04.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="NEWS",CNN - Viettel
+http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
 
 
 
@@ -1426,6 +1448,8 @@ http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS",DW Germany - Viettel
+http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8
 
 
 
@@ -1443,6 +1467,8 @@ http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 http://3.12.6.247:65535/dm_Euronews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="NEWS",Euronews - Vidio
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=cdf66a6a7a04d87d865335701790c3e3102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="NEWS",Euronews - Viettel
+http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 
 
 
@@ -1494,6 +1520,8 @@ http://ott-cdn.ucom.am/s89/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="NEWS",France 24 - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227055/04.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="NEWS",France 24 - Viettel
+http://36.37.252.114:888/Apple/OneTV-045/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="NEWS",France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="NEWS",France 24 Arabic - MyRepublic
@@ -1502,6 +1530,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227203/04.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="NEWS",France 24 French - Viettel
+http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8
 
 
 
@@ -1521,7 +1551,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OEczIiw.png" group-title="NEWS",NBC 6
-http://161.0.157.51/PLTV/88888888/224/3221227040/02.m3u8
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTY0MzkxOTc1OTA5MzM3MDM1/nbc-news-now-logo-stacked-reversed.jpg" group-title="NEWS",NBC News Now - Xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
@@ -1549,6 +1579,8 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="NEWS",RT - Official
 http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="NEWS",RT - Viettel
+http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="NEWS",RT UK - Official
@@ -1787,6 +1819,12 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_arryadia.png" group-title="SPORTS",Arryadia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" group-title="SPORTS",Astro Supersport - Viettel
+http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" group-title="SPORTS",Astro Supersport 2 - Viettel
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png" group-title="SPORTS",Astro Supersport 3 - Viettel
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://resources.mynewsdesk.com/image/upload/luh8fqfqetgkhkmx9lst.png" group-title="SPORTS",ATG 1 SPORT
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
@@ -1977,7 +2015,7 @@ https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/240px-NBA_TV.svg.png" group-title="SPORTS",NBA TV
-http://161.0.157.51/PLTV/88888888/224/3221227273/02.m3u8
+http://161.0.157.51/PLTV/88888888/224/3221227273/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/240px-NBA_TV.svg.png" group-title="SPORTS",NBA TV - True Visions
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 
@@ -2024,6 +2062,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png" group-title="SPORTS",RedBull TV - Viettel
+http://36.37.252.114:888/Apple/OneTV-056/playlist.m3u8
 
 
 
@@ -2206,9 +2246,13 @@ https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="SPORTS",True Sports 2 - Viettel
+http://36.37.252.114:888/Apple/OneTV-034/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png" group-title="SPORTS",True Sports 3 - True Visions
 
 https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png" group-title="SPORTS",True Sports 3 - Viettel
+http://36.37.252.114:888/Apple/OneTV-042/playlist.m3u8
 
 
 
@@ -2344,9 +2388,13 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.
 #EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/Channel-3-Thailand-1.png" group-title="(ASEAN)",[THA] Channel 3 - True Visions
 
 https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/Channel-3-Thailand-1.png" group-title="(ASEAN)",[THA] Channel 3 - Viettel
+http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Channel_7_Thailand_3D.png" group-title="(ASEAN)",[THA] Channel 7 - True Visions
 
 https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Channel_7_Thailand_3D.png" group-title="(ASEAN)",[THA] Channel 7 - Viettel
+http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
 
 
 
@@ -2383,6 +2431,8 @@ https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Thai_PBS_logo.png" group-title="(ASEAN)",[THA] - Thai PBS - True Visions
 
 https://www.livedoomovies.com/02_THAIPBS_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Thai_PBS_logo.png" group-title="(ASEAN)",[THA] - Thai PBS - Viettel
+http://36.37.252.114:888/Apple/OneTV-026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I1OdFXR.png" group-title="(ASEAN)",[THA] Thairath TV 32 - True Visions
 
 https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
@@ -2399,12 +2449,16 @@ https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
 http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JLkVgs2.png" group-title="(EAST-ASIA)",[CHN] CCTV 1
 http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KfUFpmr.png" group-title="(EAST-ASIA)",[CHN] CCTV 2 - Viettel
+http://36.37.252.114:888/Apple/OneTV-071/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KfUFpmr.png" group-title="(EAST-ASIA)",[CHN] CCTV 2
 http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/X6N9ulV.png" group-title="(EAST-ASIA)",[CHN] CCTV 3
 http://ivi.bupt.edu.cn/hls/cctv3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0HX4ZrH.png" group-title="(EAST-ASIA)",[CHN] CCTV 4 - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227303/04.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0HX4ZrH.png" group-title="(EAST-ASIA)",[CHN] CCTV 4 - Viettel
+http://36.37.252.114:888/Apple/OneTV-061/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0HX4ZrH.png" group-title="(EAST-ASIA)",[CHN] CCTV 4
@@ -2419,18 +2473,28 @@ http://ivi.bupt.edu.cn/hls/cctv7.m3u8
 http://ivi.bupt.edu.cn/hls/cctv8.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WQtqrj0.png" group-title="(EAST-ASIA)",[CHN] CCTV 9
 http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3kRNUJK.png" group-title="(EAST-ASIA)",[CHN] CCTV 10 - Viettel
+http://36.37.252.114:888/Apple/OneTV-065/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3kRNUJK.png" group-title="(EAST-ASIA)",[CHN] CCTV 10
 http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OytAajN.png" group-title="(EAST-ASIA)",[CHN] CCTV 11 - Viettel
+http://36.37.252.114:888/Apple/OneTV-064/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OytAajN.png" group-title="(EAST-ASIA)",[CHN] CCTV 11
 http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MZJTZvv.png" group-title="(EAST-ASIA)",[CHN] CCTV 12 - Viettel
+http://36.37.252.114:888/Apple/OneTV-066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MZJTZvv.png" group-title="(EAST-ASIA)",[CHN] CCTV 12
 http://ivi.bupt.edu.cn/hls/cctv12.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pZ6opYG.png" group-title="(EAST-ASIA)",[CHN] CCTV 13
 http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nNhVdnY.png" group-title="(EAST-ASIA)",[CHN] CCTV 14
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9ucfeOi.png" group-title="(EAST-ASIA)",[CHN] CCTV 15 - Viettel
+http://36.37.252.114:888/Apple/OneTV-067/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9ucfeOi.png" group-title="(EAST-ASIA)",[CHN] CCTV 15
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hT7i1QZ.png" group-title="(EAST-ASIA)",[CHN] CCTV 17 - Viettel
+http://36.37.252.114:888/Apple/OneTV-079/playlist.m3u8
 
 
 
@@ -2486,6 +2550,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227185/03.m3u8
 http://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ed/Arirang.png" group-title="(EAST-ASIA)",[KOR] Arirang - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227259/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ed/Arirang.png" group-title="(EAST-ASIA)",[KOR] Arirang - Viettel
+http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ed/Arirang.png" group-title="(EAST-ASIA)",[KOR] Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -2778,6 +2844,8 @@ http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 http://nn2.joj.sk/hls/wau-540.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oNsUCXv.png" group-title="(EASTERN-EUROPE)",[CHE] ]Tele M1
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Первый_канал.png" group-title="(EASTERN-EUROPE)",[RUS] Channel 1 - Viettel
+http://36.37.252.114:888/Apple/OneTV-041/playlist.m3u8
 
 
 
@@ -2799,6 +2867,8 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3
 
 
 
+#EXTINF:-1 tvg-logo="https://asia.tv5monde.com/App_Themes/tv5monde/img/TV5MONDEasie-white-logo.png" group-title="(WESTERN-EUROPE)",[FRA] TV5 Monde Asie - Viettel
+http://36.37.252.114:888/Apple/OneTV-052/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" group-title="(WESTERN-EUROPE)",[ITA] History Lab
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
 
