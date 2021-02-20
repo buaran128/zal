@@ -1099,6 +1099,8 @@ http://rtmp.one.by:1300
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/320px-Box_hits.svg.png" group-title="MUSIC",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
@@ -1757,8 +1759,8 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="SPORTS",Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DwSmaZT.png" group-title="SPORTS",AD Sports 1 HD - Official
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DwSmaZT.png" group-title="SPORTS",AD Sports 1 HD - Elahmad
@@ -1773,12 +1775,12 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://imgur.com/UVzdjFk.png" group-title="SPORTS",AD Sports 4 HD - Elahmad
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 tvg-logo="https://www.embratoria.net/uploads/tv_image/ad-sport-5-hd.png" group-title="SPORTS",AD Sports 5 HD - Elahmad
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 tvg-logo="https://www.embratoria.net/uploads/tv_image/ad-sport-6-hd.png" group-title="SPORTS",AD Sports 6 HD - Elahmad
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d2o69uW.png" group-title="SPORTS",Adventure Sports Network - Xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
@@ -1819,6 +1821,8 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_arryadia.png" group-title="SPORTS",Arryadia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-logo="https://st.astr.ru/gallery/5a703e228843b/a06705b.png" group-title="SPORTS",Астрахань.ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" group-title="SPORTS",Astro Supersport - Viettel
 http://36.37.252.114:888/Apple/OneTV-035/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" group-title="SPORTS",Astro Supersport 2 - Viettel
@@ -1891,8 +1895,14 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/eyerhrtjtrjer.png" group-title="SPORTS",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png" group-title="SPORTS",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XlDu8aW.png" group-title="SPORTS",Edge Sport - Xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XlDu8aW.png" group-title="SPORTS",Edge Sport
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 
 
 
@@ -1911,10 +1921,14 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://home.pilsfree.net/chudy/tvx/eurosport_1_hd.png" group-title="SPORTS",Eurosport 1 - MobileTV
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
 
 
 
 
+#EXTINF:-1 tvg-logo="http://home.pilsfree.net/chudy/tvx/eurosport_2_hd.png" group-title="SPORTS",Eurosport 2 - MobileTV
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FDYAPfJ.png" group-title="SPORTS",Fight Box HD - Ucom
 http://ott-cdn.ucom.am/s86/04.m3u8
 
@@ -2044,6 +2058,8 @@ https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="SPORTS",Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 
 
 
@@ -2181,6 +2197,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" group-title="SPORTS",Stadium Sports Network - Xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png" group-title="SPORTS",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
 
 
@@ -2276,6 +2294,8 @@ http://36.37.252.114:888/Apple/OneTV-042/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/eb/Turkmenistan_sport.png" group-title="SPORTS",Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 
