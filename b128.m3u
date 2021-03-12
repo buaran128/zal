@@ -18,7 +18,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227069/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="NATIONAL",Berita Satu - Vidio
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="NATIONAL",Berita Satu - Vidio (2)
-https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=6165
+
+http://3.142.159.208:2703/m3u8/6165.m3u8
 
 
 
