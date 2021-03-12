@@ -126,8 +126,9 @@ http://3.142.159.208:2703/m3u8/874.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/21/20180605101359%21KTV_28UHF.png" group-title="NATIONAL",KTV - Dailymotion
 
-
+http://3.142.159.208:2703/m3u8/dm_KTV_(Indonesia).m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Official
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Vidio
@@ -1196,7 +1197,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 
 
 #EXTINF:-1 tvg-logo="http://batv.gloss.agency/site/wp-content/uploads/2017/06/balogo.png" group-title="MUSIC",BritAsia TV - Dailymotion
-http://3.12.6.247:65535/dm_BritAsia.m3u8
+
+http://3.142.159.208:2703/m3u8/dm_BritAsia.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/byclSRU.png" group-title="MUSIC",Channel [v] - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227133/03.m3u8
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672784-.png" group-title="MUSIC",Citra Dangdut - Vidio
@@ -1412,7 +1414,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227171/03.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zWevCIa.png" group-title="NEWS",Berita RTM - Official
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/240px-BFM_TV_logo.png" group-title="NEWS",BFM TV - Dailymotion
-http://3.12.6.247:65535/dm_BFM_TV.m3u8
+
+http://3.142.159.208:2703/m3u8/dm_BFM_TV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yuB8IDf.png" group-title="NEWS",Bloomberg - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227269/03.m3u8
 
@@ -1559,7 +1562,8 @@ http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1864285285/EUROSTAR_buyuk.png" group-title="NEWS",Euro Star Turkey
 http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="NEWS",Euronews - Dailymotion
-http://3.12.6.247:65535/dm_Euronews.m3u8
+
+http://3.142.159.208:2703/m3u8/dm_Euronews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="NEWS",Euronews - Vidio
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=cdf66a6a7a04d87d865335701790c3e3102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="NEWS",Euronews - Viettel
@@ -1568,7 +1572,8 @@ http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="NEWS",Euronews French - Dailymotion
-http://3.12.6.247:65535/dm_Euronews_French.m3u8
+
+http://3.142.159.208:2703/m3u8/dm_Euronews_French.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="NEWS",Euronews Russian
@@ -2748,7 +2753,8 @@ https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2e6fb9_6d21b4cb51fe478c9a14494aaa406395~mv2.png/v1/crop/x_0,y_2,w_1380,h_296/fill/w_331,h_71,al_c,usm_0.66_1.00_0.01/2e6fb9_6d21b4cb51fe478c9a14494aaa406395~mv2.png" group-title="(EAST-ASIA)",[KOR] SBS+
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Show_Champion_Logo.png" group-title="(EAST-ASIA)",[KOR] Show Champion - Dailymotion
-http://3.12.6.247:65535/dm_Show_Champion_(Korea).m3u8
+
+http://3.142.159.208:2703/m3u8/dm_Show_Champion_(Korea).m3u8
 
 
 
@@ -2765,8 +2771,9 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/YTN_NEW_CI_%28after_2014.04.07%29.png/320px-YTN_NEW_CI_%28after_2014.04.07%29.png" group-title="(EAST-ASIA)",[KOR] YTN DMB
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ytn.co.kr/img/_top/ytnlogo_2018.png" group-title="(EAST-ASIA)",[KOR] YTN News - Dailymotion
 
-
+http://3.142.159.208:2703/m3u8/dm_YTN_News.m3u8
 
 
 
