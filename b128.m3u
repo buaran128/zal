@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="TEST",Test
+http://51.52.156.22:8888/http/001
+
 
 
 
@@ -64,8 +67,9 @@ http://3.142.159.208:2703/m3u8/778.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1045555601042956288/gclEjDLe_400x400.jpg" group-title="NATIONAL",Hi Indo! - Maxstream
 
-
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="NATIONAL",Indosiar - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227345/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="NATIONAL",Indosiar - Vidio
@@ -108,6 +112,8 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF:-1 tvg-logo="https://imgur.com/INS42TC.png" group-title="NATIONAL",JakTV - Vidio (2)
 
 http://3.142.159.208:2703/m3u8/5415.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/INS42TC.png" group-title="NATIONAL",JakTV - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
 
 
 
@@ -119,8 +125,9 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/kompastv.png" group-title="NATIONAL",Kompas TV - Vidio (2)
 
 http://3.142.159.208:2703/m3u8/874.m3u8
+#EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/kompastv.png" group-title="NATIONAL",Kompas TV - Maxstream
 
-
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
 
 
@@ -129,6 +136,8 @@ http://3.142.159.208:2703/m3u8/874.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/21/20180605101359%21KTV_28UHF.png" group-title="NATIONAL",KTV - Dailymotion
 
 http://3.142.159.208:2703/m3u8/dm_KTV_(Indonesia).m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="NATIONAL",Magna TV - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Official
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Vidio
@@ -213,6 +222,8 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="NATIONAL",RTV - Vidio (2)
 
 http://3.142.159.208:2703/m3u8/1561.m3u8
+#EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="NATIONAL",RTV - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 
 
 
@@ -221,8 +232,9 @@ http://3.142.159.208:2703/m3u8/1561.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/ruang-trampil.png" group-title="NATIONAL",Ruang Trampil - Maxstream
 
-
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="NATIONAL",SCTV - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227227/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="NATIONAL",SCTV - Vidio
@@ -239,13 +251,16 @@ http://3.142.159.208:2703/m3u8/204.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png" group-title="NATIONAL",Sea Today - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png" group-title="NATIONAL",Sinema Indonesia - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227233/04.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.theindonesiachannel.com/uploads/news/New_TIC_logo.jpg" group-title="NATIONAL",The Indonesia Channel
 
-
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="NATIONAL",Trans 7 - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227195/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="NATIONAL",Trans 7 - Vidio
@@ -321,10 +336,12 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/TvTempo_%282014%29.png" group-title="NATIONAL",TvT - Indostreamserver
 http://wowza58.indostreamserver.com:1935/tempotv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" group-title="NATIONAL",USee Prime - Maxstream
 
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useephoto_big1.png" group-title="NATIONAL",USee Photo - Maxstream
 
-
-
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="LOCAL",ADiTV - Onlivestreaming
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
@@ -332,6 +349,8 @@ http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="LOCAL",Bali TV - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
 #EXTINF:-1 tvg-logo="http://streaming.bandungtv.tv/wp-content/uploads/2019/10/bandungtvstream.png" group-title="LOCAL",Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zUUYIv1.png" group-title="LOCAL",Batam TV - PC24
@@ -368,6 +387,8 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227243/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pfiT7Kx.png" group-title="LOCAL",JTV - PC24
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pfiT7Kx.png" group-title="LOCAL",JTV - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 
 
 
@@ -383,6 +404,8 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="LOCAL",mytv - Vidio (2)
 
 http://3.142.159.208:2703/m3u8/6711.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="LOCAL",mytv - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd
 
 
 
@@ -463,6 +486,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 
 
+#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title="DOCUMENTARY",B Adventure - Biznet
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 
 
@@ -540,6 +565,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227339/03.m3u8
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dccu/images/c/c0/NASA.png" group-title="DOCUMENTARY",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dccu/images/c/c0/NASA.png" group-title="DOCUMENTARY",NASA TV - Ustream
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="DOCUMENTARY",NAT GEO People - MyRepublic
@@ -592,6 +619,8 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27GGJdJ/w.jpg" group-title="DOCUMENTARY",Wixlar
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 
 
 
@@ -1057,6 +1086,8 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="KIDS",TV Edukasi - Vidio (2)
 
 http://3.142.159.208:2703/m3u8/6838.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="KIDS",TV Edukasi - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
 
 
 
@@ -1082,6 +1113,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227191/03.m3u8
 https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/h3wGqvu.png" group-title="LIFESTYLE",BBC Lifestyle - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227115/03.m3u8
+#EXTINF:-1 tvg-logo="https://api.duniagames.co.id/api/content/upload/file/9357160441590734302.jpg" group-title="LIFESTYLE",Dunia Games TV - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 
 
 
@@ -1186,6 +1219,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.1muz.com/images/LOGORUS.png" group-title="MUSIC",1muz
 http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJJBq2d/30a.png" group-title="MUSIC",30A Music
+https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="MUSIC",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
@@ -1201,6 +1236,8 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 http://3.142.159.208:2703/m3u8/dm_BritAsia.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/byclSRU.png" group-title="MUSIC",Channel [v] - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227133/03.m3u8
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/banner_xhdpi_a_167.jpg" group-title="MUSIC",Channel 4U - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672784-.png" group-title="MUSIC",Citra Dangdut - Vidio
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=2e2c4bf7ceaa4712a72dd5ee136dc9a8102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://zenither.tv/Images/Episodes/3900decf-4d40-46af-a2af-dc2113e0051b__thumbnail.png" group-title="MUSIC",Classic Arts Showcase
@@ -1289,8 +1326,9 @@ http://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 http://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gg2V5Fj.png" group-title="MUSIC",Muzzik World - Official
 http://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/radioenvivo/images/portalfoxmix-radio-logo-gran-tras.png" group-title="MUSIC",Portal Foxmix
 
-
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-37GgWRhLZAU/XCmgEKO7KjI/AAAAAAAAE4Y/AndO6qs2XfYyIkcA05NsbDmyXH3DKA9oACLcBGAs/s1600/Canale%2B51%2BRadio%2BTV%2Bstreaming.png" group-title="MUSIC",Radio 51 TV
@@ -1532,6 +1570,8 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS",DW - Vidio (2)
 
 http://3.142.159.208:2703/m3u8/5075.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS",DW - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b1bbe936-d85f-4f1a-853d-7c5e0fa4f9b9)/manifest.mpd
 
 
 
@@ -1820,6 +1860,8 @@ http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKJqhTN/mtatv.png" group-title="RELIGIOUS",MTA TV - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2ekocy.png" group-title="RELIGIOUS",Peace TV
@@ -1837,6 +1879,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_198x60.png" group-title="RELIGIOUS",Rodja TV - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227225/04.m3u8
+#EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_198x60.png" group-title="RELIGIOUS",Rodja TV - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
 
 
 
@@ -2803,6 +2847,8 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/MirrorNowLogo.jpg" group-title="(SOUTH-ASIA)",[IND] Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925599202s.png" group-title="(SOUTH-ASIA)",[IND] Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pOkpXwi.png" group-title="(SOUTH-ASIA)",[IND] NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
@@ -2841,7 +2887,8 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gvbDPVq/Ariana-TV.jpg" group-title="(MIDDLE-EAST)",[AFG] Ariana
+https://ch.iptvmate.net/e49dc251eae72bb3850adcc34f886cb3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BHIEYX9.png" group-title="(MIDDLE-EAST)",[ARE] Abu Dhabi Drama - Elahmad
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 
@@ -3043,6 +3090,8 @@ https://akaku.vod.castus.tv/live/ch1.m3u8
 https://akaku.vod.castus.tv/live/ch2.m3u8
 #EXTINF:-1 tvg-logo="https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel55-147x150-square.png" group-title="(NORTH-AMERICA)",[USA] Akaku Channel 55
 https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="(NORTH-AMERICA)",[USA] CMC
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
 
 
