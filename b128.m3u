@@ -889,6 +889,8 @@ http://3.142.159.208:2703/m3u8/mkc_Galaxy_Premium.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="ENTERTAINMENT",HBO - FDTV Apps
 http://fdtvapps.xyz/channel/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="ENTERTAINMENT",HBO - HBO GO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="ENTERTAINMENT",HBO - MKC
 http://3.142.159.208:2703/m3u8/mkc_HBO_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="ENTERTAINMENT",HBO - Viettel
@@ -930,6 +932,8 @@ http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/7F6sSAT.png" group-title="ENTERTAINMENT",HBO Signature - HBO GO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7F6sSAT.png" group-title="ENTERTAINMENT",HBO Signature - Viettel
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 
@@ -1002,6 +1006,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/paOpH8R.png" group-title="ENTERTAINMENT",Red by HBO - FDTV Apps
 http://fdtvapps.xyz/channel/red.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/paOpH8R.png" group-title="ENTERTAINMENT",Red by HBO - HBO GO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 
 
@@ -1388,12 +1394,28 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJBq2d/30a.png" group-title="MUSIC",30A Music
 https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jxY0QSw.png" group-title="MUSIC",80's Loop
+https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MFbbITI.jpg" group-title="MUSIC",80's Party
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jxY0QSw.png" group-title="MUSIC",90's Loop
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="MUSIC",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/guHWZwP.jpg" group-title="MUSIC",Activa TV
+https://streamtv.mediasector.es/hls/activatv/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Afrobeats - eCable
 https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pxtr7VO.jpg" group-title="MUSIC",Beast Mode
+https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_plex/dedcdc71-f8ba-4371-9ed9-e5fb2a691485/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lls2GLr.jpg" group-title="MUSIC",Bedroom Beats
+https://eb8029576dd74625b1d49e34afc1febb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_plex/932c2e9d-348a-4633-8a43-5e590398fde7/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I0MxUm2.jpg" group-title="MUSIC",Best Cable Music
+https://live.siete.us:19360/bestcablemusic/bestcablemusic.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wha8zxc.png" group-title="MUSIC",Bluegrass 4U
+https://nimble.dashstreams.net/onestudio/bluegrassmusic4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/320px-Box_hits.svg.png" group-title="MUSIC",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
@@ -1401,6 +1423,12 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 #EXTINF:-1 tvg-logo="http://batv.gloss.agency/site/wp-content/uploads/2017/06/balogo.png" group-title="MUSIC",BritAsia TV - Dailymotion
 
 http://3.142.159.208:2703/m3u8/dm_BritAsia.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTClYwb.jpg" group-title="MUSIC",Canal 38
+https://rtmp.info/canal38/envivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaHPbqd.png" group-title="MUSIC",Carolina TV
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Ngn_IHUGV-E/VoGzyGsSlkI/AAAAAAAAAjc/XTspAPwP2TE/s1600/CMC-Music-Channel.png" group-title="MUSIC",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/byclSRU.png" group-title="MUSIC",Channel [v] - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227133/03.m3u8
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/banner_xhdpi_a_167.jpg" group-title="MUSIC",Channel 4U - Maxstream
@@ -1441,10 +1469,16 @@ http://3.142.159.208:2703/m3u8/mkc_Citra_Dangdut.m3u8
 
 #EXTINF:-1 tvg-logo="https://satsis.info/uploads/posts/2017-09/1505815440_www.satsis.info__eu-music-hd.png" group-title="MUSIC",EU Music - Viettel
 http://36.37.252.114:888/Apple/OneTV-060/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5MLGsFs.png" group-title="MUSIC",Friday Feels
+https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/8d5f1f7f-8546-4892-9eca-988e973d6cc2/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMcSZeW.jpg" group-title="MUSIC",Hip Hop Bangers
+https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/ed8212a6-b4f2-46e7-8386-eab377eb0607/3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzbBDbn.png" group-title="MUSIC",Karaoke Channel - LinkNet
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" group-title="MUSIC",Kool London Radio
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25210/images/bannerx.jpg" group-title="MUSIC",KRAL Pop
@@ -2587,6 +2621,8 @@ http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Stadium_logo_2017.png" group-title="SPORTS",Stadium Sports Network - Official
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Stadium_logo_2017.png" group-title="SPORTS",Stadium Sports Network - Xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png" group-title="SPORTS",Star Sports
