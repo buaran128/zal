@@ -100,8 +100,9 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="NATIONAL",Indosiar - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227345/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="NATIONAL",Indosiar - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=205
-http://3.142.159.208:2703/m3u8/205.m3u8
+
+
+http://gpc.my.id/vidio/indosiar.m3u8
 
 
 
@@ -141,8 +142,9 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/INS42TC.png" group-title="NATIONAL",JakTV - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227237/04.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/INS42TC.png" group-title="NATIONAL",JakTV - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=5415
-http://3.142.159.208:2703/m3u8/5415.m3u8
+
+
+http://gpc.my.id/vidio/jaktv.m3u8
 
 
 
@@ -156,8 +158,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4
 #EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/kompastv.png" group-title="NATIONAL",Kompas TV - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227221/04.m3u8
 #EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/kompastv.png" group-title="NATIONAL",Kompas TV - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=874
-http://3.142.159.208:2703/m3u8/874.m3u8
+
+
+http://gpc.my.id/vidio/kompas-tv.m3u8
 
 
 
@@ -180,8 +183,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Official
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=777
-http://3.142.159.208:2703/m3u8/777.m3u8
+
+
+http://gpc.my.id/vidio/metro-tv.m3u8
+
+
 
 
 
@@ -217,19 +223,25 @@ http://gpc.my.id/vidio/mnc.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="NATIONAL",mytv - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227285/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="NATIONAL",mytv - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=6711
-http://3.142.159.208:2703/m3u8/6711.m3u8
+
+
+http://gpc.my.id/vidio/mytv.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="NATIONAL",mytv - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="NATIONAL",NET. - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227101/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="NATIONAL",NET. - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=875
-http://3.142.159.208:2703/m3u8/875.m3u8
+
+
+http://gpc.my.id/vidio/net-tv.m3u8
 
 
 
@@ -247,8 +259,9 @@ http://3.142.159.208:2703/m3u8/875.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="NATIONAL",Nusantara TV - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7432
-http://3.142.159.208:2703/m3u8/7432.m3u8
+
+
+http://gpc.my.id/vidio/nusantara-tv.m3u8
 
 
 
@@ -256,8 +269,9 @@ http://3.142.159.208:2703/m3u8/7432.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/320px-Ochannel.png" group-title="NATIONAL",O Channel - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227235/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/320px-Ochannel.png" group-title="NATIONAL",O Channel - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=206
-http://3.142.159.208:2703/m3u8/206.m3u8
+
+
+http://gpc.my.id/vidio/ochannel.m3u8
 
 
 
@@ -284,8 +298,9 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="NATIONAL",RTV - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227223/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="NATIONAL",RTV - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=1561
-http://3.142.159.208:2703/m3u8/1561.m3u8
+
+
+http://gpc.my.id/vidio/rtv.m3u8
 
 
 
@@ -308,8 +323,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="NATIONAL",SCTV - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227227/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="NATIONAL",SCTV - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=204
-http://3.142.159.208:2703/m3u8/204.m3u8
+
+
+http://gpc.my.id/vidio/sctv.m3u8
 
 
 
@@ -338,8 +354,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="NATIONAL",Trans 7 - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227195/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="NATIONAL",Trans 7 - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=734
-http://3.142.159.208:2703/m3u8/734.m3u8
+
+
+http://gpc.my.id/vidio/trans7.m3u8
 
 
 
@@ -355,8 +372,9 @@ http://3.142.159.208:2703/m3u8/734.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/320px-Trans_TV_2013.svg.png" group-title="NATIONAL",Trans TV - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227197/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/320px-Trans_TV_2013.svg.png" group-title="NATIONAL",Trans TV - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=733
-http://3.142.159.208:2703/m3u8/733.m3u8
+
+
+http://gpc.my.id/vidio/trans-tv.m3u8
 
 
 
@@ -385,8 +403,9 @@ http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="NATIONAL",TVRI - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227229/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="NATIONAL",TVRI - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=6441
-http://3.142.159.208:2703/m3u8/6441.m3u8
+
+
+http://gpc.my.id/vidio/tvri.m3u8
 
 
 
@@ -1303,8 +1322,9 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w69
 
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="KIDS",TV Edukasi - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=6838
-http://3.142.159.208:2703/m3u8/6838.m3u8
+
+
+http://gpc.my.id/vidio/tv-edukasi.m3u8
 
 
 
@@ -1412,7 +1432,8 @@ https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/ccddaf02_1_640/chun
 
 #EXTINF:-1 tvg-logo="https://www.oshop.co.id/static/version1583104457/frontend/Oshop/default/id_ID/images/logo-oshop.png" group-title="LIFESTYLE",O Shop - Vidio
 
-http://3.142.159.208:2703/m3u8/6166.m3u8
+
+http://gpc.my.id/vidio/oshop.m3u8
 
 
 
@@ -1848,8 +1869,9 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS",DW - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227181/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS",DW - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=5075
-http://3.142.159.208:2703/m3u8/5075.m3u8
+
+
+http://gpc.my.id/vidio/dw-english.m3u8
 
 
 
@@ -2072,8 +2094,9 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/AHSAN-TV-Logo-1-1.png" group-title="RELIGIOUS",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dMEGEYjDrxo/X5iVsneE3kI/AAAAAAAAqMM/WNteVon_VOcAESdwt-NhzIUIY5Gs80ZMwCLcBGAsYHQ/s0/ajwa-tv-channel-logo.png" group-title="RELIGIOUS",Ajwa TV - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7265
-http://3.142.159.208:2703/m3u8/7265.m3u8
+
+
+http://gpc.my.id/vidio/ajwa-tv.m3u8
 
 
 
@@ -2091,8 +2114,9 @@ http://103.47.132.164/PLTV/88888888/224/3221227327/04.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGIOUS",Al Quran Al Kareem TV - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=6852
-http://3.142.159.208:2703/m3u8/6852.m3u8
+
+
+http://gpc.my.id/vidio/al-quran-al-kareem-tv.m3u8
 
 
 
@@ -2120,8 +2144,9 @@ http://3.142.159.208:2703/m3u8/6958.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnrG4zA.png" group-title="RELIGIOUS",DAAI TV - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227241/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnrG4zA.png" group-title="RELIGIOUS",DAAI TV - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=6482
-http://3.142.159.208:2703/m3u8/6482.m3u8
+
+
+http://gpc.my.id/vidio/citra-muslim.m3u8
 
 
 
@@ -2161,8 +2186,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 #EXTINF:-1 tvg-logo="https://imgur.com/P2ekocy.png" group-title="RELIGIOUS",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-logo="https://reformed21.tv/images/logo.png" group-title="RELIGIOUS",Reformed21 - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=6853
-http://3.142.159.208:2703/m3u8/6853.m3u8
+
+
+http://gpc.my.id/vidio/reformed-21-tv.m3u8
 
 
 
@@ -2205,8 +2231,9 @@ rtmp://118.97.183.222/discover/muhammadiyahtv
 #EXTINF:-1 tvg-logo="http://u-channel.tv/wp-content/uploads/2017/08/Logo.png" group-title="RELIGIOUS",U Channel - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227287/04.m3u8
 #EXTINF:-1 tvg-logo="http://u-channel.tv/wp-content/uploads/2017/08/Logo.png" group-title="RELIGIOUS",U Channel - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=6898
-http://3.142.159.208:2703/m3u8/6898.m3u8
+
+
+http://gpc.my.id/vidio/u-channel-tv.m3u8
 
 
 
@@ -3938,7 +3965,8 @@ https://www.googleapis.com/drive/v3/files/13YSPMp_KEUa7iecQ0FmxVOlKC9LoB-z4?alt=
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/FSRRuSZqUfxjga5I8S1_kisObU0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7091/bahana-fm-a72d38.jpg" group-title="RADIO",Bahana FM Jakarta - Vidio
 
-http://3.142.159.208:2703/m3u8/7091.m3u8
+
+https://gpc.my.id/radio/bahana-fm.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YBRzjHB0WdpbFqML5KeaGwS87aI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7054/brava-audio-98ab26.jpg" group-title="RADIO",Brava FM Jakarta - Vidio
