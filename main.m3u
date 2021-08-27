@@ -4010,7 +4010,8 @@ https://gpc.my.id/radio/hard-rock-fm.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lZIGWxKxvVvtO9sYbMzb6xT-LKM=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7448/hot-fm-778737.jpg" group-title="RADIO",Hot FM Jakarta - Vidio
 
-http://3.142.159.208:2703/m3u8/7448.m3u8
+
+https://gpc.my.id/radio/hot-fm.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/57jrOGpbmYOdNY7aHVqGd2qPITA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7057/iradio-fm-5ae133.jpg" group-title="RADIO",i-Radio FM Jakarta - Vidio
 
 http://3.142.159.208:2703/m3u8/7057.m3u8
@@ -4045,17 +4046,18 @@ https://gpc.my.id/radio/trax-fm.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-DW-EKtf6E70OM9f7YyXM6_6NFE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7184/ardan-radio-db4b07.jpg" group-title="RADIO",Ardan FM Bandung - Vidio
-
-
-https://gpc.my.id/radio/ardan-radio.m3u8
+#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7184
+http://3.142.159.208:2703/m3u8/7184.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2uKZMyskjeaNVXn7bVfC35pfOGw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="RADIO",Cakra FM Bandung - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7297
-http://3.142.159.208:2703/m3u8/7297.m3u8
+
+
+https://gpc.my.id/radio/radio-cakra.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lwTyMxVS5rZJEx8enJ-AIGtfgtc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="RADIO",Dahlia FM Bandung - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7242
-http://3.142.159.208:2703/m3u8/7342.m3u8
+
+
+https://gpc.my.id/radio/dahlia-fm.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6oKgnw867mne27GzUUtVtT0N2UQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7188/mgtradio-3f010f.jpg" group-title="RADIO",MGT FM Bandung - Vidio
@@ -4064,8 +4066,9 @@ http://3.142.159.208:2703/m3u8/7188.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/i71qsJ-rpNRzvRVHi4FiAl9lqqw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7169/test-elgangga-241624.jpg" group-title="RADIO",Elgangga FM Bekasi - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7169
-http://3.142.159.208:2703/m3u8/6165.m3u8
+
+
+https://gpc.my.id/radio/elgangga.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BlQVi3IuDa3cNIcBUlsQpkmosFU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7170/test-elmitra-284cd6.jpg" group-title="RADIO",Elmitra FM Sukabumi - Vidio
@@ -4074,33 +4077,41 @@ http://3.142.159.208:2703/m3u8/7170.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TUUw9FmfGOyhAVomlu68R7nAhRA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7216/test-geronimo-428e77.jpg" group-title="RADIO",Geronimo FM Jogja - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7216
-http://3.142.159.208:2703/m3u8/7216.m3u8
+
+
+https://gpc.my.id/radio/geronimo.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sRxNoord2ta_n9tBIqjiNRIj7dY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7792/jiz-fm-ded2a5.jpg" group-title="RADIO",Jiz FM Jogja - Vidio
+https://gpc.my.id/radio/jiz-fm.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/j5Z0S8S-qTr50wyzwpQOncE6jsc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7248/swaragama-fm-jogja-69421e.jpg" group-title="RADIO",Swaragama FM Jogja! - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7248
-http://3.142.159.208:2703/m3u8/7248.m3u8
+
+
+https://gpc.my.id/radio/swaragama-fm-jogja.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/JEAFdxncphI9NZIpRaIMCJsp0l8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7281/imelda-fm-62c9f4.jpg" group-title="RADIO",Imelda FM Semarang - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7281
-http://3.142.159.208:2703/m3u8/7281.m3u8
+
+
+https://gpc.my.id/radio/imelda-fm.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0QlHgn8G8mWV_BtoVTFguAsdq4o=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7284/gajahmada-b307da.jpg" group-title="RADIO",Gajahmada FM Semarang - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7284
-http://3.142.159.208:2703/m3u8/7284.m3u8
+
+
+https://gpc.my.id/radio/gajahmada.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/u_TFz7CXswyM5PaK7NXzLCKrMS0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7283/swara-semarang-579dc0.jpg" group-title="RADIO",Swara Semarang - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7283
-http://3.142.159.208:2703/m3u8/7283.m3u8
+
+
+https://gpc.my.id/radio/swara-semarang.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/f2Pa-D6gh_VtYtE1o9XNkFmDl_w=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7446/gen-fm-surabaya-1cafa7.jpg" group-title="RADIO",Gen FM Surabaya - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7446
-http://3.142.159.208:2703/m3u8/7446.m3u8
+
+
+https://gpc.my.id/radio/gen-fm-surabaya.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/18lCPF0r-GxnzqMssQk3QYfZbec=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7218/sushi-radio-1e2940.jpg" group-title="RADIO",Sushi FM Padang - Vidio
 #https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7218
 http://3.142.159.208:2703/m3u8/7218.m3u8
