@@ -339,6 +339,8 @@ http://gpc.my.id/vidio/sctv.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png" group-title="NATIONAL",Sea Today - Vidio
+https://gpc.my.id/vidio/sea-today.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png" group-title="NATIONAL",Sea Today - Maxstream
@@ -668,6 +670,8 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="DOCUMENTARY",Love Nature 4k - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227339/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="DOCUMENTARY",Love Nature 4k - Vidio
+https://gpc.my.id/vidio/love-nature.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dccu/images/c/c0/NASA.png" group-title="DOCUMENTARY",NASA TV
@@ -722,6 +726,8 @@ http://36.37.252.114:888/Apple/OneTV-101/playlist.m3u8
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MEhO5t.png" group-title="DOCUMENTARY",Smithsonian Channel - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227321/04.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7MEhO5t.png" group-title="DOCUMENTARY",Smithsonian Channel - Vidio
+https://gpc.my.id/vidio/smithsonian.m3u8
 
 
 
@@ -925,6 +931,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227119/03.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="ENTERTAINMENT",Fox Movies - True Visions
 
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="ENTERTAINMENT",Fox Movies - MNC
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 
 
 
@@ -1119,6 +1127,8 @@ https://bozztv.com/36bay2/gin/giniko_top10_2000kb_36bay2/index.m3u8
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/Zee_Bioskop.png" group-title="ENTERTAINMENT",Zee Bioskop - Vidio
+https://gpc.my.id/vidio/zee-bioskop.m3u8
 
 
 
@@ -1211,6 +1221,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227353/03.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=davinci&bandwidth=default&sync=0
 
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dreamlogos/images/5/5d/Da_Vinci.png" group-title="KIDS",Da Vinci - Vidio
+https://gpc.my.id/vidio/da-vinci.m3u8
 
 
 
@@ -1271,8 +1283,12 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/OihU8SeOq8e6H8g-AlDtoRokhJY=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-f5d7ab.jpg" group-title="KIDS",Hip Hip Horee! - Vidio
+https://gpc.my.id/vidio/hip-hip-horee.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png" group-title="KIDS",Horee! - Vidio
+https://gpc.my.id/vidio/horee.m3u8
 
 
 
@@ -1337,6 +1353,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4
 
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="KIDS",ZooMoo - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227323/03.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="KIDS",ZooMoo - Vidio
+https://gpc.my.id/vidio/zoomoo.m3u8
 
 
 
@@ -1512,6 +1530,8 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream
 http://103.47.132.164/PLTV/88888888/224/3221227133/03.m3u8
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/banner_xhdpi_a_167.jpg" group-title="MUSIC",Channel 4U - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672784-.png" group-title="MUSIC",Citra Dangdut - Vidio
+https://gpc.my.id/vidio/citra-dangdut.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672784-.png" group-title="MUSIC",Citra Dangdut - UseeTV
@@ -1593,6 +1613,8 @@ http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/85l31mU.png" group-title="MUSIC",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ulsQWVw0_57XBtqbVw3K959Y1Ik=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="MUSIC",Musica
+https://gpc.my.id/vidio/musica.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gg2V5Fj.png" group-title="MUSIC",Muzzik - Official
 http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gg2V5Fj.png" group-title="MUSIC",Muzzik Club - Official
@@ -2137,8 +2159,9 @@ http://m.live.net.sa:1935/live/ayat/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-jRs5Ue8yxak/XYS2X1QfLtI/AAAAAAAAoi8/zuIgaW7B41QHrbR5vhKQcBA0pVXZbZGlwCLcBGAsYHQ/s1600/citra-muslim-tv-channel-logo.png" group-title="RELIGIOUS",Citra Muslim - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=6958
-http://3.142.159.208:2703/m3u8/6958.m3u8
+
+
+http://gpc.my.id/vidio/citra-muslim.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnrG4zA.png" group-title="RELIGIOUS",DAAI TV - MyRepublic
@@ -2146,7 +2169,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227241/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnrG4zA.png" group-title="RELIGIOUS",DAAI TV - Vidio
 
 
-http://gpc.my.id/vidio/citra-muslim.m3u8
+http://gpc.my.id/vidio/daai-tv.m3u8
 
 
 
@@ -3353,6 +3376,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zinguk/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/smileusa/tracks-v1a1/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png" group-title="(SOUTH-ASIA)",[IND] Zing - Vidio
+https://gpc.my.id/vidio/zing.m3u8
 
 
 
@@ -4065,15 +4090,17 @@ https://gpc.my.id/radio/dahlia-fm.m3u8
 http://3.142.159.208:2703/m3u8/7188.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/b9YvrEUG-WpUygCrKvlXNpNbSG0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7685/paramuda-fm-5a8478.jpg" group-title="RADIO",Paramuda FM Bandung - Vidio
+https://gpc.my.id/radio/paramuda-fm.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/i71qsJ-rpNRzvRVHi4FiAl9lqqw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7169/test-elgangga-241624.jpg" group-title="RADIO",Elgangga FM Bekasi - Vidio
 
 
 https://gpc.my.id/radio/elgangga.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BlQVi3IuDa3cNIcBUlsQpkmosFU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7170/test-elmitra-284cd6.jpg" group-title="RADIO",Elmitra FM Sukabumi - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7170
-http://3.142.159.208:2703/m3u8/7170.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TUUw9FmfGOyhAVomlu68R7nAhRA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7216/test-geronimo-428e77.jpg" group-title="RADIO",Geronimo FM Jogja - Vidio
