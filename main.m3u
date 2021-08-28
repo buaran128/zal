@@ -845,10 +845,10 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ENTERTAINMENT",Cinemax - Hetzner
-http://136.243.177.164/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ENTERTAINMENT",Cinemax
-http://bos.00387.info:8080/Cinemax1/tracks-v1a1/mono.m3u8?token=test
+
+
+
+
 
 
 
