@@ -207,6 +207,8 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 
 
 http://gpc.my.id/vidio/metro-tv.m3u8
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Vision+
+https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/index.m3u8
 
 
 
@@ -806,6 +808,8 @@ http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iJmj6zC.png" group-title="DOCUMENTARY",Power Nation
+https://rtmtv-powernation-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="DOCUMENTARY",RT Doc
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7MEhO5t.png" group-title="DOCUMENTARY",Smithsonian Channel - MyRepublic
@@ -965,6 +969,8 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/2maAoNB.png" group-title="ENTERTAINMENT",Electric Now - Xumo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
 
 
 
@@ -1294,6 +1300,8 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="KIDS",Battery Pop - Xumo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 
 
 
@@ -1407,6 +1415,12 @@ https://gpc.my.id/vidio/horee.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NOX2zse.png" group-title="KIDS",Ketchup TV
+https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/633357710969303040/ZKJg46ZY.jpg" group-title="KIDS",Kid Genius - Xumo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukidgenius/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://prodcdn.kidoodle.tv/kidoodle-2019-update/images/full-logo-no-space.png" group-title="KIDS",Kidoodle TV
+http://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8
 
 
 
@@ -1473,6 +1487,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 http://103.47.132.164/PLTV/88888888/224/3221227323/03.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="KIDS",ZooMoo - Vidio
 https://gpc.my.id/vidio/zoomoo.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="KIDS",ZooMoo
+https://rockentertainment-zoomoo-1.roku.wurl.com/manifest/playlist.m3u8
 
 
 
@@ -1564,6 +1580,8 @@ https://html5-lh.akamaihd.net/i/html5_01@182967/index_600_av-p.m3u8?sd=10&rebase
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vafloc01.s3.amazonaws.com/WBStatic/site1102981/dist/img/logo-white.png" group-title="LIFESTYLE",Jewelry TV
 https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/ccddaf02_1_640/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/LivelyPlace_476x476.png" group-title="LIFESTYLE",Lively Place
+http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 
 
 
@@ -2291,8 +2309,8 @@ http://gpc.my.id/vidio/al-quran-al-kareem-tv.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-ashiil-1-300x123.png" group-title="RELIGIOUS",Ashiil TV
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
 
 
 
@@ -2337,6 +2355,8 @@ http://iamchannel.org:1935/tes/1/playlist.m3u8
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2020/02/81386505_2570208723100223_2341585035561271296_o.png" group-title="RELIGIOUS",Izzah TV
+https://streaming.sigraduta.co.id/izzahtv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="RELIGIOUS",Makkah TV
@@ -2345,6 +2365,8 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/muadztv.png" group-title="RELIGIOUS",Muadz TV - Indostreamer
+http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2ekocy.png" group-title="RELIGIOUS",Peace TV
