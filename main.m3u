@@ -41,10 +41,10 @@ http://gpc.my.id/vidio/beritasatu.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="NATIONAL",Bioskop Indonesia - UseeTV
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="NATIONAL",Bioskop Indonesia - UseeTV (2)
 
 http://topwin-tv.my.id/2/chunklist.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="NATIONAL",Bioskop Indonesia - UseeTV (2)
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png" group-title="NATIONAL",Citra Bioskop - Vidio
 http://gpc.my.id/vidio/citra-bioskop.m3u8
 
@@ -55,8 +55,9 @@ http://gpc.my.id/vidio/citra-bioskop.m3u8
 http://gpc.my.id/vidio/citra-drama.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OwTTtRqsl-g/XYSjJWsMKpI/AAAAAAAAoik/ZAF_xHk4frovlEifMUxRi_V-Pj6bIFV-ACLcBGAsYHQ/s1600/citra-dramat-plus-channel-logo.png" group-title="NATIONAL",Citra Drama - UseeTV
 
-
+http://topwin-tv.my.id/2/chunklist.m3u8?id=cdrama&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/MEIUq0A9l5R7QgR1ZvxQ6xhEfpU=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="NATIONAL",Citra Entertainment - Vidio
 
 
@@ -71,7 +72,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1445826789_b
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/240px-CNN_Indonesia.svg.png" group-title="NATIONAL",CNN Indonesia - UseeTV
 
-#https://pass.my.id/cnnindonesia.m3u8?token=3395904563656553683
+
+http://topwin-tv.my.id/2/chunklist.m3u8?id=cnnindonesia&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fT3grLq6/DIGDAYA-TV.png" group-title="NATIONAL",Digdaya TV
 https://ms.digdaya.tv/live/digdayatv/playlist.m3u8
 
@@ -82,6 +84,8 @@ https://ms.digdaya.tv/live/digdayatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_flik_small1.png" group-title="NATIONAL",Flik - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=flik&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_flik_small1.png" group-title="NATIONAL",Flik - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/320px-GTV_logo_%282017%29.png" group-title="NATIONAL",GTV - Vidio
@@ -108,10 +112,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_imc_small.png" group-title="NATIONAL",IMC - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=imc&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_imc_small.png" group-title="NATIONAL",IMC - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_imc_small.png" group-title="NATIONAL",IMC - UseeTV (2)
-http://topwin-tv.my.id/2/chunklist.m3u8?id=imc&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="NATIONAL",Indosiar - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227345/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="NATIONAL",Indosiar - Vidio
@@ -141,9 +145,9 @@ https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/index.m3u
 http://gpc.my.id/vidio/inews.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://ssr.rctiplus.com/assets/image/elements/logo-inews.png" group-title="NATIONAL",iNews TV - UseeTV
 
-#https://pass.my.id/inews.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://ssr.rctiplus.com/assets/image/elements/logo-inews.png" group-title="NATIONAL",iNews TV - RCTIplus
@@ -165,8 +169,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227237/04.m3u8
 
 
 http://gpc.my.id/vidio/jaktv.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/INS42TC.png" group-title="NATIONAL",JakTV - UseeTV
-#https://pass.my.id/jaktv.m3u8?token=3395904563656553683
+
+
 
 
 
@@ -183,8 +187,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227221/04.m3u8
 
 
 http://gpc.my.id/vidio/kompas-tv.m3u8
-#EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/kompastv.png" group-title="NATIONAL",Kompas TV - UseeTV
-#https://pass.my.id/kompastv.m3u8?token=3395904563656553683
+
+
 
 
 
@@ -399,8 +403,9 @@ http://103.47.132.164/PLTV/88888888/224/3221227195/04.m3u8
 http://gpc.my.id/vidio/trans7.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="NATIONAL",Trans 7 - UseeTV
 
-
+http://topwin-tv.my.id/2/chunklist.m3u8?id=trans7&bandwidth=default&sync=0
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="NATIONAL",Trans 7 - Detik.com
@@ -739,10 +744,10 @@ http://103.47.132.164/PLTV/88888888/224/3221227035/04.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m8rlDGX.png" group-title="DOCUMENTARY",History - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227335/03.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/m8rlDGX.png" group-title="DOCUMENTARY",History - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=history&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://imgur.com/m8rlDGX.png" group-title="DOCUMENTARY",History - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://imgur.com/m8rlDGX.png" group-title="DOCUMENTARY",History - UseeTV (2)
-http://topwin-tv.my.id/2/chunklist.m3u8?id=history&bandwidth=default&sync=0
 
 
 
@@ -777,6 +782,8 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="DOCUMENTARY",NAT GEO People - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227127/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="DOCUMENTARY",NAT GEO People - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=natgeopeople&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="DOCUMENTARY",NAT GEO People - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
 
@@ -790,6 +797,8 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY",NAT GEO Wild - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227157/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY",NAT GEO Wild - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=natgeowild&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY",NAT GEO Wild - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
 
@@ -802,8 +811,9 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=
 http://103.47.132.164/PLTV/88888888/224/3221227177/03.m3u8
 #EXTINF:-1 tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="DOCUMENTARY",National Geographic
 http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="DOCUMENTARY",National Geographic - UseeTV
 
-
+http://topwin-tv.my.id/2/chunklist.m3u8?id=natgeo&bandwidth=default&sync=0
 
 
 
@@ -868,10 +878,11 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYDEkwE.png" group-title="ENTERTAINMENT",AXN - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227159/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYDEkwE.png" group-title="ENTERTAINMENT",AXN - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=axn&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYDEkwE.png" group-title="ENTERTAINMENT",AXN - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fYDEkwE.png" group-title="ENTERTAINMENT",AXN - UseeTV (2)
-#https://pass.my.id/axn.m3u8?token=3395904563656553683
+
 
 
 
@@ -902,6 +913,8 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueant&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chLWFqA.png" group-title="ENTERTAINMENT",Blue Ant Extreme - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227319/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chLWFqA.png" group-title="ENTERTAINMENT",Blue Ant Extreme - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=blueantextreme&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chLWFqA.png" group-title="ENTERTAINMENT",Blue Ant Extreme - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=blueantextreme&bandwidth=default&sync=0
 
@@ -928,6 +941,8 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="ENTERTAINMENT",Celestial Movies
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="ENTERTAINMENT",Celestial Movies - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=celestialmovie&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="ENTERTAINMENT",Celestial Movies - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=celestialmovie&bandwidth=default&sync=0
 
@@ -1056,9 +1071,13 @@ https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_galaxy_small1.png" group-title="ENTERTAINMENT",Galaxy - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=galaxy&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_galaxy_small1.png" group-title="ENTERTAINMENT",Galaxy - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_galaxypremium_small.png" group-title="ENTERTAINMENT",Galaxy Premium - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=galaxypremium&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_galaxypremium_small.png" group-title="ENTERTAINMENT",Galaxy Premium - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/providers/provider/2186/300x300.png?type=color_onBlack" group-title="ENTERTAINMENT",Hallmark Movies and More - Xumo
@@ -1118,6 +1137,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/7F6sSAT.png" group-title="ENTERTAINMENT",HBO Signature - HBO GO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7F6sSAT.png" group-title="ENTERTAINMENT",HBO Signature
+http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 
 
 
@@ -1301,10 +1322,10 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",Animax - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227145/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",Animax - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=animax&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",Animax - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=animax&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",Animax - UseeTV (2)
-http://topwin-tv.my.id/2/chunklist.m3u8?id=animax&bandwidth=default&sync=0
 
 
 
@@ -1326,6 +1347,8 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 
 #EXTINF:-1 logo="https://www.liveabout.com/thmb/7SiGVptV1daM4Gwlu8DQDtWT-SU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Babyfirst-logo-579d69815f9b589aa9ac47ca.png" group-title="KIDS",Baby First - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=babyfirst&bandwidth=default&sync=0
+#EXTINF:-1 logo="https://www.liveabout.com/thmb/7SiGVptV1daM4Gwlu8DQDtWT-SU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/Babyfirst-logo-579d69815f9b589aa9ac47ca.png" group-title="KIDS",Baby First - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
 
@@ -1342,14 +1365,16 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u
 
 http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS",Boomerang - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=boomerang&bandwidth=default&sync=0
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS",Boomerang - UseeTV (2)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png" group-title="KIDS",Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 #EXTINF:-1 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="KIDS",Cartoon Network - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="KIDS",Cartoon Network - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="KIDS",Cartoon Network - UseeTV (2)
-http://topwin-tv.my.id/2/chunklist.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
 
 
 
@@ -1362,6 +1387,8 @@ http://topwin-tv.my.id/2/chunklist.m3u8?id=cartoonnetwork&bandwidth=default&sync
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/320px-CBeebies.svg.png" group-title="KIDS",CBeebies - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227353/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/320px-CBeebies.svg.png" group-title="KIDS",CBeebies
+http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 
 
 
@@ -1410,6 +1437,8 @@ https://pass.my.id/ducktv.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_duniaanak_big1.png" group-title="KIDS",Dunia Anak - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=duniaanak&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_duniaanak_big1.png" group-title="KIDS",Dunia Anak - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=duniaanak&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="KIDS",EBS Kids
@@ -1475,18 +1504,21 @@ http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="KIDS",Nick
 
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="KIDS",Nick - UseeTV
 
-
-
+http://topwin-tv.my.id/2/chunklist.m3u8?id=nickelodeon&bandwidth=default&sync=0
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nick_Jr.logo.png/320px-Nick_Jr.logo.png" group-title="KIDS",Nick jr
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nick_Jr.logo.png/320px-Nick_Jr.logo.png" group-title="KIDS",Nick jr - UseeTV
 
-
+http://topwin-tv.my.id/2/chunklist.m3u8?id=nickjr&bandwidth=default&sync=0
 
 
 
@@ -1554,6 +1586,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227191/03.m3u8
 https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/h3wGqvu.png" group-title="LIFESTYLE",BBC Lifestyle - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227115/03.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/h3wGqvu.png" group-title="LIFESTYLE",BBC Lifestyle
+http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://api.duniagames.co.id/api/content/upload/file/9357160441590734302.jpg" group-title="LIFESTYLE",Dunia Games TV - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 
@@ -1673,6 +1707,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227113/03.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/n9odCZB.png" group-title="LIFESTYLE",TVSN
 http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_wakuwaku_small.png" group-title="LIFESTYLE",Waku Waku Japan - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=wakuwaku&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_wakuwaku_small.png" group-title="LIFESTYLE",Waku Waku Japan - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0
 
@@ -1730,6 +1766,8 @@ https://gpc.my.id/vidio/citra-dangdut.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672784-.png" group-title="MUSIC",Citra Dangdut - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=citradangdut&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672784-.png" group-title="MUSIC",Citra Dangdut - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=citradangdut&bandwidth=default&sync=0
 
@@ -1914,8 +1952,9 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227267/04.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/43/AlJazeera.png" group-title="NEWS",AlJazeera - UseeTV
 
-
+http://topwin-tv.my.id/2/chunklist.m3u8?id=aljazeera&bandwidth=default&sync=0
 
 
 
@@ -2583,11 +2622,15 @@ http://91.126.138.141:1935/live/barza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/320px-Logo_bein_sports_1.png" group-title="SPORTS",beIN Sports 1 (France)
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/320px-Logo_bein_sports_1.png" group-title="SPORTS",beIN Sports 1 - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=bein1&bandwidth=default&sync=0
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/320px-Logo_bein_sports_1.png" group-title="SPORTS",beIN Sports 1 - UseeTV (2)
 http://dituduhmaling.xyz/US33T4/MPD/chunklist.m3u8?id=bein1&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/320px-Logo_bein_sports_2.png" group-title="SPORTS",beIN Sports 2 (France)
 http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/320px-Logo_bein_sports_2.png" group-title="SPORTS",beIN Sports 2 - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=bein2&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/320px-Logo_bein_sports_2.png" group-title="SPORTS",beIN Sports 2 - UseeTV (2)
 
 http://dituduhmaling.xyz/US33T4/MPD/chunklist.m3u8?id=bein2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/320px-Logo_bein_sports_3.png" group-title="SPORTS",beIN Sports 3 (France)
@@ -2780,6 +2823,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227125/03.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2LYQ2fb.png" group-title="SPORTS",Fox Sports 1 - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport1&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://imgur.com/2LYQ2fb.png" group-title="SPORTS",Fox Sports 1 - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
 
@@ -2789,6 +2834,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227175/03.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Qh05c96.png" group-title="SPORTS",Fox Sports 2 - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport2&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://imgur.com/Qh05c96.png" group-title="SPORTS",Fox Sports 2 - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 
@@ -2803,6 +2850,8 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="SPORTS",Fox Sports 3 - MyRepublic
 http://103.47.132.164/PLTV/88888888/224/3221227219/03.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="SPORTS",Fox Sports 3 - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=foxsport3&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png" group-title="SPORTS",Fox Sports 3 - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 
@@ -2820,8 +2869,9 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png" group-title="SPORTS",Golf Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3a/Golf_Channel_2008.png" group-title="SPORTS",Golf Channel - UseeTV
 
-
+http://topwin-tv.my.id/2/chunklist.m3u8?id=golfplus&bandwidth=default&sync=0
 
 
 
@@ -3191,9 +3241,13 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesport_small.png" group-title="SPORTS",Usee Sports - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesport_small.png" group-title="SPORTS",Usee Sports - UseeTV (2)
 
 http://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=b894100&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesports2_small.png" group-title="SPORTS",Usee Sports 2 - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=useesports2&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesports2_small.png" group-title="SPORTS",Usee Sports 2 - UseeTV (2)
 
 http://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=b894100&sync=0
 
@@ -3334,65 +3388,65 @@ http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/03/Channel-3-Thailand-1.png" group-title="(ASEAN)",[THA] Channel 3 - True Visions
-
-https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Channel_7_Thailand_3D.png" group-title="(ASEAN)",[THA] Channel 7 - True Visions
-
-https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/LLgdMJF.png" group-title="(ASEAN)",[THA] MCOT 30 - True Visions
-
-https://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mediaplex.co.th/images/logo/mungkorn.png" group-title="(ASEAN)",[THA] Mungkorn - True Visions
-https://www.livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nation_TV_Logo.svg/182px-Nation_TV_Logo.svg.png" group-title="(ASEAN)",[THA] Nation TV - True Visions
-
-https://www.livedoomovies.com/02_NATION_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fWF04X4.png" group-title="(ASEAN)",[THA] NBT 2 - True Visions
-
-#EXTINF:-1 tvg-logo="https://imgur.com/ZLllsZK.png" group-title="(ASEAN)",[THA] New 18 - True Visions
-
-https://www.livedoomovies.com/02_NEW_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_tv5.png" group-title="(ASEAN)",[THA] NNV 5 - True Visions
-
-https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/QPfMXSP.png" group-title="(ASEAN)",[THA] PPTV 36 - True Visions
-
-https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.tsportschannel.com/Images/logo-t-sport.png" group-title="(ASEAN)",[THA] - T Sports - True Visions
-https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Thai_PBS_logo.png" group-title="(ASEAN)",[THA] - Thai PBS - True Visions
-
-https://www.livedoomovies.com/02_THAIPBS_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/I1OdFXR.png" group-title="(ASEAN)",[THA] Thairath TV 32 - True Visions
 
-https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cegeJE8.png" group-title="(ASEAN)",[THA] True ThaiFilm - True Visions
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/5/52/True4U_24.png/500px-True4U_24.png" group-title="(ASEAN)",[THA] True4U - True Visions
 
-https://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wzwpfqd.png" group-title="(ASEAN)",[THA] Workpoint - True Visions
 
-https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RJjIjt7.png" group-title="(EAST-ASIA)",[CHN] CCTV.
 http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
@@ -3482,6 +3536,8 @@ http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/FTV_Show_Group.png" group-title="(EAST-ASIA)",[CHN] Formosa TV - UseeTV
+http://topwin-tv.my.id/2/chunklist.m3u8?id=formosa&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="http://www.hkopentv.com/info/images/opentv_logo.png" group-title="(EAST-ASIA)",[CHN] Hongkong Open TV
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
