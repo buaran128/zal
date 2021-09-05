@@ -818,6 +818,8 @@ http://topwin-tv.my.id/2/chunklist.m3u8?id=natgeowild&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY",NAT GEO Wild - WatchIndia
 http://watchindia.net:8880/live/33253/72963/2047.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY",NAT GEO Wild
+http://tvflix03.ddns.net/nat_geo_Wild-Sim/video.m3u8
 
 
 
@@ -896,12 +898,17 @@ http://watchindia.net:8880/live/33253/72963/2044.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XXybgDD.png" group-title="ENTERTAINMENT",AMC - WatchIndia
 http://watchindia.net:8880/live/33253/72963/2043.ts
-#EXTINF:-1 tvg-logo="https://imgur.com/Cggdc40.png" group-title="ENTERTAINMENT",And Flix - WatchIndia
+#EXTINF:-1 tvg-logo="https://imgur.com/Cggdc40.png" group-title="ENTERTAINMENT",And Flix
 
+http://89.187.182.181:9090/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Cggdc40.png" group-title="ENTERTAINMENT",And Flix - WatchIndia
 http://watchindia.net:8880/live/33253/72963/2088.ts
 #EXTINF:-1 tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" group-title="ENTERTAINMENT",And Pictures - WatchIndia
 
 http://watchindia.net:8880/live/33253/72963/783.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/I9wh5Dw.png" group-title="ENTERTAINMENT",And Prive
+
+http://89.187.182.181:9090/SM_FHD_ENG_ANDPRIVE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/I9wh5Dw.png" group-title="ENTERTAINMENT",And Prive - WatchIndia
 
 http://watchindia.net:8880/live/33253/72963/2103.ts
@@ -1318,10 +1325,14 @@ http://watchindia.net:8880/live/33253/72963/2178.ts
 http://watchindia.net:8880/live/33253/72963/2101.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Star_Chinese_Channel_logo_2016.png" group-title="ENTERTAINMENT",Star Chinese - MyRepublic
 http://103.47.132.165/PLTV/88888888/224/3221227147/2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="ENTERTAINMENT",Star Movies
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="ENTERTAINMENT",Star Movies - WatchIndia
 http://watchindia.net:8880/live/33253/72963/2080.ts
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg" group-title="ENTERTAINMENT",Star Movies Select
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="ENTERTAINMENT",Star World - WatchIndia
 http://watchindia.net:8880/live/33253/72963/2191.ts
 
@@ -1832,6 +1843,8 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJJBq2d/30a.png" group-title="MUSIC",30A Music
 https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="MUSIC",8XM
+http://221.120.204.4/8XM-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
@@ -1942,14 +1955,17 @@ http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/chunklist_w552639060.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://vydia.com/wp-content/uploads/brand-logo-mtv-white-300x177.png" group-title="MUSIC",MTV
 
-
+http://ay82.aatvbox.club:8880/xzyc1m11534/XeH2tB3ggs/2912
 #EXTINF:-1 tvg-logo="https://vydia.com/wp-content/uploads/brand-logo-mtv-white-300x177.png" group-title="MUSIC",MTV - WatchIndia
 http://watchindia.net:8880/live/33253/72963/2062.ts
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png" group-title="MUSIC",MTV Beats - WatchIndia
 http://watchindia.net:8880/live/33253/72963/786.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/8/88/MTV_Classic_2011.png" group-title="MUSIC",MTV Classic
+http://ay82.aatvbox.club:8880/xzyc1m11534/XeH2tB3ggs/28784
 
 
 #EXTINF:-1 tvg-logo="https://vydia.com/wp-content/uploads/brand-logo-mtv-white-300x177.png" group-title="MUSIC",MTV Hindi - WatchIndia
@@ -2911,6 +2927,8 @@ http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/hStJ4LF.png" group-title="SPORTS",Eurosport
+https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 
 
 
@@ -3001,6 +3019,8 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",Fox Sports 501
+http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Fox_Sports_News_Australia_Logo.png" group-title="SPORTS",Fox Sports News
@@ -3062,6 +3082,8 @@ https://95-213-172-212.livesports24.online/mfootball2rus.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MUTV_logo.png" group-title="SPORTS",MU TV
 http://178.175.132.170:8888/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MUTV_logo.png" group-title="SPORTS",MU TV (2)
+http://ay82.aatvbox.club:8880/xzyc1m11534/XeH2tB3ggs/28899
 
 
 
@@ -3899,8 +3921,9 @@ https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="(SOUTH-ASIA)",[IND] Star Plus
 
-
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
 
 
