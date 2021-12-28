@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="" group-title="TEMP",Test
-http://iptv.tvmalaysia.cc:80/174726/174726/6730
-
-
 
 
 
@@ -4827,3 +4823,1323 @@ https://gpc.my.id/radio/gen-fm-surabaya.m3u8
 http://3.142.159.208:2703/m3u8/7218.m3u8
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6730
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6727
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6740
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/174726/174726/7267
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Astro Boo
+http://iptv.tvmalaysia.cc:80/174726/174726/8872
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6724
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Awesome TV
+http://iptv.tvmalaysia.cc:80/174726/174726/9016
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6725
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6713
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6729
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6714
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6715
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ABC Australia
+http://iptv.tvmalaysia.cc:80/174726/174726/6692
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6693
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6694
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Animal Planet HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6695
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Animax
+http://iptv.tvmalaysia.cc:80/174726/174726/6696
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Aniplus HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6697
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Adithya
+http://iptv.tvmalaysia.cc:80/174726/174726/6700
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO AEC HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6701
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO AOD 351 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6702
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO AOD 352 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6703
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO AOD 353 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6704
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO AOD 354 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6705
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6706
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/174726/174726/6716
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Zee Tamil HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6742
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO GO Shop 2
+http://iptv.tvmalaysia.cc:80/174726/174726/6718
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Vinmeen HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6739
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6738
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Makkal TV
+http://iptv.tvmalaysia.cc:80/174726/174726/6806
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Sun TV HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6733
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Star Vijay HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6732
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Jaya Max
+http://iptv.tvmalaysia.cc:80/174726/174726/6802
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Chutti TV
+http://iptv.tvmalaysia.cc:80/174726/174726/6762
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO iQIYI HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6723
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Hua Hee Dai HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6722
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Hello
+http://iptv.tvmalaysia.cc:80/174726/174726/6721
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Oh!K HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6726
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Quan Jia HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6728
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Shuang Xing HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6731
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Tutor TV PT3
+http://iptv.tvmalaysia.cc:80/174726/174726/6734
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Tutor TV SPM
+http://iptv.tvmalaysia.cc:80/174726/174726/6735
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Tutor TV UPSR
+http://iptv.tvmalaysia.cc:80/174726/174726/6736
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO TVIQ
+http://iptv.tvmalaysia.cc:80/174726/174726/6737
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Xiao Tai Yang HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6741
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",AXN HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6743
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BBC Lifestyle
+http://iptv.tvmalaysia.cc:80/174726/174726/6746
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Bernama News
+http://iptv.tvmalaysia.cc:80/174726/174726/6750
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Bloomberg TV
+http://iptv.tvmalaysia.cc:80/174726/174726/6751
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BollyOne HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6754
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Channel News Asia HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6765
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Cinemax HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6764
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Celestial Movies HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6760
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",CCTV4 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6759
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Celestial Classic Movies
+http://iptv.tvmalaysia.cc:80/174726/174726/6758
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Cartoon Network HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6757
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",crime & investigation HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6756
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",FX Cinema HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6795
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",France 24 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6794
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Food Network HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6785
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Eurosport HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6784
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",eGG Network
+http://iptv.tvmalaysia.cc:80/174726/174726/6783
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DW HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6782
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Dreamworks HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6780
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DMAX HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6778
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Discovery Science HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6774
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Discovery HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6773
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Discovery Asia
+http://iptv.tvmalaysia.cc:80/174726/174726/6772
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",CTI Asia
+http://iptv.tvmalaysia.cc:80/174726/174726/6771
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Comedy Central
+http://iptv.tvmalaysia.cc:80/174726/174726/6770
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Colors HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6769
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Colors Cineplex
+http://iptv.tvmalaysia.cc:80/174726/174726/6768
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",CNN HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6767
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",CNBC
+http://iptv.tvmalaysia.cc:80/174726/174726/6766
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Warner TV
+http://iptv.tvmalaysia.cc:80/174726/174726/6848
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UTV Movies International
+http://iptv.tvmalaysia.cc:80/174726/174726/6847
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TV SARAWAK
+http://iptv.tvmalaysia.cc:80/174726/174726/6846
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",tvN Movies
+http://iptv.tvmalaysia.cc:80/174726/174726/6845
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",tvN HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6844
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TVBS Asia HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6843
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TVB Xing He HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6842
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TVB Jade HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6841
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TVB E-News
+http://iptv.tvmalaysia.cc:80/174726/174726/6840
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TVB Classic
+http://iptv.tvmalaysia.cc:80/174726/174726/6839
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TV-AlHijrah
+http://iptv.tvmalaysia.cc:80/174726/174726/6834
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Travel Channel HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6833
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TLC HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6832
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Sun Music
+http://iptv.tvmalaysia.cc:80/174726/174726/6831
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Sony TV
+http://iptv.tvmalaysia.cc:80/174726/174726/6829
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Sony SAB
+http://iptv.tvmalaysia.cc:80/174726/174726/6827
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Sky News HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6826
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",One HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6817
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Nickelodeon HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6814
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Nick Jr
+http://iptv.tvmalaysia.cc:80/174726/174726/6813
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",NatGeo People
+http://iptv.tvmalaysia.cc:80/174726/174726/6811
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",MTV
+http://iptv.tvmalaysia.cc:80/174726/174726/6807
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",KPlus HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6805
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Kix HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6804
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",KBS World HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6803
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Hits Movies HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6801
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Hits HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6800
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",History HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6799
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",HGTV HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6798
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",HBO HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6797
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TV 1
+http://iptv.tvmalaysia.cc:80/174726/174726/7177
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TV 2
+http://iptv.tvmalaysia.cc:80/174726/174726/7178
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TV 3
+http://iptv.tvmalaysia.cc:80/174726/174726/7266
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TV 3 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8750
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TV 9
+http://iptv.tvmalaysia.cc:80/174726/174726/7185
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",RTM Sports
+http://iptv.tvmalaysia.cc:80/174726/174726/7186
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TV IKIM
+http://iptv.tvmalaysia.cc:80/174726/174726/7192
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Berita RTM
+http://iptv.tvmalaysia.cc:80/174726/174726/7191
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BERNAMA
+http://iptv.tvmalaysia.cc:80/174726/174726/7190
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",RTB MALAYSIA
+http://iptv.tvmalaysia.cc:80/174726/174726/7188
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ShowCase Movies
+http://iptv.tvmalaysia.cc:80/174726/174726/9030
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Galaxy Premium
+http://iptv.tvmalaysia.cc:80/174726/174726/8838
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Galaxy
+http://iptv.tvmalaysia.cc:80/174726/174726/8839
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Cinemax FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7062
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",HBO FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7067
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",HBO Hits FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7068
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",HBO Signature FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7069
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",HBO Family FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7070
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Hits Movies
+http://iptv.tvmalaysia.cc:80/174726/174726/7066
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Red By HBO HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7071
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Warner TV HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7072
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",tVN movies HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7074
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",National Geographic HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7075
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7081
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7080
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",History FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7079
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7078
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Animal Planet
+http://iptv.tvmalaysia.cc:80/174726/174726/7077
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",HGTV
+http://iptv.tvmalaysia.cc:80/174726/174726/7076
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Era FM
+http://iptv.tvmalaysia.cc:80/174726/174726/7169
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Hot FM
+http://iptv.tvmalaysia.cc:80/174726/174726/7170
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Hitz FM
+http://iptv.tvmalaysia.cc:80/174726/174726/7171
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Sinar FM
+http://iptv.tvmalaysia.cc:80/174726/174726/7172
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",THR GEGAR
+http://iptv.tvmalaysia.cc:80/174726/174726/7174
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Cinema World
+http://iptv.tvmalaysia.cc:80/174726/174726/7219
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Thrill
+http://iptv.tvmalaysia.cc:80/174726/174726/7220
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",AXN
+http://iptv.tvmalaysia.cc:80/174726/174726/7223
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Fox Crime
+http://iptv.tvmalaysia.cc:80/174726/174726/7225
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",FOX
+http://iptv.tvmalaysia.cc:80/174726/174726/7227
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Fox Life
+http://iptv.tvmalaysia.cc:80/174726/174726/7228
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",KiX
+http://iptv.tvmalaysia.cc:80/174726/174726/7229
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Celestial Classic Movies.
+http://iptv.tvmalaysia.cc:80/174726/174726/7222
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BBC Earth
+http://iptv.tvmalaysia.cc:80/174726/174726/7233
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Celestial Movies
+http://iptv.tvmalaysia.cc:80/174726/174726/7235
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",WLT JADE
+http://iptv.tvmalaysia.cc:80/174726/174726/8836
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Asia Food Network
+http://iptv.tvmalaysia.cc:80/174726/174726/8857
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Crime & Investigation
+http://iptv.tvmalaysia.cc:80/174726/174726/8858
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Blue Ant Entertainment
+http://iptv.tvmalaysia.cc:80/174726/174726/8860
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Blue Ant Extreme
+http://iptv.tvmalaysia.cc:80/174726/174726/8861
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TLC
+http://iptv.tvmalaysia.cc:80/174726/174726/8862
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Sony One
+http://iptv.tvmalaysia.cc:80/174726/174726/8863
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Sony Gem
+http://iptv.tvmalaysia.cc:80/174726/174726/8864
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TvN
+http://iptv.tvmalaysia.cc:80/174726/174726/8865
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Disney Channel HD
+http://iptv.tvmalaysia.cc:80/174726/174726/7196
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH:CTB
+http://iptv.tvmalaysia.cc:80/174726/174726/8752
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH:News 1
+http://iptv.tvmalaysia.cc:80/174726/174726/8754
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH:Thai PBS 3
+http://iptv.tvmalaysia.cc:80/174726/174726/8755
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH:TPTV
+http://iptv.tvmalaysia.cc:80/174726/174726/8756
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH:White Channel
+http://iptv.tvmalaysia.cc:80/174726/174726/8757
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | ALTV HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8759
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | MONO29 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8760
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | CH3 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8761
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | CH7 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8762
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Lakorn Thai
+http://iptv.tvmalaysia.cc:80/174726/174726/8763
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Celestial Movies HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8765
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | CTB
+http://iptv.tvmalaysia.cc:80/174726/174726/8766
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Channel 8
+http://iptv.tvmalaysia.cc:80/174726/174726/8767
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Paramount HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8768
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Cinema World
+http://iptv.tvmalaysia.cc:80/174726/174726/8769
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Hunan TV HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8770
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Blue Ant Extreme HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8771
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | HGTV
+http://iptv.tvmalaysia.cc:80/174726/174726/8772
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | MV Laos
+http://iptv.tvmalaysia.cc:80/174726/174726/8773
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Jasmin TV
+http://iptv.tvmalaysia.cc:80/174726/174726/8774
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | PSI Saradee HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8776
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Animal Planet HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8777
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | TLC
+http://iptv.tvmalaysia.cc:80/174726/174726/8778
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Outdoor Channel
+http://iptv.tvmalaysia.cc:80/174726/174726/8779
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DMAX
+http://iptv.tvmalaysia.cc:80/174726/174726/8780
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Voice TV HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8781
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | TOPNEWS
+http://iptv.tvmalaysia.cc:80/174726/174726/8782
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Arirang
+http://iptv.tvmalaysia.cc:80/174726/174726/8783
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | BBC World News
+http://iptv.tvmalaysia.cc:80/174726/174726/8784
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DW
+http://iptv.tvmalaysia.cc:80/174726/174726/8785
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | France24
+http://iptv.tvmalaysia.cc:80/174726/174726/8786
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Al Jazeera
+http://iptv.tvmalaysia.cc:80/174726/174726/8787
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Russia Today
+http://iptv.tvmalaysia.cc:80/174726/174726/8788
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Sony ESPN HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8789
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Cbeebies
+http://iptv.tvmalaysia.cc:80/174726/174726/8790
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Baby First
+http://iptv.tvmalaysia.cc:80/174726/174726/8791
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 1
+http://iptv.tvmalaysia.cc:80/174726/174726/8792
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 2
+http://iptv.tvmalaysia.cc:80/174726/174726/8793
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 1
+http://iptv.tvmalaysia.cc:80/174726/174726/8794
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 2
+http://iptv.tvmalaysia.cc:80/174726/174726/8795
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 5
+http://iptv.tvmalaysia.cc:80/174726/174726/8796
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 6
+http://iptv.tvmalaysia.cc:80/174726/174726/8797
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 7
+http://iptv.tvmalaysia.cc:80/174726/174726/8798
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 8
+http://iptv.tvmalaysia.cc:80/174726/174726/8799
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 9
+http://iptv.tvmalaysia.cc:80/174726/174726/8800
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 10
+http://iptv.tvmalaysia.cc:80/174726/174726/8801
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 11
+http://iptv.tvmalaysia.cc:80/174726/174726/8802
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 12
+http://iptv.tvmalaysia.cc:80/174726/174726/8803
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | NNU5 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8804
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | 3 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8805
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | 7 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8806
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | MCOT HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8807
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | PPTV HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8808
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | THAIRATH HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8809
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | TRUE4U 24 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8810
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | PremierHD1
+http://iptv.tvmalaysia.cc:80/174726/174726/8811
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | PremierHD2
+http://iptv.tvmalaysia.cc:80/174726/174726/8812
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | PremierHD3
+http://iptv.tvmalaysia.cc:80/174726/174726/8813
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | PremierHD4
+http://iptv.tvmalaysia.cc:80/174726/174726/8814
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | PremierHD5
+http://iptv.tvmalaysia.cc:80/174726/174726/8815
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | SkynetsportHD
+http://iptv.tvmalaysia.cc:80/174726/174726/8816
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | True Sport HD1
+http://iptv.tvmalaysia.cc:80/174726/174726/8817
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | True Sport HD2
+http://iptv.tvmalaysia.cc:80/174726/174726/8818
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | True Sport HD3
+http://iptv.tvmalaysia.cc:80/174726/174726/8819
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | True Sport HD4
+http://iptv.tvmalaysia.cc:80/174726/174726/8820
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Fox Sport2
+http://iptv.tvmalaysia.cc:80/174726/174726/8821
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Fox Sport3
+http://iptv.tvmalaysia.cc:80/174726/174726/8822
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Tennis HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8823
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | NBA HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8824
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Golf HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8825
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | FoxMovies
+http://iptv.tvmalaysia.cc:80/174726/174726/8826
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | FoxMovies
+http://iptv.tvmalaysia.cc:80/174726/174726/8827
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | FoxThai_TH
+http://iptv.tvmalaysia.cc:80/174726/174726/8828
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | AXN HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8829
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | WarnerTV HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8830
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | HISTORY HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8831
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | H2 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8832
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DiscoveryHDWorld
+http://iptv.tvmalaysia.cc:80/174726/174726/8833
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | AnimalPlanet
+http://iptv.tvmalaysia.cc:80/174726/174726/8834
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Didik TV (NTV 7)
+http://iptv.tvmalaysia.cc:80/174726/174726/8922
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Discovery Asia.
+http://iptv.tvmalaysia.cc:80/174726/174726/8856
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Astro Wah Lai Toi
+http://iptv.tvmalaysia.cc:80/174726/174726/8970
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Tom & Jerry HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8986
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",STARZ KIDS&FAMILY
+http://iptv.tvmalaysia.cc:80/174726/174726/8991
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",மக்கள் தொலைக்காட்சி
+http://iptv.tvmalaysia.cc:80/174726/174726/8995
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Star Movies HD
+http://iptv.tvmalaysia.cc:80/174726/174726/8997
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",MNX
+http://iptv.tvmalaysia.cc:80/174726/174726/8998
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Movies Now
+http://iptv.tvmalaysia.cc:80/174726/174726/8999
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TESTNEW
+http://iptv.tvmalaysia.cc:80/174726/174726/9001
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Crime & Investigation.
+http://iptv.tvmalaysia.cc:80/174726/174726/9009
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Fox Family Movie
+http://iptv.tvmalaysia.cc:80/174726/174726/9027
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",=== ASTRO SPORTS ===
+http://iptv.tvmalaysia.cc:80/174726/174726/7214
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6707
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Arena 2
+http://iptv.tvmalaysia.cc:80/174726/174726/9028
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",EPL LIVE 1
+http://iptv.tvmalaysia.cc:80/174726/174726/9022
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",EPL LIVE 2
+http://iptv.tvmalaysia.cc:80/174726/174726/9023
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6708
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASSP 1
+http://iptv.tvmalaysia.cc:80/174726/174726/9024
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6710
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASSP 2
+http://iptv.tvmalaysia.cc:80/174726/174726/9025
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6711
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASSP 3 (LIVE EPL ONLY)
+http://iptv.tvmalaysia.cc:80/174726/174726/9020
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6712
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASSP 4
+http://iptv.tvmalaysia.cc:80/174726/174726/9026
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Astro Supersport 5
+http://iptv.tvmalaysia.cc:80/174726/174726/9029
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",FOX Sports HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6793
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6791
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6792
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/174726/174726/6717
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",beIN Sports
+http://iptv.tvmalaysia.cc:80/174726/174726/6749
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",beIN MAX
+http://iptv.tvmalaysia.cc:80/174726/174726/6748
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",beIN MAX 2
+http://iptv.tvmalaysia.cc:80/174726/174726/7195
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",WWE Network
+http://iptv.tvmalaysia.cc:80/174726/174726/6849
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/174726/174726/6821
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Golf Channel HD
+http://iptv.tvmalaysia.cc:80/174726/174726/6796
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",====== TSN ======
+http://iptv.tvmalaysia.cc:80/174726/174726/8969
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TSN 1
+http://iptv.tvmalaysia.cc:80/174726/174726/8923
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TSN 2
+http://iptv.tvmalaysia.cc:80/174726/174726/8924
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TSN 4
+http://iptv.tvmalaysia.cc:80/174726/174726/8926
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TSN 3
+http://iptv.tvmalaysia.cc:80/174726/174726/8925
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",=== DSTV Supersport ===
+http://iptv.tvmalaysia.cc:80/174726/174726/7215
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Grandstand
+http://iptv.tvmalaysia.cc:80/174726/174726/6572
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport PSL
+http://iptv.tvmalaysia.cc:80/174726/174726/6573
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/174726/174726/6574
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport La Liga
+http://iptv.tvmalaysia.cc:80/174726/174726/6575
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Football
+http://iptv.tvmalaysia.cc:80/174726/174726/6576
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Variety 1
+http://iptv.tvmalaysia.cc:80/174726/174726/6577
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Variety 2
+http://iptv.tvmalaysia.cc:80/174726/174726/6578
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Variety 3
+http://iptv.tvmalaysia.cc:80/174726/174726/6579
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Variety 4
+http://iptv.tvmalaysia.cc:80/174726/174726/6580
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Cricket
+http://iptv.tvmalaysia.cc:80/174726/174726/6583
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: Supersport Blitz
+http://iptv.tvmalaysia.cc:80/174726/174726/6584
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport MáXimo
+http://iptv.tvmalaysia.cc:80/174726/174726/6585
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Rugby
+http://iptv.tvmalaysia.cc:80/174726/174726/6582
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Action
+http://iptv.tvmalaysia.cc:80/174726/174726/6581
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Motorsport
+http://iptv.tvmalaysia.cc:80/174726/174726/7142
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Tennis
+http://iptv.tvmalaysia.cc:80/174726/174726/7143
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport WWE
+http://iptv.tvmalaysia.cc:80/174726/174726/7144
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Golf
+http://iptv.tvmalaysia.cc:80/174726/174726/7145
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BeIN Sport 1
+http://iptv.tvmalaysia.cc:80/174726/174726/6597
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BeIN Sport 2
+http://iptv.tvmalaysia.cc:80/174726/174726/6598
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BeIN Sport 13
+http://iptv.tvmalaysia.cc:80/174726/174726/6609
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",=== BT SPORT ===
+http://iptv.tvmalaysia.cc:80/174726/174726/7218
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BT Sport 1
+http://iptv.tvmalaysia.cc:80/174726/174726/6610
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BT Sport 2
+http://iptv.tvmalaysia.cc:80/174726/174726/6611
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BT Sport 3
+http://iptv.tvmalaysia.cc:80/174726/174726/6612
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BT Sport ESPN
+http://iptv.tvmalaysia.cc:80/174726/174726/6613
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Premier Sports 1
+http://iptv.tvmalaysia.cc:80/174726/174726/7112
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Premier Sports 2
+http://iptv.tvmalaysia.cc:80/174726/174726/7113
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",=== SKY SPORTS ===
+http://iptv.tvmalaysia.cc:80/174726/174726/7217
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/174726/174726/6614
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Arena
+http://iptv.tvmalaysia.cc:80/174726/174726/6615
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/174726/174726/6617
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/174726/174726/6618
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/174726/174726/6620
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Premier League
+http://iptv.tvmalaysia.cc:80/174726/174726/6621
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/174726/174726/6619
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Racing
+http://iptv.tvmalaysia.cc:80/174726/174726/7114
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Main Event
+http://iptv.tvmalaysia.cc:80/174726/174726/7115
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Mix
+http://iptv.tvmalaysia.cc:80/174726/174726/7116
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",MUTV
+http://iptv.tvmalaysia.cc:80/174726/174726/7236
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",LFC TV
+http://iptv.tvmalaysia.cc:80/174726/174726/7237
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UFC
+http://iptv.tvmalaysia.cc:80/174726/174726/7259
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UFC PPV Early Prelims
+http://iptv.tvmalaysia.cc:80/174726/174726/7260
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UFC PPV Prelims
+http://iptv.tvmalaysia.cc:80/174726/174726/7261
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UFC PPV Main Card
+http://iptv.tvmalaysia.cc:80/174726/174726/7262
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",PPV Boxing
+http://iptv.tvmalaysia.cc:80/174726/174726/7263
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",LowBW UFC PPV Main Card
+http://iptv.tvmalaysia.cc:80/174726/174726/7265
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",====== EURO 2020 ======
+http://iptv.tvmalaysia.cc:80/174726/174726/8885
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",FS 1
+http://iptv.tvmalaysia.cc:80/174726/174726/9003
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Disney Junior
+http://iptv.tvmalaysia.cc:80/174726/174726/7197
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Disney XD FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7198
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Boomerang
+http://iptv.tvmalaysia.cc:80/174726/174726/7199
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Cartoon Network FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7200
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Nickelodeon
+http://iptv.tvmalaysia.cc:80/174726/174726/7201
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Nicktoons FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7202
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",USA: STARZ Kids & Family FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7204
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Universal Kids FHD
+http://iptv.tvmalaysia.cc:80/174726/174726/7205
+
+///malaysia astro////
+
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", TV 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7177
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", TV 2
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7178
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", TV 3
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7266
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", TV 3 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8750
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", TV 9
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7185
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", RTM Sports
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7186
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", TV IKIM
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7192
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", Berita RTM
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7191
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", BERNAMA
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7190
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", RTB MALAYSIA
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7188
+
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6730
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6727
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6740
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7267
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", Astro Boo
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8872
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6724
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", Awesome TV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9016
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6725
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6713
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6729
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6714
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6715
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ABC Australia
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6692
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6693
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6694
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", Animal Planet HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6695
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", Animax
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6696
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", Aniplus HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6697
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Adithya
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6700
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO AEC HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6701
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO AOD 351 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6702
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO AOD 352 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6703
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO AOD 353 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6704
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO AOD 354 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6705
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6706
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6716
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Zee Tamil HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6742
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO GO Shop 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6718
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Vinmeen HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6739
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6738
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", Makkal TV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6806
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Sun TV HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6733
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Star Vijay HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6732
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", Jaya Max
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6802
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", Chutti TV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6762
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO iQIYI HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6723
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Hua Hee Dai HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6722
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Hello
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6721
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Oh!K HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6726
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Quan Jia HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6728
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Shuang Xing HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6731
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Tutor TV PT3
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6734
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Tutor TV SPM
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6735
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Tutor TV UPSR
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6736
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO TVIQ
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6737
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", ASTRO Xiao Tai Yang HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6741
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", AXN HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6743
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", BBC Lifestyle
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6746
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro", Bernama News
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6750
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Bloomberg TV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6751
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BollyOne HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6754
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Channel News Asia HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6765
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",CCTV4 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6759
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Cartoon Network HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6757
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",crime & investigation HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6756
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",France 24 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6794
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Food Network HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6785
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Eurosport HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6784
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",eGG Network
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6783
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DW HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6782
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Dreamworks HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6780
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DMAX HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6778
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Discovery Science HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6774
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Discovery HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6773
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Discovery Asia
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6772
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",CTI Asia
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6771
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Comedy Central
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6770
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Colors HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6769
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Colors Cineplex
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6768
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",CNN HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6767
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",CNBC
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6766
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TV SARAWAK
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6846
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",tvN Movies
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6845
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",tvN HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6844
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TVBS Asia HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6843
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TVB Xing He HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6842
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TVB Jade HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6841
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TVB E-News
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6840
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TVB Classic
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6839
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TV-AlHijrah
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6834
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Travel Channel HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6833
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TLC HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6832
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Sun Music
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6831
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Sony TV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6829
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Sony SAB
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6827
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Sky News HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6826
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",One HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6817
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Nickelodeon HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6814
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Nick Jr
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6813
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",NatGeo People
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6811
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",MTV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6807
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",KPlus HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6805
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Kix HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6804
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",KBS World HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6803
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Hits Movies HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6801
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Hits HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6800
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",History HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6799
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",HGTV HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6798
+
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",National Geographic HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7075
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7081
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7080
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",History FHD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7079
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7078
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Animal Planet
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7077
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",HGTV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7076
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Era FM
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7169
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Hot FM
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7170
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Hitz FM
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7171
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Sinar FM
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7172
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",THR GEGAR
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7174
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BBC Earth
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7233
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",WLT JADE
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8836
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Asia Food Network
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8857
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Crime & Investigation
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8858
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TLC
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8862
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Sony One
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8863
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Sony Gem
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8864
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TvN
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8865
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Disney Channel HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7196
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH:CTB
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8752
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH:News 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8754
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH:Thai PBS 3
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8755
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH:TPTV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8756
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH:White Channel
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8757
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | ALTV HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8759
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | MONO29 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8760
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | CH3 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8761
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | CH7 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8762
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Lakorn Thai
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8763
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Celestial Movies HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8765
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | CTB
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8766
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Channel 8
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8767
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Paramount HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8768
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Cinema World
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8769
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Hunan TV HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8770
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | HGTV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8772
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | MV Laos
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8773
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Jasmin TV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8774
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | PSI Saradee HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8776
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Animal Planet HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8777
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | TLC
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8778
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Outdoor Channel
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8779
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DMAX
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8780
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Voice TV HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8781
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | TOPNEWS
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8782
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Arirang
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8783
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | BBC World News
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8784
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DW
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8785
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | France24
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8786
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Al Jazeera
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8787
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Russia Today
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8788
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Sony ESPN HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8789
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Cbeebies
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8790
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Baby First
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8791
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8792
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8793
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8794
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8795
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 5
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8796
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 6
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8797
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 7
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8798
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 8
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8799
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 9
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8800
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 10
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8801
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 11
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8802
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DLTV 12
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8803
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | NNU5 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8804
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | 3 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8805
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | 7 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8806
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | MCOT HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8807
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | PPTV HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8808
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | THAIRATH HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8809
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | TRUE4U 24 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8810
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | PremierHD1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8811
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | PremierHD2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8812
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | PremierHD3
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8813
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | PremierHD4
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8814
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | PremierHD5
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8815
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | SkynetsportHD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8816
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | True Sport HD1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8817
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | True Sport HD2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8818
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | True Sport HD3
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8819
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | True Sport HD4
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8820
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Fox Sport2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8821
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Fox Sport3
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8822
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Tennis HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8823
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | NBA HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8824
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | Golf HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8825
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | FoxMovies
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8826
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | FoxMovies
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8827
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | FoxThai_TH
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8828
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | AXN HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8829
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | WarnerTV HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8830
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | HISTORY HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8831
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | H2 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8832
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | DiscoveryHDWorld
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8833
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TH | AnimalPlanet
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8834
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",rakbi
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8881
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Didik TV (NTV 7)
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8922
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Discovery Asia.
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8856
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Astro Wah Lai Toi
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8970
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Tom & Jerry HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8986
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",STARZ KIDS&FAMILY
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8991
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",மக்கள் தொலைக்காட்சி
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8995
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Star Movies HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8997
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",MNX
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8998
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Movies Now
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8999
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TESTNEW
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9001
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",foxmoviebeta
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9007
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Crime & Investigation.
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9009
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Fox Family Movie
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9027
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",=== ASTRO SPORTS ===
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7214
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6707
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Arena 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9028
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",EPL LIVE 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9022
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",EPL LIVE 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9023
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6708
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASSP 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9024
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6710
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASSP 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9025
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6711
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASSP 3 (LIVE EPL ONLY)
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9020
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6712
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASSP 4
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9026
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Astro Supersport 5
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9029
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",FOX Sports HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6793
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6791
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6792
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6717
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",beIN Sports
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6749
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",beIN MAX
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6748
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",beIN MAX 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7195
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",WWE Network
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6849
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6821
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Golf Channel HD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6796
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",====== TSN ======
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8969
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TSN 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8923
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TSN 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8924
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TSN 4
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8926
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",TSN 3
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8925
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",=== DSTV Supersport ===
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7215
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Grandstand
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6572
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport PSL
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6573
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6574
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport La Liga
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6575
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Football
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6576
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Variety 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6577
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Variety 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6578
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Variety 3
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6579
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Variety 4
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6580
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Cricket
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6583
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: Supersport Blitz
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6584
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport MáXimo
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6585
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Rugby
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6582
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Action
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6581
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Motorsport
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7142
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Tennis
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7143
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport WWE
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7144
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",DSTV: SuperSport Golf
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7145
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BeIN Sport 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6597
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BeIN Sport 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6598
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BeIN Sport 13
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6609
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",=== BT SPORT ===
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7218
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BT Sport 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6610
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BT Sport 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6611
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BT Sport 3
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6612
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",BT Sport ESPN
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6613
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Premier Sports 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7112
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Premier Sports 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7113
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",=== SKY SPORTS ===
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7217
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6614
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Arena
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6615
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6617
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6618
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6620
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Premier League
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6621
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6619
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Racing
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7114
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Main Event
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7115
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UK: Sky Sports Mix
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7116
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",MUTV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7236
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",LFC TV
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7237
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UFC
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7259
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UFC PPV Early Prelims
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7260
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UFC PPV Prelims
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7261
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",UFC PPV Main Card
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7262
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",PPV Boxing
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7263
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",LowBW UFC PPV Main Card
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7265
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",====== EURO 2020 ======
+http://iptv.tvmalaysia.cc:80/penang175/penang175/8885
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",FS 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/9003
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Disney Junior
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7197
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Disney XD FHD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7198
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Boomerang
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7199
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Cartoon Network FHD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7200
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Nickelodeon
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7201
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Nicktoons FHD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7202
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",USA: STARZ Kids & Family FHD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7204
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="Astro",Universal Kids FHD
+http://iptv.tvmalaysia.cc:80/penang175/penang175/7205
