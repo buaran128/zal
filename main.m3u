@@ -669,9 +669,9 @@ http://103.30.1.14:8080/hls/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6lUbvh.png" group-title="DOCUMENTARY",Animal Planet
 
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S6lUbvh.png" group-title="DOCUMENTARY",Animal Planet - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/7077
 
@@ -690,8 +690,6 @@ http://iptv.tvmalaysia.cc/174726/174726/7077
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOCUMENTARY",BBC Earth - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6226
 
 
 
@@ -700,8 +698,10 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6226
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/320px-BBC_Four.svg.png" group-title="DOCUMENTARY",BBC Four
-http://62.182.81.111:8000/stef01/stef01/18716
+
+
+
+
 
 
 
@@ -730,8 +730,8 @@ http://iptv.tvmalaysia.cc/174726/174726/9009
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/qIze4p6.png" group-title="DOCUMENTARY",Discovery - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10147
+
+
 
 
 
@@ -791,8 +791,8 @@ http://topwin-tv.my.id/2/chunklist.m3u8?id=history&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://imgur.com/m8rlDGX.png" group-title="DOCUMENTARY",History - UseeTV (2)
 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=history&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://imgur.com/m8rlDGX.png" group-title="DOCUMENTARY",History - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18794
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/m8rlDGX.png" group-title="DOCUMENTARY",History - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/6799
 #EXTINF:-1 tvg-logo="https://imgur.com/m8rlDGX.png" group-title="DOCUMENTARY",History - TVMalaysia (2)
@@ -913,8 +913,8 @@ https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="DOCUMENTARY",Sony TV - ShakIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18806
+
+
 
 
 
@@ -957,8 +957,8 @@ http://89.187.182.181:9090/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8
 http://148.72.155.84/ENC-16/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" group-title="ENTERTAINMENT",And Pictures - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10134
+
+
 
 
 
@@ -967,8 +967,8 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10134
 http://89.187.182.181:9090/SM_FHD_ENG_ANDPRIVE/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/TV-Logo.png" group-title="ENTERTAINMENT",And TV - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6234
+
+
 
 
 
@@ -1520,8 +1520,8 @@ https://gpc.my.id/vidio/zee-bioskop.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=zbioskop&bandwidth=default&sync=0
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Zeecafe2017.png" group-title="ENTERTAINMENT",Zee Cafe - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6243
+
+
 
 
 
@@ -2133,14 +2133,14 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 http://ay82.aatvbox.club:8880/xzyc1m11534/XeH2tB3ggs/2912
 
 
-#EXTINF:-1 tvg-logo="https://vydia.com/wp-content/uploads/brand-logo-mtv-white-300x177.png" group-title="MUSIC",MTV - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6219
 
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png" group-title="MUSIC",MTV Beats - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18798
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/8/88/MTV_Classic_2011.png" group-title="MUSIC",MTV Classic
@@ -3554,8 +3554,6 @@ http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/Sony_Six.jpg" group-title="SPORTS",Sony Six - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18805
 
 
 
@@ -3564,8 +3562,6 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18805
 
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg" group-title="SPORTS",Sony Ten 1 - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10168
 
 
 
@@ -3574,16 +3570,20 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10168
 
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg" group-title="SPORTS",Sony Ten 2 - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10170
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png" group-title="SPORTS",Sony Ten 3 - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10169
+
+
+
+
+
+
+
+
 
 
 
@@ -3631,8 +3631,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png" group-title="SPORTS",Star Sports 2 - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10165
+
+
 
 
 
@@ -4243,8 +4243,8 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://ewsat.com/img/B4U_MUSIC.png" group-title="(SOUTH-ASIA)",[IND] B4U Music - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6233
+
+
 
 
 
@@ -4277,20 +4277,20 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/199px-Sony_MAX.svg.png" group-title="(SOUTH-ASIA)",[IND] Sony Max - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10156
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="(SOUTH-ASIA)",[IND] Sony Max 2 - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18802
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png" group-title="(SOUTH-ASIA)",[IND] Star Gold Select - SharkIPTV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6228
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="(SOUTH-ASIA)",[IND] Star Plus
 
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
