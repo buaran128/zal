@@ -2975,6 +2975,8 @@ http://iptv.tvmalaysia.cc/174726/174726/9028
 http://iptv.tvmalaysia.cc/174726/174726/6707
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" group-title="SPORTS",Astro Supersport - VStreams
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" group-title="SPORTS",Astro Supersport - TVMalaysia
 
 http://iptv.tvmalaysia.cc/174726/174726/6708
@@ -2984,6 +2986,8 @@ http://iptv.tvmalaysia.cc/174726/174726/9024
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" group-title="SPORTS",Astro Supersport 2 - VStreams
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" group-title="SPORTS",Astro Supersport 2 - TVMalaysia
 
 http://iptv.tvmalaysia.cc/174726/174726/6710
@@ -2993,6 +2997,8 @@ http://iptv.tvmalaysia.cc/174726/174726/9025
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png" group-title="SPORTS",Astro Supersport 3 - VStreams
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png" group-title="SPORTS",Astro Supersport 3 - TVMalaysia
 
 http://iptv.tvmalaysia.cc/174726/174726/9020
@@ -3000,6 +3006,8 @@ http://iptv.tvmalaysia.cc/174726/174726/9020
 https://iptvid.cgflix.xyz/sports/assp3.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png" group-title="SPORTS",Astro Supersport 4 - VStreams
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png" group-title="SPORTS",Astro Supersport 4 - TVMalaysia
 
 http://iptv.tvmalaysia.cc/174726/174726/6712
@@ -3259,7 +3267,11 @@ https://chostv.mobie.in/choos/sports/qyt2.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Fox Cricket 501 - VStreams
+http://vstreams.tv:2082/live/rb0zYNF5GQ/FGWoCyPvwt/2180746.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Fox Cricket 501 - VStreams (X)
+http://vstreams.tv:2082/live/rb0zYNF5GQ/FGWoCyPvwt/2180746
 
 
 
@@ -3714,7 +3726,7 @@ http://iptv.tvmalaysia.cc/174726/174726/6576
 http://iptv.tvmalaysia.cc/penang175/penang175/6572
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="SPORTS",SuperSport La Liga - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/6575
-#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-motorsport.png" group-title="SPORTS",SuperSport Motorsport
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-motorsport.png" group-title="SPORTS",SuperSport Motorsport - VStreams
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170846
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-motorsport.png" group-title="SPORTS",SuperSport Motorsport - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/7142
