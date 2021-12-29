@@ -186,6 +186,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/INS42TC.png" group-title="NATIONAL",JakTV - DensTV
+http://rr3.dens.tv/s/s46/index.m3u8
 
 
 
@@ -311,6 +313,8 @@ https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="NATIONAL",Nusantara TV
+https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
 
 
 
@@ -551,8 +555,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="LOCAL",ADiTV - Onlivestreaming
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
 
 
@@ -565,30 +569,32 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
 #EXTINF:-1 tvg-logo="http://streaming.bandungtv.tv/wp-content/uploads/2019/10/bandungtvstream.png" group-title="LOCAL",Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWvrcBMF/Banten-tv.png" group-title="LOCAL",Banten TV
+https://v2.siar.us/barayatv/live/chunks.m3u8
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.bayutvnganjuk.com/wp-content/uploads/2019/11/cropped-heder-6.png?w=1280" group-title="LOCAL",Bayu TV Nganjuk
+http://wms.klikhost.com/bayutv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-VQnhloM1_u0/XBuYEJ_baiI/AAAAAAAAH78/K0877oHvzW0DhxyxPep0xSJHRLmESWd6wCLcBGAs/s320/BETV%2BBengkulu%2Blive%2Bstreaming.jpeg" group-title="LOCAL",BETV - PC24
+http://122.248.43.138:1935/ch3/myStream/playlist.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8f/Logo_Balikpapan_TV.png" group-title="LOCAL",BTV - PC24
 http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/320px-CTV_Banten.png" group-title="LOCAL",C TV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
 
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Duta_TV.jpg" group-title="LOCAL",Duta TV
+https://v2.siar.us/dutatv/live/chunks.m3u8
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Jambi_TV.png" group-title="LOCAL",Jambi TV - PC24
+http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/298px-Logo_Jawapos_TV.png" group-title="LOCAL",jawapos TV - PC24
 http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 
@@ -598,8 +604,8 @@ http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_jitv_big.png" group-title="LOCAL",JITV
 
 http://202.169.224.76:1935/tv/jitv/live.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DznwDyMD/LOGO-JOGJA-TV-NEW-pii-new1.png" group-title="LOCAL",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 
 
@@ -626,6 +632,8 @@ http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 rtmp://wowza60.indostreamserver.com:1935/pktv/live
 
 
+#EXTINF:-1 tvg-logo="http://syarman.hexat.com/img/primatv.jpg" group-title="LOCAL",Prima TV Banjarmasin
+http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
 
 
 
@@ -2738,6 +2746,8 @@ http://gpc.my.id/vidio/ajwa-tv.m3u8
 http://tv.aliman.id:1935/aliman/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/SUARA-ALIMAN-KIRIM-1-1-300x101.png" group-title="RELIGIOUS",Al-Iman TV
 http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/SUARA-ALIMAN-KIRIM-1-1-300x101.png" group-title="RELIGIOUS",Al-Iman TV
+https://tv.rodja.live/aliman/HD/playlist.m3u8
 
 
 
@@ -2814,14 +2824,21 @@ http://iamchannel.org:1935/tes/1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s100766q.png" group-title="RELIGIOUS",Iqraa TV
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s100766q.png" group-title="RELIGIOUS",Iqraa TV (2)
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2020/02/81386505_2570208723100223_2341585035561271296_o.png" group-title="RELIGIOUS",Izzah TV
 https://streaming.sigraduta.co.id/izzahtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2020/02/81386505_2570208723100223_2341585035561271296_o.png" group-title="RELIGIOUS",Izzah TV (2)
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MDLLZ6T.png" group-title="RELIGIOUS",Madani TV
 
-
+https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="RELIGIOUS",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mgitv.png" group-title="RELIGIOUS",MGI TV
+https://tv.rodja.live/tasik/mgitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKJqhTN/mtatv.png" group-title="RELIGIOUS",MTA TV - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 
@@ -2858,7 +2875,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-4
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/30/Surautv.png" group-title="RELIGIOUS",Surau TV
-http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
+http://119.235.249.58:1935/surautv/live/playlist.m3u8
 
 
 
