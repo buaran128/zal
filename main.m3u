@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="TEST",Test
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abb55fb5-0a6c-4dcd-aa82-799118660fc9)/manifest.mpd
-
 
 
 
@@ -22,6 +19,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abb55fb5-0a6c-4
 
 #EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title="NATIONAL",B Adventure - Biznet
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NATIONAL",B LifeStyle - Biznet
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="NATIONAL",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
@@ -78,20 +77,20 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT3grLq6/DIGDAYA-TV.png" group-title="NATIONAL",Digdaya TV
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="NATIONAL",Garuda TV
 https://ms.digdaya.tv/live/digdayatv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -208,9 +207,9 @@ http://rr3.dens.tv/s/s46/index.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/kompastv.png" group-title="NATIONAL",Kompas TV - Dens.tv
 
-
-
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 
 
 
@@ -220,6 +219,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w253650234_b2692000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="NATIONAL",Magna TV - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+#EXTINF:-1 tvg-logo="" group-title="NATIONAL",Max2U - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Official
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
@@ -302,10 +303,10 @@ https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="NATIONAL",NET. - Dens.tv
 
 
-
-
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 
 
@@ -367,10 +368,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4
 
 
 
+#EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="NATIONAL",RTV - Dens.tv
 
 
-
-
+http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png" group-title="NATIONAL",Ruang Trampil - Maxstream
@@ -394,9 +395,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="NATIONAL",SCTV - Dens.tv
 
-
-
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 
 
@@ -410,8 +411,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 
 
 
-#EXTINF:-1 tvg-logo="https://www.theindonesiachannel.com/uploads/news/New_TIC_logo.jpg" group-title="NATIONAL",The Indonesia Channel
 
+
+#EXTINF:-1 tvg-logo="https://www.theindonesiachannel.com/uploads/news/New_TIC_logo.jpg" group-title="NATIONAL",The Indonesia Channel - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 
 
@@ -590,6 +592,8 @@ http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="LOCAL",DigiOne - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Duta_TV.jpg" group-title="LOCAL",Duta TV
@@ -719,9 +723,9 @@ http://iptv.tvmalaysia.cc/174726/174726/7077
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY",CGTN Documentary - Dens.tv
 
-
-
+http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 
 
 
@@ -928,8 +932,9 @@ https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/izPWFcL.png" group-title="DOCUMENTARY",Techstorm - Maxstream
 
-
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
 
 
 
@@ -1379,6 +1384,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png" group-title="ENTERTAINMENT",One - Dens.tv
+http://210.210.155.35/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png" group-title="ENTERTAINMENT",One - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/8863
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png" group-title="ENTERTAINMENT",One - TVMalaysia (2)
@@ -1477,13 +1484,12 @@ https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="ENTERTAINMENT",Thrill - Dens.tv
+
+
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="ENTERTAINMENT",Thrill - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/7220
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png" group-title="ENTERTAINMENT",tvN
@@ -1526,9 +1532,9 @@ http://iptv.tvmalaysia.cc/174726/174726/7072
 
 
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/Zee_Bioskop.png" group-title="ENTERTAINMENT",Zee Bioskop - Dens.tv
 
-
-
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 
 
@@ -1562,23 +1568,23 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",Animax - Dens.tv
+
+http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KIDS",Animax - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/6696
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="KIDS",Aniplus - Dens.tv
 
 
-
-
-
-
-
-
-
-
-
-
+http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 
 
@@ -1832,9 +1838,9 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-8YE5_WfiuV4/V_24h9yFX9I/AAAAAAAAftQ/5NTAGZzzaRUhGLnfMOHsBCeSLku5jXx_QCLcB/s1600/my-kids-tv-channel-logo.png" group-title="KIDS",My Kids - Dens.tv
 
-
-
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="KIDS",New Kid TV
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 
@@ -2149,6 +2155,8 @@ http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png" group-title="LIFESTYLE",Gem - Dens.tv
+http://210.210.155.35/uq2663/h/h19/01.m3u8
 
 
 
@@ -2182,8 +2190,8 @@ http://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://emshop.id/media/logo/stores/7/Logo_emshop_2022_tanpa_tagline.png" group-title="LIFESTYLE",M Shop - Vision+
-https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/index.m3u8
+
+
 
 
 
@@ -2360,6 +2368,8 @@ http://live.m2.tv/hls3/stream.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="MUSIC",Maleo - Ninmedia
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/chunklist_w552639060.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",MCC - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mcn6.org/wp-content/uploads/2019/12/logo-t.png" group-title="MUSIC",MCN6
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 
@@ -2523,22 +2533,22 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/43/AlJazeera.png" group-title="NEWS",AlJazeera - Dens.tv
+
+http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/43/AlJazeera.png" group-title="NEWS",AlJazeera - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/6694
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/43/AlJazeera.png" group-title="NEWS",AlJazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
@@ -2661,10 +2671,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/190px-CNA_new_logo.svg.png" group-title="NEWS",Channel News Asia - Dens.tv
 
 
-
-
+http://210.210.155.35/uq2663/h/h29/01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/1080/1*nrRFfv8W3RuFZQpskTIH3A.jpeg" group-title="NEWS",Cheddar News
@@ -2880,6 +2890,8 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="NEWS",NHK World - Dens.tv
+http://210.210.155.35/uq2663/h/h23/index.m3u8
 
 
 
@@ -3032,10 +3044,10 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EnrG4zA.png" group-title="RELIGIOUS",DAAI TV - Dens.tv
 
 
-
-
+http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 
 
 
@@ -3132,9 +3144,9 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://u-channel.tv/wp-content/uploads/2017/08/Logo.png" group-title="RELIGIOUS",U Channel - Dens.tv
 
-
-
+http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #EXTINF:-1 tvg-logo="http://wesaltv.id/wp-content/uploads/2019/08/wesaltv-id-1024x376.png" group-title="RELIGIOUS",Wesal TV - Indostream
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 
@@ -4463,10 +4475,6 @@ http://iptv.tvmalaysia.cc/174726/174726/8836
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://assets.streamtest.in/logo/250/31_ntv-news24.jpg" group-title="(EAST-ASIA)",[JPN] NTV News24
 http://www.news24.jp/livestream/index.m3u8
 
@@ -4499,10 +4507,10 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iGxIDsI.png" group-title="(EAST-ASIA)",[KOR] K+ - Dens.tv
 
 
-
-
+http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 
 
@@ -4512,8 +4520,6 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/KBS_World_24_logo.svg/320px-KBS_World_24_logo.svg.png" group-title="(EAST-ASIA)",[KOR] KBS World - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/6803
-
-
 
 
 
