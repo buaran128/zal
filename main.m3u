@@ -11,8 +11,9 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Antv_logo_%282017%29.png" group-title="NATIONAL",ANTV - Dens.tv
 
-
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
 
 
@@ -79,9 +80,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384
 
 
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/37/Elshinta_TV_2019.png" group-title="NATIONAL",Elshinta TV - Dens.tv
 
 
-
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 
 
 
@@ -115,6 +117,8 @@ https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="NATIONAL",IDX Channel - Vision+
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 
 
@@ -142,9 +146,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="NATIONAL",Indosiar - Dens.tv
 
 
-
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 
 
@@ -163,6 +168,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4
 https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/TAqxeC5.png" group-title="NATIONAL",Insert Live
+http://live.insertlive.com/insertlive/smil:insertlive.smil/playlist.m3u8
 
 
 
@@ -196,8 +203,9 @@ http://rr3.dens.tv/s/s46/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/kompastv.png" group-title="NATIONAL",Kompas TV - UseeTV
 
-
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff3268ef7e5a44f541a7cbde7626ef57566
 
 
 
@@ -219,8 +227,8 @@ http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w253650234_b2692000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="NATIONAL",Magna TV - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
-#EXTINF:-1 tvg-logo="" group-title="NATIONAL",Max2U - Maxstream
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/manifest.mpd
+
+
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Official
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
@@ -360,8 +368,9 @@ https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="NATIONAL",RTV - UseeTV
 
-
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="NATIONAL",RTV - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 
@@ -467,6 +476,8 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/TvOne_logo_%282010%29.png/320px-TvOne_logo_%282010%29.png" group-title="NATIONAL",TVOne - Dens.tv
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="NATIONAL",TVR Parlemen
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
@@ -488,9 +499,9 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="NATIONAL",TVRI (2)
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TVRIKanal3.png" group-title="NATIONAL",TVRI Kanal 3
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://hypeauditor.com/uploads/h/6/a/6/8b297adee8e53d78d7dd562ed49027cd.jpg" group-title="NATIONAL",TVRI Sport
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="NATIONAL",TVRI DKI Jakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="NATIONAL",TVRI Jawa Barat
@@ -918,6 +929,8 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_
 https://rtmtv-powernation-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="DOCUMENTARY",RT Doc
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Silence TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
 
 
@@ -997,9 +1010,10 @@ http://89.187.182.181:9090/SM_FHD_ENG_ANDPRIVE/tracks-v1a1/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYDEkwE.png" group-title="ENTERTAINMENT",AXN - Dens.tv
 
 
-
+http://210.210.155.35/dr9445/h/h141/01.m3u8
 
 
 
@@ -1072,18 +1086,20 @@ http://iptv.tvmalaysia.cc/174726/174726/7235
 
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="ENTERTAINMENT",Chinese Drama - UseeTV
+
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9bTmgDN.png" group-title="ENTERTAINMENT",CinemaWorld - Dens.tv
 
 
 
 
-
+http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9bTmgDN.png" group-title="ENTERTAINMENT",CinemaWorld - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/7219
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ENTERTAINMENT",Cinemax - HBO GO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
@@ -1312,11 +1328,12 @@ http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="ENTERTAINMENT",Hits - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/6800
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="ENTERTAINMENT",Hits - Dens.tv
 
 
 
 
-
+http://210.210.155.35/dr9445/h/h37/02.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tiviplus.tv/wp-content/uploads/2019/08/HITS-MOVIES-Logo-250x154.png" group-title="ENTERTAINMENT",Hits Movies - TVMalaysia
@@ -1331,6 +1348,12 @@ http://iptv.tvmalaysia.cc/174726/174726/7066
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/320px-KIX_logo.svg.png" group-title="ENTERTAINMENT",KIX - Dens.tv
+
+
+http://210.210.155.35/dr9445/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/320px-KIX_logo.svg.png" group-title="ENTERTAINMENT",KIX - TVMalaysia
+http://iptv.tvmalaysia.cc/174726/174726/7229
 
 
 
@@ -1371,12 +1394,15 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="ENTERTAINMENT",my Cinema - Dens.tv
+
+
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 
 
 
-
-
-
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="ENTERTAINMENT",my Cinema Europe - Dens.tv
+http://210.210.155.35/uq2663/h/h18/01.m3u8
 #EXTINF:-1 tvg-logo="https://mycomedy.fr/wp-content/uploads/2017/05/logo-large.png" group-title="ENTERTAINMENT",My Comedy
 #http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
 
@@ -1392,6 +1418,8 @@ http://iptv.tvmalaysia.cc/174726/174726/8863
 http://iptv.tvmalaysia.cc/174726/174726/6817
 #EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0021/6029/6048/files/PAA_logo_6553187a-3e3d-44f4-a53c-d007a2ad49d5_410x.png" group-title="ENTERTAINMENT",People Are Awesome - Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e54169f4b9b25000994a303/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0021/6029/6048/files/PAA_logo_6553187a-3e3d-44f4-a53c-d007a2ad49d5_410x.png" group-title="ENTERTAINMENT",People Are Awesome - Xumo
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
 
 
@@ -1413,6 +1441,10 @@ http://iptv.tvmalaysia.cc/174726/174726/7071
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Rock Entertainment - Dens.tv
+http://210.210.155.35/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Rock Extreme - Dens.tv
+http://210.210.155.35/dr9445/h/h15/01.m3u8
 
 
 
@@ -1494,10 +1526,13 @@ http://iptv.tvmalaysia.cc/174726/174726/7220
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png" group-title="ENTERTAINMENT",tvN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+http://210.210.155.35/dr9445/h/h20/01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png" group-title="ENTERTAINMENT",tvN - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/6844
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="ENTERTAINMENT",tvN Movies - Dens.tv
+http://210.210.155.35/dr9445/h/h21/01.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="ENTERTAINMENT",tvN Movies - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/6845
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="ENTERTAINMENT",tvN Movies - TVMalaysia (2)
@@ -1597,6 +1632,8 @@ http://iptv.tvmalaysia.cc/174726/174726/6715
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="KIDS",Awesome TV
 http://iptv.tvmalaysia.cc/174726/174726/9016
+#EXTINF:-1 tvg-logo="" group-title="KIDS",B Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 
 
@@ -1658,8 +1695,9 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/320px-CBeebies.svg.png" group-title="KIDS",CBeebies
 
-
+http://58.65.171.202:8000/play/2009/index.m3u8
 
 
 
@@ -1691,17 +1729,19 @@ http://188.40.68.167/russia/disney/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38mmLIy.png" group-title="KIDS",Disney Channel
+
+
+http://58.65.171.202:8000/play/7350/index.m3u8
 
 
 
 
 
 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="KIDS",Disney Junior
 
-
-
-
-
+http://58.65.171.202:8000/play/10552/index.m3u8
 
 
 
@@ -1736,9 +1776,10 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://cms.egg.network/media/images/eGG_logo1.original.png" group-title="KIDS",Egg Network - Dens.tv
 
 
-
+http://210.210.155.35/uq2663/h/h22/01.m3u8
 
 
 
@@ -1785,6 +1826,8 @@ https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Jim Jam Polsat
+http://58.65.171.202:8000/play/7351/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Jim Jam Russia
 http://188.40.68.167/russia/jimjam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Ybvtlg.png" group-title="KIDS",Kabillion - Xumo
@@ -1806,6 +1849,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 
 
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg" group-title="KIDS",Kidz - UseeTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Kinder TV
 http://autopilot.catcast.tv/content/38144/index.m3u8
 
@@ -1862,7 +1907,8 @@ http://iptv.tvmalaysia.cc/174726/174726/7201
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nick_Jr.logo.png/320px-Nick_Jr.logo.png" group-title="KIDS",Nick jr
-http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+
+http://58.65.171.202:8000/play/3/index.m3u8
 
 
 
@@ -1903,6 +1949,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="KIDS",Spacetoon (2)
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="KIDS",Spacetoon - Ninmedia
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
 
 
 
@@ -2302,6 +2350,8 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhGTRFn.png" group-title="MUSIC",Desi Channel
@@ -2340,6 +2390,8 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",Hit Music Channel
+http://hitmusic.hu/hitmusic.m3u8
 
 
 
@@ -2379,6 +2431,8 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vydia.com/wp-content/uploads/brand-logo-mtv-white-300x177.png" group-title="MUSIC",MTV
 
 http://ay82.aatvbox.club:8880/xzyc1m11534/XeH2tB3ggs/2912
+#EXTINF:-1 tvg-logo="https://vydia.com/wp-content/uploads/brand-logo-mtv-white-300x177.png" group-title="MUSIC",MTV - Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 
 
@@ -2391,12 +2445,16 @@ http://ay82.aatvbox.club:8880/xzyc1m11534/XeH2tB3ggs/2912
 
 
 
+#EXTINF:-1 tvg-logo="https://vydia.com/wp-content/uploads/brand-logo-mtv-white-300x177.png" group-title="MUSIC",MTV Biggest Pop - Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=870&deviceId=5d14fd1a252d35decbc4080c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/8/88/MTV_Classic_2011.png" group-title="MUSIC",MTV Classic
 http://ay82.aatvbox.club:8880/xzyc1m11534/XeH2tB3ggs/28784
 
 
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_mtvlive_small.png" group-title="MUSIC",MTV Live
+http://58.65.171.202:8000/play/1/index.m3u8
 
 
 
@@ -2431,13 +2489,16 @@ http://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
 http://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/Ocko-Expres-Live.png" group-title="MUSIC",Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8?offsetSeconds=0
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",Pop Musik
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/radioenvivo/images/portalfoxmix-radio-logo-gran-tras.png" group-title="MUSIC",Portal Foxmix
 
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" group-title="MUSIC",Prambors TV - UseeTV
 
-
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-37GgWRhLZAU/XCmgEKO7KjI/AAAAAAAAE4Y/AndO6qs2XfYyIkcA05NsbDmyXH3DKA9oACLcBGAs/s1600/Canale%2B51%2BRadio%2BTV%2Bstreaming.png" group-title="MUSIC",Radio 51 TV
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z8vJ0EV.png" group-title="MUSIC",Radio Capital
@@ -2655,8 +2716,9 @@ http://live.cgtn.com/1000/prog_index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="News",CGTN - Dens.tv
 
-
+http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 
 
 
@@ -3012,9 +3074,10 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGIOUS",Al Quran Al Kareem TV - Dens.tv
 
 
-
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6FcTok4.png" group-title="RELIGIOUS",Al Sunnah Al Nabawiyah
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-ashiil-1-300x123.png" group-title="RELIGIOUS",Ashiil TV
@@ -3478,14 +3541,16 @@ http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/hStJ4LF.png" group-title="SPORTS",Eurosport
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+#EXTINF:-1 tvg-logo="http://home.pilsfree.net/chudy/tvx/eurosport_1_hd.png" group-title="SPORTS",Eurosport 1
+
+http://154.62.74.12:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 
 
 
 
+#EXTINF:-1 tvg-logo="http://home.pilsfree.net/chudy/tvx/eurosport_2_hd.png" group-title="SPORTS",Eurosport 2
 
-
-
-
+http://154.62.74.12:1935/live/smil:eurosport2hdnntv.smil/playlist.m3u8
 
 
 
@@ -3610,11 +3675,6 @@ http://93.157.62.180/KSport3/index.m3u8
 http://93.157.62.180/KSport4/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/320px-KIX_logo.svg.png" group-title="SPORTS",KIX - TVMalaysia
-http://iptv.tvmalaysia.cc/174726/174726/7229
-
-
-
 
 
 
@@ -3661,6 +3721,8 @@ https://95-213-224-181.livesports24.online/rumatchf3.m3u8
 https://chostv.mobie.in/choos/sports/matchqy3.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",MLS - Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MUTV_logo.png" group-title="SPORTS",MU TV
@@ -3694,6 +3756,8 @@ http://62.182.81.111:8000/stef01/stef01/16418
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Now Sports
+http://livetv.dnsfor.me/channel.12.m3u8
 
 
 
@@ -4445,7 +4509,7 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifusão_de_Macau.png" group-title="(EAST-ASIA)",[CHN] TDM (Macau) - Official
-http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifusão_de_Macau.png" group-title="(EAST-ASIA)",[CHN] TDM (Macau)
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 
@@ -5208,6 +5272,7 @@ https://www.googleapis.com/drive/v3/files/1e8zI98_BM0K4sVMo9byeInovIqfwLk7F?alt=
 
 #EXTINF:-1 group-title="VOD HOLLYWOOD",Kingsman Golden Circle
 https://www.googleapis.com/drive/v3/files/13YSPMp_KEUa7iecQ0FmxVOlKC9LoB-z4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 
 
