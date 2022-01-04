@@ -776,8 +776,6 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAr3T2Z.png" group-title="DOCUMENTARY",Crime+Investigation - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2018
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAr3T2Z.png" group-title="DOCUMENTARY",Crime+Investigation - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/9009
 
@@ -811,22 +809,8 @@ http://iptv.tvmalaysia.cc/174726/174726/9009
 
 #EXTINF:-1 tvg-logo="https://imgur.com/hHltHI7.png" group-title="DOCUMENTARY",Discovery Asia - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/6772
-#EXTINF:-1 tvg-logo="https://imgur.com/qIze4p6.png" group-title="DOCUMENTARY",Discovery Channel - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2041
-#EXTINF:-1 tvg-logo="https://imgur.com/qIze4p6.png" group-title="DOCUMENTARY",Discovery Channel - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/9518
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Discovery DMAX - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2003
 
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Discovery MotorTrend - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/40276
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Discovery Real Time - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2007
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="DOCUMENTARY",Discovery Science - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2042
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="DOCUMENTARY",Discovery Science - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/9519
 
 
 
@@ -870,8 +854,6 @@ http://iptv.tvmalaysia.cc/174726/174726/7076
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/m8rlDGX.png" group-title="DOCUMENTARY",History - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/3678
 #EXTINF:-1 tvg-logo="https://imgur.com/m8rlDGX.png" group-title="DOCUMENTARY",History - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/6799
 #EXTINF:-1 tvg-logo="https://imgur.com/m8rlDGX.png" group-title="DOCUMENTARY",History - TVMalaysia (2)
@@ -937,10 +919,6 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY",NAT GEO Wild - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2033
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY",NAT GEO Wild - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/9513
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY",NAT GEO Wild - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/7081
 
@@ -960,10 +938,6 @@ http://iptv.tvmalaysia.cc/174726/174726/7081
 
 
 
-#EXTINF:-1 tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="DOCUMENTARY",National Geographic - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2031
-#EXTINF:-1 tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="DOCUMENTARY",National Geographic - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/9512
 #EXTINF:-1 tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="DOCUMENTARY",National Geographic - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/7075
 
@@ -992,8 +966,6 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Sky Arte - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4409
 
 
 
@@ -1027,6 +999,35 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qIze4p6.png" group-title="DOCUMENTARY (V-SYS)",Discovery Channel
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2041
+
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY (V-SYS)",Discovery DMAX
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2003
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY (V-SYS)",Discovery MotorTrend
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/40276
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY (V-SYS)",Discovery Real Time
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2007
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="DOCUMENTARY (V-SYS)",Discovery Science
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2042
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/m8rlDGX.png" group-title="DOCUMENTARY (V-SYS)",History
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/3678
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY (V-SYS)",NAT GEO Wild
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2033
+
+
+#EXTINF:-1 tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="DOCUMENTARY (V-SYS)",National Geographic
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2031
+
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY (V-SYS)",Sky Arte
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4409
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DAr3T2Z.png" group-title="DOCUMENTARY (V-SYS)",Crime+Investigation
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2018
 
 
 
@@ -1190,8 +1191,6 @@ http://iptv.tvmalaysia.cc/174726/174726/7219
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="ENTERTAINMENT",Comedy Central - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4403
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/667658/dc4ec60cc6dc7bdd4180cd4d71bd478359fa00a3.png" group-title="ENTERTAINMENT",Con TV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 
@@ -1200,8 +1199,6 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Discovery Giallo - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1898
 
 
 
@@ -1248,10 +1245,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/
 
 
 
-#EXTINF:-1 tvg-logo="http://about.edgefactor.com/wp-content/uploads/2016/06/Fox-Logo-v1-300x200.png" group-title="ENTERTAINMENT",Fox - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2142
-#EXTINF:-1 tvg-logo="http://about.edgefactor.com/wp-content/uploads/2016/06/Fox-Logo-v1-300x200.png" group-title="ENTERTAINMENT",Fox - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/5593
 
 
 
@@ -1488,28 +1481,10 @@ http://210.210.155.35/uq2663/h/h143/01.m3u8
 http://iptv.tvmalaysia.cc/174726/174726/8863
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png" group-title="ENTERTAINMENT",One - TVMalaysia (2)
 http://iptv.tvmalaysia.cc/174726/174726/6817
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Paramount Network - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2195
 #EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0021/6029/6048/files/PAA_logo_6553187a-3e3d-44f4-a53c-d007a2ad49d5_410x.png" group-title="ENTERTAINMENT",People Are Awesome - Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e54169f4b9b25000994a303/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0021/6029/6048/files/PAA_logo_6553187a-3e3d-44f4-a53c-d007a2ad49d5_410x.png" group-title="ENTERTAINMENT",People Are Awesome - Xumo
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Premium Action - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1916
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Premium Cinema 1 - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1912
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Premium Cinema 2 - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1922
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Premium Cinema 3 - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1920
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Premium Crime - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1918
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Premium Stories - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1924
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Rai Premium - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1895
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Rai Movie - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1896
 
 
 
@@ -1541,88 +1516,30 @@ http://210.210.155.35/dr9445/h/h15/01.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Atlantic - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2005
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Atlantic - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4398
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Atlantic - V-Sys (3)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/5343
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Sky_Cinema_Action_DE_Logo_2016.png/1200px-Sky_Cinema_Action_DE_Logo_2016.png" group-title="ENTERTAINMENT",Sky Cinema Action - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1904
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Sky_Cinema_Action_DE_Logo_2016.png/1200px-Sky_Cinema_Action_DE_Logo_2016.png" group-title="ENTERTAINMENT",Sky Cinema Action - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4389
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Sky_Cinema_Comedy_DE_Logo_2016.png" group-title="ENTERTAINMENT",Sky Cinema Comedy - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1908
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Sky_Cinema_Comedy_DE_Logo_2016.png" group-title="ENTERTAINMENT",Sky Cinema Comedy - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4390
 
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/f/fd/Sky_Cinema_Drama_%282017-2020%29.png" group-title="ENTERTAINMENT",Sky Cinema Drama - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1910
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/f/fd/Sky_Cinema_Drama_%282017-2020%29.png" group-title="ENTERTAINMENT",Sky Cinema Drama - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4391
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Due - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1905
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Due - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4395
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sky_Cinema_Family_DE_Logo_2016.png" group-title="ENTERTAINMENT",Sky Cinema Family - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1909
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sky_Cinema_Family_DE_Logo_2016.png" group-title="ENTERTAINMENT",Sky Cinema Family - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4392
-
-
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Harry Potter - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1906
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Harry Potter - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4387
-
-
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Investigation - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/3053
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Investigation - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4401
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Investigation - V-Sys (3)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/5594
-
-
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Romance - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1907
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Romance - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4388
 
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Suspense - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4405
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Suspense - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/9517
 
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Uno - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1901
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Uno - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4384
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Uno 2 - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1903
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Cinema Uno 2 - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4386
 
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Uno - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2001
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Uno - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4397
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Sky Uno - V-Sys (3)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/5820
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1672,8 +1589,6 @@ http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 http://iptv.tvmalaysia.cc/174726/174726/7220
 
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Top Crime Mediaset - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2143
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png" group-title="ENTERTAINMENT",tvN
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png" group-title="ENTERTAINMENT",tvN - Dens.tv
@@ -1747,6 +1662,93 @@ http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Discovery Giallo
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1898
+#EXTINF:-1 tvg-logo="http://about.edgefactor.com/wp-content/uploads/2016/06/Fox-Logo-v1-300x200.png (V-SYS)" group-title="ENTERTAINMENT",Fox
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2142
+
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Paramount Network
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2195
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Premium Action
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1916
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Premium Cinema 1
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1912
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Premium Cinema 2
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1922
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Premium Cinema 3
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1920
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Premium Crime
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1918
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Premium Stories
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1924
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Rai Premium
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1895
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Rai Movie
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1896
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Sky Atlantic
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2005
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Sky_Cinema_Action_DE_Logo_2016.png/1200px-Sky_Cinema_Action_DE_Logo_2016.png" group-title="ENTERTAINMENT (V-SYS)",Sky Cinema Action
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1904
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Sky_Cinema_Comedy_DE_Logo_2016.png" group-title="ENTERTAINMENT (V-SYS)",Sky Cinema Comedy
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1908
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/f/fd/Sky_Cinema_Drama_%282017-2020%29.png" group-title="ENTERTAINMENT (V-SYS)",Sky Cinema Drama
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1910
+
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Sky Cinema Due
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1905
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sky_Cinema_Family_DE_Logo_2016.png" group-title="ENTERTAINMENT (V-SYS)",Sky Cinema Family
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1909
+
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Sky Cinema Harry Potter
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1906
+
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Sky Cinema Investigation
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/3053
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Sky Cinema Romance
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1907
+
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Sky Cinema Suspense
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4405
+
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Sky Cinema Uno
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1901
+
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Sky Cinema Uno 2
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1903
+
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Sky Uno
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2001
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-SYS)",Top Crime Mediaset
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2143
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="ENTERTAINMENT (V-SYS)",Comedy Central
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4403
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgp03hzDzxCphKexZrk_kW9TePddS8RE8NafGtHh6j_bHdlpP8" group-title="KIDS",3ABN KIDS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
@@ -2099,7 +2101,7 @@ https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Rai Yoyo - V-Sys
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1975
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Rai Yoyo - V-Sys (2)
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Rai Yoyo 2 - V-Sys
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/5287
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="KIDS",Rotana Kids
 https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
@@ -4119,46 +4121,46 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport 24 - V-Sys
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/140706
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport 24 - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2159
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport 24 - V-Sys (3)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/5579
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Action - V-Sys
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/145822
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Arena - V-Sys
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2106
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Arena - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/5581
+
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Calcio - V-Sys
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/140707
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Calcio - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2108
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Calcio - V-Sys (3)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/5571
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport F1 - V-Sys
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2109
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport F1 - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/5583
+
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Football - V-Sys
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/11
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Football - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/106
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Football - V-Sys (3)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/812
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Moto GP - V-Sys
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2161
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Moto GP - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/5584
+
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport NBA - V-Sys
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2160
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport NBA - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/9520
+
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Tennis - V-Sys
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2175
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Uno - V-Sys
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/164
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sport Uno - V-Sys (2)
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/8585
+
+
 
 
 
