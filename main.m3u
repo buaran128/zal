@@ -462,16 +462,16 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="NATIONAL",Trans 7 - Vidio
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="NATIONAL",Trans 7 - UseeTV
 
 
 http://175.41.151.141/m3u8/vid_Trans_7.m3u8
+
+
+
+
+
 
 
 
@@ -1824,10 +1824,6 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Boing - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2154
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Boing Plus - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2017
 
 
 
@@ -1868,8 +1864,6 @@ http://iptv.tvmalaysia.cc/174726/174726/6757
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="KIDS",Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Cartoonito - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1973
 
 
 
@@ -1896,16 +1890,10 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Discovery Frisbee - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4413
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Discovery KZ - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1981
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9KoVy9.png" group-title="KIDS",Disney Канал
 http://188.40.68.167/russia/disney/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Dea Junior - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/5387
 
 
 
@@ -2101,8 +2089,6 @@ http://58.65.171.202:8000/play/3/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nick_Jr.logo.png/320px-Nick_Jr.logo.png" group-title="KIDS",Nick jr - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4411
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nick_Jr.logo.png/320px-Nick_Jr.logo.png" group-title="KIDS",Nick jr - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/6813
 
@@ -2121,10 +2107,6 @@ https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Rai Yoyo - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1975
-#EXTINF:-1 tvg-logo="" group-title="KIDS",Rai Yoyo 2 - V-Sys
-http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/5287
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="KIDS",Rotana Kids
 https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="KIDS",Rotana Kids (2)
@@ -2211,6 +2193,25 @@ https://rockentertainment-zoomoo-1.roku.wurl.com/manifest/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS (V-Sys)",Boing
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2154
+#EXTINF:-1 tvg-logo="" group-title="KIDS (V-Sys)",Boing Plus
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2017
+#EXTINF:-1 tvg-logo="" group-title="KIDS (V-Sys)",Cartoonito
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1973
+#EXTINF:-1 tvg-logo="" group-title="KIDS (V-Sys)",Dea Junior
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/5387
+#EXTINF:-1 tvg-logo="" group-title="KIDS(V-Sys)",Discovery Frisbee
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4413
+#EXTINF:-1 tvg-logo="" group-title="KIDS(V-Sys)",Discovery KZ
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1981
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nick_Jr.logo.png/320px-Nick_Jr.logo.png" group-title="KIDS (V-Sys)",Nick jr
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4411
+#EXTINF:-1 tvg-logo="" group-title="KIDS (V-Sys)",Rai Yoyo
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1975
+#EXTINF:-1 tvg-logo="" group-title="KIDS (V-Sys)",Rai Yoyo 2
+http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/5287
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="KIDS (Pluto TV)",After School Cartoons
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
