@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="NATIONAL",Test
-http://175.41.151.141/m3u8/vid_Indosiar.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/h4rojdB.png" group-title="NATIONAL",Antara TV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
+
+
+
+
 
 
 
@@ -28,6 +28,11 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="NATIONAL",Berita Satu - Vidio
+
+
+
+http://175.41.151.141/m3u8/vid_Berita_Satu.m3u8
 
 
 
@@ -38,10 +43,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="NATIONAL",Berita Satu - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f268ef7e5a44f541a7cbde7626ef57566
 
 
 
@@ -121,8 +122,8 @@ https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="NATIONAL",IDX Channel - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="NATIONAL",IDX Channel - Vision+
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
@@ -134,6 +135,11 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_98800_e
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="NATIONAL",Indosiar - Vidio
+
+
+
+http://175.41.151.141/m3u8/vid_Indosiar.m3u8
 
 
 
@@ -142,10 +148,6 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_98800_e
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="NATIONAL",Indosiar - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 
 
 
@@ -187,10 +189,11 @@ http://live.insertlive.com/insertlive/smil:insertlive.smil/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/INS42TC.png" group-title="NATIONAL",JakTV - Vidio
 
 
 
-
+http://175.41.151.141/m3u8/vid_Jak_TV.m3u8
 
 
 
@@ -203,20 +206,21 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/INS42TC.png" group-title="NATIONAL",JakTV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b18268ef7e5a44f541a7cbde7626ef57566
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/INS42TC.png" group-title="NATIONAL",JakTV - Dens.tv
 http://rr3.dens.tv/s/s46/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/kompastv.png" group-title="NATIONAL",Kompas TV - Vidio
+
+
+
+http://175.41.151.141/m3u8/vid_Kompas_TV.m3u8
 
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/kompastv.png" group-title="NATIONAL",Kompas TV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff3268ef7e5a44f541a7cbde7626ef57566
 
 
 
@@ -242,6 +246,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Official
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Vidio
+
+
+
+http://175.41.151.141/m3u8/vid_Metro_TV.m3u8
 
 
 
@@ -250,10 +259,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-metro-tv-png-2.png" group-title="NATIONAL",Metro TV - Maxstream
 
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
@@ -291,6 +296,28 @@ https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="NATIONAL",mytv - Vidio
+
+
+
+http://175.41.151.141/m3u8/vid_myTV.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="NATIONAL",NET. - Vidio
+
+
+
+http://175.41.151.141/m3u8/vid_Net_TV.m3u8
 
 
 
@@ -307,50 +334,32 @@ https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="NATIONAL",NET. - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f0268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/Netmediatama.png" group-title="NATIONAL",NET. - Dens.tv
 
 
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="NATIONAL",Nusantara TV - Vidio
 
 
 
-
+http://175.41.151.141/m3u8/vid_Nusantara_TV.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="NATIONAL",Nusantara TV
 https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="NATIONAL",Nusantara TV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f9268ef7e5a44f541a7cbde7626ef57566
 
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/320px-Ochannel.png" group-title="NATIONAL",O Channel - Vidio
 
 
+
+http://175.41.151.141/m3u8/vid_O_Channel.m3u8
 
 
 
@@ -378,20 +387,21 @@ https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="NATIONAL",RRI Net - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a268ef7e5a44f541a7cbde7626ef57566
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="NATIONAL",RTV - Vidio
+
+
+
+http://175.41.151.141/m3u8/vid_RTV.m3u8
 
 
 
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="NATIONAL",RTV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc56268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="NATIONAL",RTV - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 
@@ -409,6 +419,11 @@ http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="NATIONAL",SCTV - Vidio
+
+
+
+http://175.41.151.141/m3u8/vid_SCTV.m3u8
 
 
 
@@ -423,10 +438,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="NATIONAL",SCTV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="NATIONAL",SCTV - Dens.tv
 
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
@@ -436,8 +447,8 @@ http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png" group-title="NATIONAL",Sea Today - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6faa8040da20ef399b63a72d0e4ab575dfdded94c48ea6229c48edefa9ec1c9f
+
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png" group-title="NATIONAL",Sea Today - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 
@@ -457,11 +468,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-4
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="NATIONAL",Trans 7 - UseeTV
 
 
+http://175.41.151.141/m3u8/vid_Trans_7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="NATIONAL",Trans 7 - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f16a41c2a2a7270517f5ce8dd2f48fc68d
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="NATIONAL",Trans 7 - Detik.com
@@ -472,6 +484,11 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/320px-Trans_TV_2013.svg.png" group-title="NATIONAL",Trans TV - Vidio
+
+
+
+http://175.41.151.141/m3u8/vid_Trans_TV.m3u8
 
 
 
@@ -482,10 +499,6 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/320px-Trans_TV_2013.svg.png" group-title="NATIONAL",Trans TV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/320px-Trans_TV_2013.svg.png" group-title="NATIONAL",Trans TV - Detik.com
 
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
@@ -493,6 +506,8 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5E-nAhqyUlmRlAHGkvRPqmNJvfk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7946/tv-tempo-ed7796.jpg" group-title="NATIONAL",TV Tempo - Vidio
+http://175.41.151.141/m3u8/vid_TV_Tempo.m3u8
 
 
 
@@ -511,10 +526,11 @@ http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="NATIONAL",TVRI - Vidio
 
 
 
-
+http://175.41.151.141/m3u8/vid_TVRI.m3u8
 
 
 
@@ -527,8 +543,8 @@ http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="NATIONAL",TVRI (2)
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="NATIONAL",TVRI - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf268ef7e5a44f541a7cbde7626ef57566
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TVRIKanal3.png" group-title="NATIONAL",TVRI Kanal 3
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://hypeauditor.com/uploads/h/6/a/6/8b297adee8e53d78d7dd562ed49027cd.jpg" group-title="NATIONAL",TVRI Sport
@@ -665,8 +681,8 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pfiT7Kx.png" group-title="LOCAL",JTV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b268ef7e5a44f541a7cbde7626ef57566
+
+
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" group-title="LOCAL",Kawanua TV - PC24
@@ -731,6 +747,8 @@ http://103.30.1.14:8080/hls/live.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6lUbvh.png" group-title="DOCUMENTARY",Animal Planet - ShowPlus
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61572
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S6lUbvh.png" group-title="DOCUMENTARY",Animal Planet - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/7077
 
@@ -767,8 +785,8 @@ http://iptv.tvmalaysia.cc/174726/174726/7077
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY",CGTN Documentary - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY",CGTN Documentary - Dens.tv
 
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
@@ -1152,8 +1170,8 @@ http://iptv.tvmalaysia.cc/174726/174726/7235
 
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="ENTERTAINMENT",Chinese Drama - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+
+
 
 
 
@@ -1485,6 +1503,8 @@ http://iptv.tvmalaysia.cc/174726/174726/6817
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e54169f4b9b25000994a303/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0021/6029/6048/files/PAA_logo_6553187a-3e3d-44f4-a53c-d007a2ad49d5_410x.png" group-title="ENTERTAINMENT",People Are Awesome - Xumo
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",RANS Channel - Vidio
+http://175.41.151.141/m3u8/vid_Rans_Channel.m3u8
 
 
 
@@ -2014,8 +2034,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 
 
-#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg" group-title="KIDS",Kidz - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
+
+
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Kinder TV
 http://autopilot.catcast.tv/content/38144/index.m3u8
 
@@ -2042,6 +2062,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="KIDS",MBC 3 (EUR)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Mentari TV - Vidio
+http://175.41.151.141/m3u8/vid_Mentari_TV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/circle_190x190.png" group-title="KIDS",Moonbug Kids
@@ -2152,16 +2174,17 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" group-title="KIDS",TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="KIDS",TV Edukasi - Vidio
+
+
+
+http://175.41.151.141/m3u8/vid_TV_Edukasi.m3u8
 
 
 
 
 
 
-
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="KIDS",TV Edukasi - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d23268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="KIDS",TV Edukasi - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
 
@@ -2316,8 +2339,8 @@ http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2016
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/320px-Arirang-TV-Logo.svg.png" group-title="LIFESTYLE",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/320px-Arirang-TV-Logo.svg.png" group-title="LIFESTYLE",Arirang - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
+
+
 
 
 
@@ -2427,10 +2450,11 @@ http://lifetv.bitflip.ee/live/stream1.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.oshop.co.id/static/version1583104457/frontend/Oshop/default/id_ID/images/logo-oshop.png" group-title="LIFESTYLE",O Shop - Vidio
 
 
 
-
+http://175.41.151.141/m3u8/vid_O_Shop.m3u8
 
 
 
@@ -2668,8 +2692,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS09/master.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ulsQWVw0_57XBtqbVw3K959Y1Ik=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="MUSIC",Musica - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc8266a41c2a2a7270517f5ce8dd2f48fc68d
+
+
 
 
 
@@ -2699,8 +2723,8 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.
 
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" group-title="MUSIC",Prambors TV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
+
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-37GgWRhLZAU/XCmgEKO7KjI/AAAAAAAAE4Y/AndO6qs2XfYyIkcA05NsbDmyXH3DKA9oACLcBGAs/s1600/Canale%2B51%2BRadio%2BTV%2Bstreaming.png" group-title="MUSIC",Radio 51 TV
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z8vJ0EV.png" group-title="MUSIC",Radio Capital
@@ -2782,6 +2806,8 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iCiRwiD.png" group-title="NEWS",ABC News - NForce
+http://93.157.62.180/ABCNews/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/abc-news-logo-png-2.png" group-title="NEWS",ABC News Live - Xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
@@ -2991,16 +3017,17 @@ http://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS",DW - Vidio
+
+
+
+http://175.41.151.141/m3u8/vid_DW.m3u8
 
 
 
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS",DW - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
 
 
 
@@ -3035,8 +3062,8 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="NEWS",Euronews - Dailymotion
 
 http://3.142.159.208:2703/m3u8/dm_Euronews.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="NEWS",Euronews - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
+
+
 
 
 
@@ -3099,8 +3126,8 @@ http://ott-cdn.ucom.am/s89/04.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="NEWS",France 24 - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f
+
+
 
 
 
@@ -3164,10 +3191,12 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/master.m3u8
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="NEWS",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="NEWS",NHK World - Vidio
+http://175.41.151.141/m3u8/vid_NHK_World.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="NEWS",NHK World - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
+
+
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="NEWS",NHK World - Dens.tv
 http://210.210.155.35/uq2663/h/h23/index.m3u8
 
@@ -3229,8 +3258,8 @@ https://tv-trtworld.live.trt.com.tr/master_480.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/320px-TRT_World_logo.svg.png" group-title="NEWS",TRT World - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=a666587afda6e89aec274a3657558a27dfdded94c48ea6229c48edefa9ec1c9f
+
+
 
 
 
@@ -3260,10 +3289,11 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dMEGEYjDrxo/X5iVsneE3kI/AAAAAAAAqMM/WNteVon_VOcAESdwt-NhzIUIY5Gs80ZMwCLcBGAsYHQ/s0/ajwa-tv-channel-logo.png" group-title="RELIGIOUS",Ajwa TV - Vidio
 
 
 
-
+http://175.41.151.141/m3u8/vid_Ajwa_TV.m3u8
 
 
 
@@ -3284,16 +3314,17 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGIOUS",Al Quran Al Kareem TV - Vidio
+
+
+
+http://175.41.151.141/m3u8/vid_AlQuran_AlKarim_TV.m3u8
 
 
 
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGIOUS",Al Quran Al Kareem TV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
 
 
 
@@ -3321,6 +3352,11 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EnrG4zA.png" group-title="RELIGIOUS",DAAI TV - Vidio
+
+
+
+http://175.41.151.141/m3u8/vid_DAAI.m3u8
 
 
 
@@ -3331,10 +3367,6 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EnrG4zA.png" group-title="RELIGIOUS",DAAI TV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd4755294268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnrG4zA.png" group-title="RELIGIOUS",DAAI TV - Dens.tv
 
 
@@ -3372,24 +3404,25 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 https://tv.rodja.live/tasik/mgitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKJqhTN/mtatv.png" group-title="RELIGIOUS",MTA TV - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BKJqhTN/mtatv.png" group-title="RELIGIOUS",MTA TV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e369853df766fa44e1ed0ff613f563bddfdded94c48ea6229c48edefa9ec1c9f
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png" group-title="RELIGIOUS",MQTV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=37693cfc748049e45d87b8c7d8b9aacddfdded94c48ea6229c48edefa9ec1c9f
+
+
+
+
 #EXTINF:-1 tvg-logo="https://live.artvisi.or.id/logo/muadztv.png" group-title="RELIGIOUS",Muadz TV - Indostreamer
 http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS",MUI TV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
+
+
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2ekocy.png" group-title="RELIGIOUS",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-logo="https://reformed21.tv/images/logo.png" group-title="RELIGIOUS",Reformed21 - Vidio
 
 
 
-
+http://175.41.151.141/m3u8/vid_Reformed_21.m3u8
 
 
 
@@ -3402,8 +3435,8 @@ http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_198x60.png" group-title="RELIGIOUS",Rodja TV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
+
+
 #EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_198x60.png" group-title="RELIGIOUS",Rodja TV - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
 
@@ -3419,8 +3452,8 @@ http://119.235.249.58:1935/surautv/live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="RELIGIOUS",Tawwaf TV - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=ef0d3930a7b6c95bd2b32ed45989c61fdfdded94c48ea6229c48edefa9ec1c9f
+
+
 
 
 
@@ -3433,20 +3466,21 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://tvmu.tv/wp-content/uploads/2014/12/tvmu1-e1418461698456.png" group-title="RELIGIOUS",TV Muhammadiyah - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=34173cb38f07f89ddbebc2ac9128303fdfdded94c48ea6229c48edefa9ec1c9f
-
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png" group-title="RELIGIOUS",TV9 NU - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9188905e74c28e489b44e954ec0b9bcadfdded94c48ea6229c48edefa9ec1c9f
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="http://u-channel.tv/wp-content/uploads/2017/08/Logo.png" group-title="RELIGIOUS",U Channel - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=f0935e4cd5920aa6c7c996a5ee53a70fdfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="http://u-channel.tv/wp-content/uploads/2017/08/Logo.png" group-title="RELIGIOUS",U Channel - Vidio
+
+
+
+http://175.41.151.141/m3u8/vid_U_Channel.m3u8
+
+
 
 
 
@@ -3530,6 +3564,10 @@ http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_arryadia.png" group-title="SPORTS",Arryadia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://st.astr.ru/gallery/5a703e228843b/a06705b.png" group-title="SPORTS",Астрахань.ru Sport
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="SPORTS",Arena 2 - TVMalaysia
@@ -3539,8 +3577,8 @@ http://iptv.tvmalaysia.cc/174726/174726/9028
 http://iptv.tvmalaysia.cc/174726/174726/6707
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" group-title="SPORTS",Astro Supersport - VStreams
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png" group-title="SPORTS",Astro Supersport - TVMalaysia
 
 http://iptv.tvmalaysia.cc/174726/174726/6708
@@ -3550,8 +3588,8 @@ http://iptv.tvmalaysia.cc/174726/174726/9024
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" group-title="SPORTS",Astro Supersport 2 - VStreams
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png" group-title="SPORTS",Astro Supersport 2 - TVMalaysia
 
 http://iptv.tvmalaysia.cc/174726/174726/6710
@@ -3561,8 +3599,8 @@ http://iptv.tvmalaysia.cc/174726/174726/9025
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png" group-title="SPORTS",Astro Supersport 3 - VStreams
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png" group-title="SPORTS",Astro Supersport 3 - TVMalaysia
 
 http://iptv.tvmalaysia.cc/174726/174726/9020
@@ -3570,8 +3608,8 @@ http://iptv.tvmalaysia.cc/174726/174726/9020
 https://iptvid.cgflix.xyz/sports/assp3.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png" group-title="SPORTS",Astro Supersport 4 - VStreams
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png" group-title="SPORTS",Astro Supersport 4 - TVMalaysia
 
 http://iptv.tvmalaysia.cc/174726/174726/6712
@@ -3847,8 +3885,8 @@ https://chostv.mobie.in/choos/sports/qyt2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Fox Cricket 501 - VStreams
-http://vstreams.tv:2082/live/rb0zYNF5GQ/FGWoCyPvwt/2180746.m3u8
+
+
 
 
 
@@ -3927,14 +3965,20 @@ http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4180
 
 
 
-#EXTINF:-1 tvg-logo="https://abdyli.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="SPORTS",K Sport 1
+#EXTINF:-1 tvg-logo="https://abdyli.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="SPORTS",K Sport 1 - NForce
 http://93.157.62.180/KSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://abdyli.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="SPORTS",K Sport 2
+#EXTINF:-1 tvg-logo="https://abdyli.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="SPORTS",K Sport 2 - NForce
 http://93.157.62.180/KSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://abdyli.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="SPORTS",K Sport 3
+#EXTINF:-1 tvg-logo="https://abdyli.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="SPORTS",K Sport 2 - ShowPlus
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62230
+#EXTINF:-1 tvg-logo="https://abdyli.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="SPORTS",K Sport 3 - NForce
 http://93.157.62.180/KSport3/index.m3u8
-#EXTINF:-1 tvg-logo="https://abdyli.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="SPORTS",K Sport 4
+#EXTINF:-1 tvg-logo="https://abdyli.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="SPORTS",K Sport 3 - ShowPlus
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62229
+#EXTINF:-1 tvg-logo="https://abdyli.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="SPORTS",K Sport 4 - NForce
 http://93.157.62.180/KSport4/index.m3u8
+#EXTINF:-1 tvg-logo="https://abdyli.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="SPORTS",K Sport 4 - ShowPlus
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62228
 
 
 
@@ -3951,6 +3995,8 @@ http://93.157.62.180/KSport4/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Kujtesa Sport 2 - ShowPlus
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53133
 
 
 
@@ -4095,8 +4141,9 @@ http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/52407
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Aa9BVa.png" group-title="SPORTS",RTSH Sport - NForce
 
-
+http://93.157.62.180/RTSHSport/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",RTV San Marino Sport
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 
@@ -4175,10 +4222,10 @@ http://iptv.tvmalaysia.cc/174726/174726/6619
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/320px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="SPORTS",Sky Sports F1 - VStreams
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1000730
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/320px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="SPORTS",Sky Sports F1 - VStreams (2)
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2176489
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/320px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="SPORTS",Sky Sports F1 - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/6617
 
@@ -4351,6 +4398,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Super Sport 3 - ShowPlus
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53156
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Super Sport 4 - ShowPlus
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53157
 
 
 
@@ -4389,8 +4440,8 @@ http://iptv.tvmalaysia.cc/174726/174726/6576
 http://iptv.tvmalaysia.cc/penang175/penang175/6572
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="SPORTS",SuperSport La Liga - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/6575
-#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-motorsport.png" group-title="SPORTS",SuperSport Motorsport - VStreams
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170846
+
+
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-motorsport.png" group-title="SPORTS",SuperSport Motorsport - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/7142
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="SPORTS",SuperSport Premier League - TVMalaysia
@@ -4433,6 +4484,10 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Tring Sport 2 HD - ShowPlus
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62226
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Tring Sport 4 HD - ShowPlus
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62224
 
 
 
@@ -4502,6 +4557,8 @@ http://iptv.tvmalaysia.cc/174726/174726/8926
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tm-turkmenistan-sport-tv-2918-300x225.jpg" group-title="SPORTS",Turkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",TVA SPORTS - ShowPlus
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/60235
 
 
 
@@ -4815,8 +4872,8 @@ http://ivi.bupt.edu.cn/hls/cctv3.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0HX4ZrH.png" group-title="(EAST-ASIA)",[CHN] CCTV 4
 http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0HX4ZrH.png" group-title="(EAST-ASIA)",[CHN] CCTV 4 - Coday
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=b53b3a3d6ab90ce0268229151c9bde11f93fb3c9879684db94f7af38b446022a
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/qB8F62v.png" group-title="(EAST-ASIA)",[CHN] CCTV 5
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5
 
@@ -5732,164 +5789,199 @@ https://www.googleapis.com/drive/v3/files/13YSPMp_KEUa7iecQ0FmxVOlKC9LoB-z4?alt=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Astro_Hitz.png" group-title="RADIO",Astro Hitz
 http://astro1.rastream.com/hitz?type=mp3
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/FSRRuSZqUfxjga5I8S1_kisObU0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7091/bahana-fm-a72d38.jpg" group-title="RADIO",Bahana FM Jakarta - Vidio
 
 
 
-
+http://175.41.151.141/m3u8/vid_Bahana_FM.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YBRzjHB0WdpbFqML5KeaGwS87aI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7054/brava-audio-98ab26.jpg" group-title="RADIO",Brava FM Jakarta - Vidio
 
-http://3.142.159.208:2703/m3u8/7054.m3u8
+
+http://175.41.151.141/m3u8/vid_Brava_FM.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/VFEP9jF-lVgH-yKeTVihzbYM92k=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7056/cosmopolitan-df0bea.jpg" group-title="RADIO",Cosmopolitan FM Jakarta - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Cosmopolitan_Radio.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T4UHo0LCl-climV31E81V2d9YgA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7092/delta-fm-8a4ed5.jpg" group-title="RADIO",Delta FM Jakarta - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Delta_FM.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oj6YyMLXBYx6etq-_OIyff0fMiI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7166/elshinta-90-fm-502fc0.jpg" group-title="RADIO",Elshinta FM Jakarta - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Elshinta_FM.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-y11cfX-d77Xfd8DTeRjp17ejYo=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7130/female-fm-6085d4.jpg" group-title="RADIO",Female FM Jakarta - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Female_Radio.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/bFHhgLaRv-_3oExRdCBPVxbjaic=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7443/gen-fm-jakarta-dc9ca6.jpg" group-title="RADIO",Gen FM Jakarta - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Gen_FM_Jakarta.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KgrzkneEj4mt36hQyoeRYHSwGOM=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7053/hardrock-725b7c.jpg" group-title="RADIO",Hard Rock FM Jakarta - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Hard_Rock_FM.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lZIGWxKxvVvtO9sYbMzb6xT-LKM=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7448/hot-fm-778737.jpg" group-title="RADIO",Hot FM Jakarta - Vidio
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://175.41.151.141/m3u8/vid_Hot_FM.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/57jrOGpbmYOdNY7aHVqGd2qPITA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7057/iradio-fm-5ae133.jpg" group-title="RADIO",i-Radio FM Jakarta - Vidio
 
-http://3.142.159.208:2703/m3u8/7057.m3u8
+
+http://175.41.151.141/m3u8/vid_i-Radio.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/GRs-gJKLOZprtR2dw0lO-qN_mlk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8024/indika-radio-329af1.jpg" group-title="RADIO",Indika FM Jakarta - Vidio
+http://175.41.151.141/m3u8/vid_Indika_FM.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YlMkC_ZtBxhBcnmAGU6JkBWkkUU=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7449/jak-fm-b210a4.jpg" group-title="RADIO",Jak FM Jakarta - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Jak_FM.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZhpKRsBU5KafbjKovPDD7lOTQSM=/640x360/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7445/kis-fm-421d0d.jpg" group-title="RADIO",Kis FM Jakarta - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Kis_FM.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/pLBG2tn0kG9z-kFvZiSRNG7ccx8=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7450/most-fm-6fe9b9.jpg" group-title="RADIO",Most FM Jakarta - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_MOST_FM.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6gcPiPV5FTd36kNbUdVcVfM2orE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7447/test-radio-mustang-fm-cca93a.jpg" group-title="RADIO",Mustang FM Jakarta - Vidio
 
 
 
-
-
-
-
-
-
+http://175.41.151.141/m3u8/vid_Mustang_FM.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s290392d.png" group-title="RADIO",Nagaswara FM Jakarta
 http://jakarta.nagaswarafm.com:8200/stream
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HlUZ047VwHBwWe9SYkb782uRSSw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7004/prambors-on-air-497a58.jpg" group-title="RADIO",Prambors FM Jakarta - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Prambors_FM.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DrxV76AUlmb94CTMuxJ6CBPluaE=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7055/trax-radio-fm-f696e0.jpg" group-title="RADIO",Trax FM Jakarta - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Trax_Jakarta.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-DW-EKtf6E70OM9f7YyXM6_6NFE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7184/ardan-radio-db4b07.jpg" group-title="RADIO",Ardan FM Bandung - Vidio
 
 
-
-
-
-
-
+http://175.41.151.141/m3u8/vid_Ardan.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-DW-EKtf6E70OM9f7YyXM6_6NFE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7184/ardan-radio-db4b07.jpg" group-title="RADIO",Ardan FM Bandung
 http://listento.ardanRADIO.com:1059
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2uKZMyskjeaNVXn7bVfC35pfOGw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="RADIO",Cakra FM Bandung - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Cakra_FM.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lwTyMxVS5rZJEx8enJ-AIGtfgtc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="RADIO",Dahlia FM Bandung - Vidio
 
 
 
-
-
-
-
+http://175.41.151.141/m3u8/vid_Dahlia_FM.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6oKgnw867mne27GzUUtVtT0N2UQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7188/mgtradio-3f010f.jpg" group-title="RADIO",MGT FM Bandung - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7188
-http://3.142.159.208:2703/m3u8/7188.m3u8
+
+
+http://175.41.151.141/m3u8/vid_MGT.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/b9YvrEUG-WpUygCrKvlXNpNbSG0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7685/paramuda-fm-5a8478.jpg" group-title="RADIO",Paramuda FM Bandung - Vidio
+
+http://175.41.151.141/m3u8/vid_Paramuda_FM.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/mWKsYcW1t6axKfZhBeydNRLYoPk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7684/rama-bandung-4d3e5a.jpg" group-title="RADIO",Rama FM Bandung - Vidio
+http://175.41.151.141/m3u8/vid_Rama_FM.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/i71qsJ-rpNRzvRVHi4FiAl9lqqw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7169/test-elgangga-241624.jpg" group-title="RADIO",Elgangga FM Bekasi - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Elgangga_FM.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BlQVi3IuDa3cNIcBUlsQpkmosFU=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7170/test-elmitra-284cd6.jpg" group-title="RADIO",Elmitra FM Sukabumi - Vidio
+
+
+http://175.41.151.141/m3u8/vid_Elmitra_FM.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TUUw9FmfGOyhAVomlu68R7nAhRA=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7216/test-geronimo-428e77.jpg" group-title="RADIO",Geronimo FM Jogja - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Geronimo_FM.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sRxNoord2ta_n9tBIqjiNRIj7dY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7792/jiz-fm-ded2a5.jpg" group-title="RADIO",Jiz FM Jogja - Vidio
+
+http://175.41.151.141/m3u8/vid_Jiz_FM.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/j5Z0S8S-qTr50wyzwpQOncE6jsc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7248/swaragama-fm-jogja-69421e.jpg" group-title="RADIO",Swaragama FM Jogja! - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Swaragama_FM.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/JEAFdxncphI9NZIpRaIMCJsp0l8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7281/imelda-fm-62c9f4.jpg" group-title="RADIO",Imelda FM Semarang - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Imelda_FM.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0QlHgn8G8mWV_BtoVTFguAsdq4o=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7284/gajahmada-b307da.jpg" group-title="RADIO",Gajahmada FM Semarang - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Gajahmada_FM.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/u_TFz7CXswyM5PaK7NXzLCKrMS0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7283/swara-semarang-579dc0.jpg" group-title="RADIO",Swara Semarang - Vidio
 
 
 
+http://175.41.151.141/m3u8/vid_Swara_FM.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/f2Pa-D6gh_VtYtE1o9XNkFmDl_w=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7446/gen-fm-surabaya-1cafa7.jpg" group-title="RADIO",Gen FM Surabaya - Vidio
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://175.41.151.141/m3u8/vid_Gen_FM_Surabaya.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/18lCPF0r-GxnzqMssQk3QYfZbec=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7218/sushi-radio-1e2940.jpg" group-title="RADIO",Sushi FM Padang - Vidio
-#https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=7218
-http://3.142.159.208:2703/m3u8/7218.m3u8
+
+
+http://175.41.151.141/m3u8/vid_Sushi_Padang.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="RADIO",Era FM Malaysia - TVMalaysia
@@ -5900,353 +5992,3 @@ http://iptv.tvmalaysia.cc/174726/174726/7170
 http://iptv.tvmalaysia.cc/174726/174726/7172
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="RADIO",THR GEGAR Malaysia - TVMalaysia
 http://iptv.tvmalaysia.cc/174726/174726/7174
-
-
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",BBC EARTH HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61566
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",BOOMERANG - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61578
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",C MORE FIRST HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61560
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",C MORE HITS HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61561
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",C MORE SERIES HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61562
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",C MORE STARS HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61563
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",COMEDY CENTRAL - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61548
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",DISCOVERY CHANNEL HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61569
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",DISCOVERY SCIENCE - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61570
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",DISCOVERY WORLD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61571
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",DISNEY CHANNEL - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61577
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",E! ENTERTAINMENT TV - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61558
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",FEM HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61556
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",FOX HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61545
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",HISTORY HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61575
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",MATKANALEN - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61557
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",MAX HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61564
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",MTV HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61581
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",NATIONAL GEOGRAPHIC HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61573
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",NATIONAL GEOGRAPHIC WILD HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61574
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",NICKELODEON - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61579
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",NICKTOONS - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61580
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",NRK 1 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61538
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",NRK 1 HD (B - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61539
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",NRK 2 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61540
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",NRK 3/SUPER HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61541
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",SF-KANALEN - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61559
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",STORTINGET HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61586
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TLC HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61547
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV NORGE HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61533
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV VISJON NORGE HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61554
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV2 HUMOR HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61534
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV2 LIVSSTIL HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61549
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV2 NORGE - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61535
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV2 NORGE HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61550
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV2 NYHETSKANALEN HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61551
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV2 SPORT - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62159
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV2 ZEBRA HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61552
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV2 ZEBRA HD (B - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61553
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV3 Norge HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61536
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV6 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61537
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT 4 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61542
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT EXPLORER - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61543
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT HISTORY - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61568
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT HOCKEY HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61544
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT NATURE - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61567
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT SERIES HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61588
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT SPORT HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62158
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VOX HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61546
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",AL JAZEERA ENGLISH - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61453
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",ANIMAL PLANET HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61482
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",BBC BRIT - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61480
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",BBC EARTH HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61487
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",BBC WORLD NEWS - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61454
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",BLOOMBERG - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62232
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",BOOMERANG - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61495
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",C MORE FIRST HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61506
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",C MORE FOTBOLL HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61516
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",C MORE HITS HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61507
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",C MORE HOCKEY HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61518
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",C MORE LIVE 2 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61520
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",C MORE LIVE 4 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61522
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",C MORE LIVE 5 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61523
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",C MORE LIVE HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61519
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",C MORE SERIES HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61504
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",C MORE STARS HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61505
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",CBS REALITY - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62233
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",CNBC - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61455
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",CNN INTERNATIONAL - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62234
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",COMEDY CENTRAL HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61472
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",DISCOVERY HD SHOWCASE - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61484
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",DISCOVERY SCIENCE - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61485
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",DISCOVERY WORLD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61486
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",DISNEY JUNIOR - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61497
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",DISNEY XD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61498
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",E! ENTERTAINMENT - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62235
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",EXPRESSEN TV - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61473
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",FOX HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61470
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",H2 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62237
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",HISTORY HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61490
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",HORSE & COUNTRY TV - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61474
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",INVESTIGATION DISCOVERY - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61494
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",KANAL 10 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62240
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",KANAL 11 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61466
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",KANAL 5 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61467
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",KANAL 9 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61468
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",KUNSKAPSKANALEN HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61475
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",MTV ROCKS INTERNATIONAL - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61514
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",NAT GEO WILD HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61488
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",NICK JR. HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61500
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",NICKELODEON HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61501
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",NICKTOONS - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61502
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",SJUAN HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61477
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",SPORTKANALEN HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61515
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",SVT1 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61457
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",SVT2 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61458
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TLC HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61471
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TRAVEL CHANNEL HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61493
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV10 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61459
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV12 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61460
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV3 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61461
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV3 SPORT HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61531
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV4 Fakta - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61299
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV4 GULD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61462
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV4 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61463
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV6 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61464
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",TV8 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61465
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VH1 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61469
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT EXPLORE - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61479
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT FILM ACTION HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61511
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT FILM FAMILY - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61510
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT FILM HITS HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61509
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT FILM PREMIERE HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61512
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT HOCKEY HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61528
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT MOTOR HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61527
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT NATURE - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61492
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT SERIES HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61508
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT SPORT HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61524
-#EXTINF:-1 tvg-logo="" group-title="Scandinavia",VIASAT SPORT PREMIUM HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61525
-#EXTINF:-1 tvg-logo="" group-title="Albania",A1 ISLAM - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53095
-#EXTINF:-1 tvg-logo="" group-title="Albania",Alb Humor - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53092
-#EXTINF:-1 tvg-logo="" group-title="Albania",BBF Music - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53091
-#EXTINF:-1 tvg-logo="" group-title="Albania",Cufo - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53100
-#EXTINF:-1 tvg-logo="" group-title="Albania",Dasma TV - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53101
-#EXTINF:-1 tvg-logo="" group-title="Albania",Digi Gold 1 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53106
-#EXTINF:-1 tvg-logo="" group-title="Albania",Digi Gold 2 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53107
-#EXTINF:-1 tvg-logo="" group-title="Albania",Digi Gold 3 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53108
-#EXTINF:-1 tvg-logo="" group-title="Albania",Elrodi TV - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53109
-#EXTINF:-1 tvg-logo="" group-title="Albania",Explorer Histori - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53110
-#EXTINF:-1 tvg-logo="" group-title="Albania",Explorer Natyra - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53111
-#EXTINF:-1 tvg-logo="" group-title="Albania",Explorer Shkenc - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53112
-#EXTINF:-1 tvg-logo="" group-title="Albania",FAX NEWS - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/65974
-#EXTINF:-1 tvg-logo="" group-title="Albania",Film Aksion - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53089
-#EXTINF:-1 tvg-logo="" group-title="Albania",Film Autor - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53113
-#EXTINF:-1 tvg-logo="" group-title="Albania",Film Drame - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53088
-#EXTINF:-1 tvg-logo="" group-title="Albania",Film Dy HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53087
-#EXTINF:-1 tvg-logo="" group-title="Albania",Film Gold 2 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53114
-#EXTINF:-1 tvg-logo="" group-title="Albania",Film Gold 4 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53116
-#EXTINF:-1 tvg-logo="" group-title="Albania",Film Hits - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53086
-#EXTINF:-1 tvg-logo="" group-title="Albania",Film Komedi - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53118
-#EXTINF:-1 tvg-logo="" group-title="Albania",Film Thriller - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53085
-#EXTINF:-1 tvg-logo="" group-title="Albania",Folk - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53122
-#EXTINF:-1 tvg-logo="" group-title="Albania",Folklorit - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53123
-#EXTINF:-1 tvg-logo="" group-title="Albania",Jolly HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53124
-#EXTINF:-1 tvg-logo="" group-title="Albania",Junior TV - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53125
-#EXTINF:-1 tvg-logo="" group-title="Albania",KLAN Kosova HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53129
-#EXTINF:-1 tvg-logo="" group-title="Albania",KLAN Plus - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53130
-#EXTINF:-1 tvg-logo="" group-title="Albania",KTV HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53080
-#EXTINF:-1 tvg-logo="" group-title="Albania",Kino Premiere 1 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53083
-#EXTINF:-1 tvg-logo="" group-title="Albania",Kino Premiere 3 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53084
-#EXTINF:-1 tvg-logo="" group-title="Albania",Living HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53134
-#EXTINF:-1 tvg-logo="" group-title="Albania",Muse - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53136
-#EXTINF:-1 tvg-logo="" group-title="Albania",News 24 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53137
-#EXTINF:-1 tvg-logo="" group-title="Albania",ORA News - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53138
-#EXTINF:-1 tvg-logo="" group-title="Albania",Peace TV - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53078
-#EXTINF:-1 tvg-logo="" group-title="Albania",RTK 1 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53077
-#EXTINF:-1 tvg-logo="" group-title="Albania",RTK 2 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53076
-#EXTINF:-1 tvg-logo="" group-title="Albania",RTK 3 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53075
-#EXTINF:-1 tvg-logo="" group-title="Albania",RTK 4 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53074
-#EXTINF:-1 tvg-logo="" group-title="Albania",RTSH 1 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53143
-#EXTINF:-1 tvg-logo="" group-title="Albania",RTV 21 HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53070
-#EXTINF:-1 tvg-logo="" group-title="Albania",RTV 21 Junior - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53072
-#EXTINF:-1 tvg-logo="" group-title="Albania",RTV 21 Maqedonia - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53071
-#EXTINF:-1 tvg-logo="" group-title="Albania",RTV 21 Popullore - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53069
-#EXTINF:-1 tvg-logo="" group-title="Albania",RTV 21 Toksor - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53073
-#EXTINF:-1 tvg-logo="" group-title="Albania",Report TV - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53140
-#EXTINF:-1 tvg-logo="" group-title="Albania",Rrokum TV - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53141
-#EXTINF:-1 tvg-logo="" group-title="Albania",STV Folk - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53153
-#EXTINF:-1 tvg-logo="" group-title="Albania",ShqipTV Aksion HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53148
-#EXTINF:-1 tvg-logo="" group-title="Albania",ShqipTV Film HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53149
-#EXTINF:-1 tvg-logo="" group-title="Albania",Sky komedi - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53150
-#EXTINF:-1 tvg-logo="" group-title="Albania",Supersonic TV - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53158
-#EXTINF:-1 tvg-logo="" group-title="Albania",T7 - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62222
-#EXTINF:-1 tvg-logo="" group-title="Albania",TOP Channel HD - ShowPlus
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/53161
