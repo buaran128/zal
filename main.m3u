@@ -2889,9 +2889,10 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 http://iptv.tvmalaysia.cc/174726/174726/6750
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="NEWS",Bernama News - TVMalaysia (2)
 http://iptv.tvmalaysia.cc/174726/174726/7190
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/240px-BFM_TV_logo.png" group-title="NEWS",BFM TV - Dailymotion
 
 
-
+http://175.41.151.141/m3u8/dm_BFM_TV.m3u8
 
 
 
@@ -3064,7 +3065,8 @@ http://175.41.151.141/m3u8/vid_DW.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="NEWS",Euronews - Dailymotion
 
-http://3.142.159.208:2703/m3u8/dm_Euronews.m3u8
+
+http://175.41.151.141/m3u8/dm_Euronews.m3u8
 
 
 
@@ -3076,7 +3078,8 @@ http://3.142.159.208:2703/m3u8/dm_Euronews.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="NEWS",Euronews French - Dailymotion
 
-http://3.142.159.208:2703/m3u8/dm_Euronews_French.m3u8
+
+http://175.41.151.141/m3u8/dm_Euronews_French.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="NEWS",Euronews Russian
@@ -4988,6 +4991,8 @@ http://iptv.tvmalaysia.cc/174726/174726/8836
 
 #EXTINF:-1 tvg-logo="https://assets.streamtest.in/logo/250/31_ntv-news24.jpg" group-title="(EAST-ASIA)",[JPN] NTV News24
 http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="(EAST-ASIA)",[KOR] All The K-POP - DailyMotion
+http://175.41.151.141/m3u8/dm_All_The_KPOP.m3u8
 
 
 
@@ -5053,9 +5058,9 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/c
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2e6fb9_6d21b4cb51fe478c9a14494aaa406395~mv2.png/v1/crop/x_0,y_2,w_1380,h_296/fill/w_331,h_71,al_c,usm_0.66_1.00_0.01/2e6fb9_6d21b4cb51fe478c9a14494aaa406395~mv2.png" group-title="(EAST-ASIA)",[KOR] SBS+
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Show_Champion_Logo.png" group-title="(EAST-ASIA)",[KOR] Show Champion - Dailymotion
 
-http://3.142.159.208:2703/m3u8/dm_Show_Champion_(Korea).m3u8
+
+
 
 
 
@@ -5076,7 +5081,8 @@ http://3.142.159.208:2703/m3u8/dm_Show_Champion_(Korea).m3u8
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ytn.co.kr/img/_top/ytnlogo_2018.png" group-title="(EAST-ASIA)",[KOR] YTN News - Dailymotion
 
-http://3.142.159.208:2703/m3u8/dm_YTN_News.m3u8
+
+http://175.41.151.141/m3u8/dm_YTN_News.m3u8
 
 
 
