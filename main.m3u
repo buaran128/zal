@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 tvg-logo="" group-title="TEST",Test
-http://175.41.151.141/m3u8/rp_iNews.m3u8
+http://175.41.151.141:1443/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 
 
 
