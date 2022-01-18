@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="TEST",Test
-http://175.41.151.141:1443/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+
+
 
 
 
@@ -115,7 +115,8 @@ https://ms.digdaya.tv/live/digdayatv/playlist.m3u8
 
 
 
-https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
+
+http://175.41.151.141:1443/GTV2021.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1045555601042956288/gclEjDLe_400x400.jpg" group-title="NATIONAL",Hi Indo! - Maxstream
@@ -176,7 +177,8 @@ http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 
 
-https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+
+http://175.41.151.141:1443/INEWS_2021.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TAqxeC5.png" group-title="NATIONAL",Insert Live
@@ -296,7 +298,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40
 
 
 
-https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
+
+http://175.41.151.141:1443/MNCTV_2021.m3u8
 
 
 
@@ -385,7 +388,8 @@ http://175.41.151.141/m3u8/vid_O_Channel.m3u8
 
 
 
-https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+
+http://175.41.151.141:1443/RCTI_2021.m3u8
 
 
 
@@ -494,6 +498,8 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 
 http://175.41.151.141/m3u8/vid_Trans_TV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/320px-Trans_TV_2013.svg.png" group-title="NATIONAL",Trans TV - Dailymotion
+http://175.41.151.141/m3u8/dm_Trans_7.m3u8
 
 
 
@@ -3351,6 +3357,8 @@ http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-ashiil-1-300x123.png" group-title="RELIGIOUS",Ashiil TV
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS",Aswaja TV - Dailymotion
+http://175.41.151.141/m3u8/dm_Aswaja_TV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/British_Muslim_TV_logo.png" group-title="RELIGIOUS",British Muslim TV
