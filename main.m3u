@@ -1698,36 +1698,194 @@ http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",AFV Family
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fafv-espanol.jpg" group-title="ENTERTAINMENT (Plex TV)",AFV Espanyol
+http://175.41.151.141/m3u8/plex_AFV_Espanyol.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fafv-family.jpg" group-title="ENTERTAINMENT (Plex TV)",AFV Family
 http://175.41.151.141/m3u8/plex_AFV_Family.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",ClixTV
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FAfroLandTV_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Afroland TV
+http://175.41.151.141/m3u8/plex_Afroland_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fe8041490-9b4a-45b9-a3f8-026f2897cd1a%2FChannel-Fight_Artwork_Horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Channel Fight Masterclass
+http://175.41.151.141/m3u8/plex_Channel_Fight_Masterclass.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc17ad418-d735-4ed9-b489-1ee888e7151d%2FChivetv_3840_x_2160.jpg" group-title="ENTERTAINMENT (Plex TV)",Chive TV
+http://175.41.151.141/m3u8/plex_Chive_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fchoppertown.jpg" group-title="ENTERTAINMENT (Plex TV)",Choppertown
+http://175.41.151.141/m3u8/plex_Choppertown.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fstaging%2F88773084-0bc9-4262-b238-5293dee09069%2Fclassic-rock_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Classic Rock Network
+http://175.41.151.141/m3u8/plex_Classic_Rock_Network.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FClixTV_artwork_horizontal_v2.jpg" group-title="ENTERTAINMENT (Plex TV)",Clix TV
 http://175.41.151.141/m3u8/plex_ClixTV.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Discover Film
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F0eb5bf2e-bc60-43a8-9507-50d18c8cadd8%2FJacob_Gordon_-_Commune_Branded_Channel_Image.jpg" group-title="ENTERTAINMENT (Plex TV)",Commune
+http://175.41.151.141/m3u8/plex_Commune.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fcooking-panda.jpg" group-title="ENTERTAINMENT (Plex TV)",Cooking Panda
+http://175.41.151.141/m3u8/plex_Cooking_Panda.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc111725d-dd9a-418b-a5c0-14d5c00c9d58%2Fdiscover-film_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Discover Film
 http://175.41.151.141/m3u8/plex_Discover_Film.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Documentary+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fuploads%2Fstaging%2Fd9a1816a-675e-46c3-8155-a584f95395b3%2Fdocumentaryplus_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Documentary+
 http://175.41.151.141/m3u8/plex_Documentary+.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Fail Army
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FESTV_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",ESTV
+http://175.41.151.141/m3u8/plex_ESTV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Feuronews_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Euronews
+http://175.41.151.141/m3u8/plex_Euronews.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Feuronewsespanol_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Euronews Espanyol
+http://175.41.151.141/m3u8/plex_Euronews_Espanyol.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FExtreme_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Extreme Plus
+http://175.41.151.141/m3u8/plex_Extreme_Plus.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fstaging%2Fa2fd2ef4-b62e-442a-b5a6-d97682376289%2Fftf-sports_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",FTF Sports
+http://175.41.151.141/m3u8/plex_FTF_Sports.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FFailArmy_artwork_horizontal_v2.jpg" group-title="ENTERTAINMENT (Plex TV)",Fail Army
 http://175.41.151.141/m3u8/plex_Fail_Army.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Filmstream
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Ffamilytime_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Family Time
+http://175.41.151.141/m3u8/plex_FamilyTime.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Ffightnetwork_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Fight Network
+http://175.41.151.141/m3u8/plex_Fight_Network.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fspi_filmstream_1.jpg" group-title="ENTERTAINMENT (Plex TV)",Filmstream
 http://175.41.151.141/m3u8/plex_Filmstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Gago TV
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fgfntv_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",GFN TV
+http://175.41.151.141/m3u8/plex_GFN_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fstaging%2Fcf986965-7407-4d85-bf3d-e4cf5889072a%2Fgago_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Gago TV
 http://175.41.151.141/m3u8/plex_Gago_TV.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Johny Carson TV
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fglewedtv_3.jpg" group-title="ENTERTAINMENT (Plex TV)",Glewed TV
+http://175.41.151.141/m3u8/plex_Glewed_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FGoTraveler_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",GoTraveler
+http://175.41.151.141/m3u8/plex_GoTraveler.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FGoUSA_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",GoUSA TV
+http://175.41.151.141/m3u8/plex_GoUSA_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fgravitas_movies.jpg" group-title="ENTERTAINMENT (Plex TV)",Gravitas Movies
+http://175.41.151.141/m3u8/plex_Gravitas_Movies.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fgusto-tv-about.jpg" group-title="ENTERTAINMENT (Plex TV)",Gusto TV
+http://175.41.151.141/m3u8/plex_Gusto_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fhardknocks_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Hard Knocks
+http://175.41.151.141/m3u8/plex_Hard_Knocks.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fhumormill_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Humor Mill
+http://175.41.151.141/m3u8/plex_Humor_Mill.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fign-tv.jpg" group-title="ENTERTAINMENT (Plex TV)",IGN TV
+http://175.41.151.141/m3u8/plex_IGN_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FImpactWrestling_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Impact Wrestling
+http://175.41.151.141/m3u8/plex_Impact_Wrestling.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fjohnnycarsontv_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Johny Carson TV
 http://175.41.151.141/m3u8/plex_Johny_Carson_TV.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Lone Star
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fkidoodletv_about_v2.jpg" group-title="ENTERTAINMENT (Plex TV)",Kidoodle TV
+http://175.41.151.141/m3u8/plex_Kidoodle_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FLaCorriente_Artwork_Horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",La Corriente
+http://175.41.151.141/m3u8/plex_La_Corriente.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Flawandcrime_samsung.jpg" group-title="ENTERTAINMENT (Plex TV)",Law and Crime
+http://175.41.151.141/m3u8/plex_Law_and_Crime.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Flevelup_artwork_horizontal_v2.jpg" group-title="ENTERTAINMENT (Plex TV)",Level Up TV
+http://175.41.151.141/m3u8/plex_Level_Up.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fstaging%2Fc0932beb-479e-45c0-8c33-3c9870bba171%2Flone-star_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Lone Star
 http://175.41.151.141/m3u8/plex_Lone_Star.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Maverick Black Cinema
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Flove-destination.jpg" group-title="ENTERTAINMENT (Plex TV)",Love Destination
+http://175.41.151.141/m3u8/plex_Love_Destination.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fmavtv-motorsports-about.jpg" group-title="ENTERTAINMENT (Plex TV)",MAVTV Motorsports Network
+http://175.41.151.141/m3u8/plex_MAVTV_Motorsports_Network.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fstaging%2F4f9ca523-e23d-4579-869f-61023738b41c%2Fmbc_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",MBC
+http://175.41.151.141/m3u8/plex_MBC.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FMMATV_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",MMA TV
+http://175.41.151.141/m3u8/plex_MMA_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fconnection3_ent.jpg" group-title="ENTERTAINMENT (Plex TV)",Made in Hollywood
+http://175.41.151.141/m3u8/plex_Made_in_Hollywood.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fmagellantv_1.jpg" group-title="ENTERTAINMENT (Plex TV)",Magellan TV Now
+http://175.41.151.141/m3u8/plex_Magellan_TV_Now.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fmaverick_maverick_black_cinema_2.jpg" group-title="ENTERTAINMENT (Plex TV)",Maverick Black Cinema
 http://175.41.151.141/m3u8/plex_Maverick_Black_Cinema.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Nosey
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fmoreu_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",More U
+http://175.41.151.141/m3u8/plex_More_U.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fmotorvision_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Motorvision TV
+http://175.41.151.141/m3u8/plex_Motorvision_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FNHRA_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",NHRA TV
+http://175.41.151.141/m3u8/plex_NHRA_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fnewsmax_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Newsmax TV
+http://175.41.151.141/m3u8/plex_Newsmax_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fstaging%2F44b92edc-1a66-4f0c-b4bc-38286774b938%2Fnewsy_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Newsy
+http://175.41.151.141/m3u8/plex_Newsy.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fnosey_2-v2.jpg" group-title="ENTERTAINMENT (Plex TV)",Nosey
 http://175.41.151.141/m3u8/plex_Nosey.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",The Carol Burnett Show
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fnosey_escandalos_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Nosey Escandalos
+http://175.41.151.141/m3u8/plex_Nosey_Escandalos.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Foutdooramerica_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Outdoor America
+http://175.41.151.141/m3u8/plex_Outdoor_America.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FPOPSUGARFitness_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",POPSugar Fitness
+http://175.41.151.141/m3u8/plex_POPSugar_Fitness.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fstaging%2Fa789f366-ce41-45bb-889a-309f5c5c0095%2Fparty-poker_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Party Poker TV
+http://175.41.151.141/m3u8/plex_Party_Poker_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fparty-tyme-karaoke-non-us.jpg" group-title="ENTERTAINMENT (Plex TV)",Party Tyme Karaoke
+http://175.41.151.141/m3u8/plex_Party_Tyme_Karaoke.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fjukin_peopleareawesome_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",People Are Awesome
+http://175.41.151.141/m3u8/plex_People_Are_Awesome.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fplayworksdigital_playworks_1.jpg" group-title="ENTERTAINMENT (Plex TV)",Play Works
+http://175.41.151.141/m3u8/plex_Play_Works.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fpokernight_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Poker Night TV
+http://175.41.151.141/m3u8/plex_Poker_Night_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FPopstar!_artwork_horizontal_v2.jpg" group-title="ENTERTAINMENT (Plex TV)",Popstar TV
+http://175.41.151.141/m3u8/plex_Popstar_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fqwesttv-classical_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",QwestTV Classical
+http://175.41.151.141/m3u8/plex_QwestTV_Classical.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fqwesttv-jazz-and-beyond_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",QwestTV Jazz and Beyond
+http://175.41.151.141/m3u8/plex_QwestTV_Jazz_and_Beyond.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fqwesttv-mix_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",QwestTV Mix
+http://175.41.151.141/m3u8/plex_QwestTV_Mix.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Freuters_reutersnow_1.jpg" group-title="ENTERTAINMENT (Plex TV)",Reuters TV
+http://175.41.151.141/m3u8/plex_Reuters_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FRevry_Artwork_Horizontal-v2.jpg" group-title="ENTERTAINMENT (Plex TV)",Revry
+http://175.41.151.141/m3u8/plex_Revry.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Frevrynews-about-v2.jpg" group-title="ENTERTAINMENT (Plex TV)",Revry News
+http://175.41.151.141/m3u8/plex_Revry_News.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fskwad-about.jpg" group-title="ENTERTAINMENT (Plex TV)",SKWAD
+http://175.41.151.141/m3u8/plex_SKWAD.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FSCTV_artwork_horizontal-v2.jpg" group-title="ENTERTAINMENT (Plex TV)",Social Club TV
+http://175.41.151.141/m3u8/plex_Social_Club_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fspace-channel_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Space Channel
+http://175.41.151.141/m3u8/plex_Space_Channel.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fsportsgrid.jpg" group-title="ENTERTAINMENT (Plex TV)",Sports Grid
+http://175.41.151.141/m3u8/plex_SportsGrid.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F5c3ebacf-dcc5-4ba1-a796-095ad26cba52%2Ftgjr_1_0.jpg" group-title="ENTERTAINMENT (Plex TV)",TG Junior
+http://175.41.151.141/m3u8/plex_TG_Junior.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fplayworksdigital_tankee_1.jpg" group-title="ENTERTAINMENT (Plex TV)",Tankee
+http://175.41.151.141/m3u8/plex_Tankee.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fvitor_theboatshow_1.jpg" group-title="ENTERTAINMENT (Plex TV)",The Boat Show
+http://175.41.151.141/m3u8/plex_The_Boat_Show.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fcarolburnett_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",The Carol Burnett Show
 http://175.41.151.141/m3u8/plex_The_Carol_Burnett_Show.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",The Film Detectiv
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fthedesignnetwork_tdn_5.jpg" group-title="ENTERTAINMENT (Plex TV)",The Design Network
+http://175.41.151.141/m3u8/plex_The_Design_Network.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fthe-film-detective.jpg" group-title="ENTERTAINMENT (Plex TV)",The Film Detective
 http://175.41.151.141/m3u8/plex_The_Film_Detective.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Toon Goggles
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fthe_pet_collective_international_.jpg" group-title="ENTERTAINMENT (Plex TV)",The Pet Collective
+http://175.41.151.141/m3u8/plex_The_Pet_Collective.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fpreviewchannel_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",The Preview Channel
+http://175.41.151.141/m3u8/plex_The_Preview_Channel.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ffa38b860-a18f-4776-92c2-574d2c59ab52%2FToon_Goggles.jpg" group-title="ENTERTAINMENT (Plex TV)",Toon Goggles
 http://175.41.151.141/m3u8/plex_Toon_Goggles.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Wu Tang Collection
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fb2de81e7-1242-4803-a563-45b77e253e17%2FTFH_Channel_Image.jpg" group-title="ENTERTAINMENT (Plex TV)",Trailers from Hell
+http://175.41.151.141/m3u8/plex_Trailers_from_Hell.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FTrueHistory_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",True History
+http://175.41.151.141/m3u8/plex_True_History.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fusatoday_artwork_horizontal_v2.jpg" group-title="ENTERTAINMENT (Plex TV)",USA Today
+http://175.41.151.141/m3u8/plex_USA_Today.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fusatoday_sportswire_artwork_horizontal_v2.jpg" group-title="ENTERTAINMENT (Plex TV)",USA Today Sportswire
+http://175.41.151.141/m3u8/plex_USA_Today_Sportswire.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2FUsWeeklyTV_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",US Weekly TV
+http://175.41.151.141/m3u8/plex_US_Weekly_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Funvaled_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Unvaled Network
+http://175.41.151.141/m3u8/plex_Unvaled_Network.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fvenn-about.jpg" group-title="ENTERTAINMENT (Plex TV)",Venn
+http://175.41.151.141/m3u8/plex_Venn.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc40ac956-0f33-4831-abe7-a090ad268afb%2Fbranded_horizontal_thumbnail_-_Vincent_Chabrier.jpg" group-title="ENTERTAINMENT (Plex TV)",Vivaldi
+http://175.41.151.141/m3u8/plex_Vivaldi.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fvolty_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Volty TV
+http://175.41.151.141/m3u8/plex_Volty_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fwaypointtv_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Waypoint TV
+http://175.41.151.141/m3u8/plex_Waypoint_TV.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fjukin_weatherspy_2.jpg" group-title="ENTERTAINMENT (Plex TV)",Weather Spy
+http://175.41.151.141/m3u8/plex_Weather_Spy.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fstaging%2F427a5a51-2c5a-4bf0-ad3b-5d9b324c1d31%2Fwild-earth_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Wild Earth
+http://175.41.151.141/m3u8/plex_Wild_Earth.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fwire2fish_artwork_horizontal.jpg" group-title="ENTERTAINMENT (Plex TV)",Wired2Fish
+http://175.41.151.141/m3u8/plex_Wired2Fish.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fwu-tang-collection.jpg" group-title="ENTERTAINMENT (Plex TV)",Wu Tang Collection
 http://175.41.151.141/m3u8/plex_Wu_Tang_Collection.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fyahoo-finance.jpg" group-title="ENTERTAINMENT (Plex TV)",Yahoo Finance
+http://175.41.151.141/m3u8/plex_Yahoo_Finance.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-Sys)",Discovery Giallo
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1898
