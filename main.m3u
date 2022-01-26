@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="TEST",Test
-https://filmdetective-plex.amagi.tv/amRdirect/us_privacy=1---&did=eb5340d3-6233-5a2c-af2f-3823c6f07f36&dnt=0&X-Plex-Token=2shezBi-5gzqN6JgJxtF&channelId=5eea605674085f0040ddc7a3m3u8&uid=1fqa80vub-v7ar-teg-ec6n-o29aspsnbu/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/master.m3u8
+
+
 
 
 
@@ -126,8 +126,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="NATIONAL",IDX Channel - Vision+
-https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png" group-title="NATIONAL",IDX Channel - MNC Now
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 
 
 
@@ -220,6 +220,8 @@ http://rr3.dens.tv/s/s46/index.m3u8
 
 
 http://175.41.151.141/m3u8/vid_Kompas_TV.m3u8
+#EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/kompastv.png" group-title="NATIONAL",Kompas TV - Dailymotion
+https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4Gw9t4M-d6H6uHZLE5oBsM18)/dm/3/x6pz4sa/d/live-2.m3u8
 
 
 
@@ -1695,6 +1697,37 @@ http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",AFV Family
+http://175.41.151.141/m3u8/plex_AFV_Family.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",ClixTV
+http://175.41.151.141/m3u8/plex_ClixTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Discover Film
+http://175.41.151.141/m3u8/plex_Discover_Film.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Documentary+
+http://175.41.151.141/m3u8/plex_Documentary+.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Fail Army
+http://175.41.151.141/m3u8/plex_Fail_Army.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Filmstream
+http://175.41.151.141/m3u8/plex_Filmstream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Gago TV
+http://175.41.151.141/m3u8/plex_Gago_TV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Johny Carson TV
+http://175.41.151.141/m3u8/plex_Johny_Carson_TV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Lone Star
+http://175.41.151.141/m3u8/plex_Lone_Star.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Maverick Black Cinema
+http://175.41.151.141/m3u8/plex_Maverick_Black_Cinema.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Nosey
+http://175.41.151.141/m3u8/plex_Nosey.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",The Carol Burnett Show
+http://175.41.151.141/m3u8/plex_The_Carol_Burnett_Show.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",The Film Detectiv
+http://175.41.151.141/m3u8/plex_The_Film_Detectiv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Toon Goggles
+http://175.41.151.141/m3u8/plex_Toon_Goggles.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (Plex)",Wu Tang Collection
+http://175.41.151.141/m3u8/plex_Wu_Tang_Collection.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-Sys)",Discovery Giallo
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1898
@@ -3415,6 +3448,8 @@ https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 https://streaming.sigraduta.co.id/izzahtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2020/02/81386505_2570208723100223_2341585035561271296_o.png" group-title="RELIGIOUS",Izzah TV (2)
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS",Life - MNC Now
+https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MDLLZ6T.png" group-title="RELIGIOUS",Madani TV
 
 https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
