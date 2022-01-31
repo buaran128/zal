@@ -116,6 +116,8 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="NATIONAL",Indonesiana TV - UseeTV
+http://108.136.37.52/m3u8/uc_Indonesiana_TV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/300px-INDOSIAR_Logo.png" group-title="NATIONAL",Indosiar - Vidio
@@ -144,8 +146,9 @@ http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://ssr.rctiplus.com/assets/image/elements/logo-inews.png" group-title="NATIONAL",iNews TV - UseeTV
 
-
+http://108.136.37.52/m3u8/uc_iNews.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssr.rctiplus.com/assets/image/elements/logo-inews.png" group-title="NATIONAL",iNews TV - RCTIplus
 
@@ -241,6 +244,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="NATIONAL",MNC News - UseeTV
+http://108.136.37.52/m3u8/uc_MNC_News.m3u8
 
 
 
@@ -304,7 +309,8 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 http://108.136.37.52/m3u8/vid_Nusantara_TV.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="NATIONAL",Nusantara TV - UseeTV
+http://108.136.37.52/m3u8/uc_Nusantara_TV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="NATIONAL",Nusantara TV
 https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
 
@@ -724,6 +730,8 @@ http://iptv.tvmalaysia.cc/174726/174726/7077
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY",CGTN Documentary - Dens.tv
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY",CGTN Documentary - UseeTV
+http://108.136.37.52/m3u8/uc_CGTN_Documentary.m3u8
 
 
 
@@ -1085,7 +1093,8 @@ http://iptv.tvmalaysia.cc/174726/174726/7235
 
 
 
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="ENTERTAINMENT",Chinese Drama - UseeTV
+http://108.136.37.52/m3u8/uc_Chinese_Drama.m3u8
 
 
 
@@ -2041,6 +2050,8 @@ https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="KIDS",IndiKids - UseeTV
+http://108.136.37.52/m3u8/uc_IndiKids.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Jim Jam Polsat
 http://58.65.171.202:8000/play/7351/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Jim Jam Russia
@@ -2388,6 +2399,8 @@ http://108.136.37.52/m3u8/uc_Arirang.m3u8
 http://iptv.tvmalaysia.cc/174726/174726/6693
 
 
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",ATV - UseeTV
+http://108.136.37.52/m3u8/uc_ATV.m3u8
 
 
 
@@ -2746,7 +2759,8 @@ http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" group-title="MUSIC",Prambors TV - UseeTV
+http://108.136.37.52/m3u8/uc_Prambors_TV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-37GgWRhLZAU/XCmgEKO7KjI/AAAAAAAAE4Y/AndO6qs2XfYyIkcA05NsbDmyXH3DKA9oACLcBGAs/s1600/Canale%2B51%2BRadio%2BTV%2Bstreaming.png" group-title="MUSIC",Radio 51 TV
@@ -2821,7 +2835,8 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iCiRwiD.png" group-title="NEWS",ABC Australia - UseeTV
+http://108.136.37.52/m3u8/uc_ABC_Australia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iCiRwiD.png" group-title="NEWS",ABC News
 
 
@@ -3013,7 +3028,8 @@ http://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 http://108.136.37.52/m3u8/vid_DW.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS",DW - UseeTV
+http://108.136.37.52/m3u8/uc_DW.m3u8
 
 
 
@@ -3046,7 +3062,8 @@ http://108.136.37.52/m3u8/dm_Euronews.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="NEWS",Euronews - UseeTV
+http://108.136.37.52/m3u8/uc_Euronews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="NEWS",Euronews - Plex TV
 http://108.136.37.52/m3u8/plex_Euronews.m3u8
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Feuronewsespanol_artwork_horizontal.jpg" group-title="NEWS",Euronews Espanyol - Plex TV
@@ -3101,7 +3118,8 @@ http://ott-cdn.ucom.am/s89/04.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="NEWS",France 24 - UseeTV
+http://108.136.37.52/m3u8/uc_France_24.m3u8
 
 
 
@@ -3223,7 +3241,8 @@ http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2029
 https://tv-trtworld.live.trt.com.tr/master_480.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/320px-TRT_World_logo.svg.png" group-title="NEWS",TRT World - UseeTV
+http://108.136.37.52/m3u8/uc_TRT_World.m3u8
 
 
 
@@ -3282,7 +3301,8 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://108.136.37.52/m3u8/vid_AlQuran_AlKarim_TV.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="RELIGIOUS",Al Quran Al Kareem TV - UseeTV
+http://108.136.37.52/m3u8/uc_AlQuran_Kareem.m3u8
 
 
 
@@ -3317,7 +3337,8 @@ http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hssl
 http://108.136.37.52/m3u8/vid_DAAI.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EnrG4zA.png" group-title="RELIGIOUS",DAAI TV - UseeTV
+http://108.136.37.52/m3u8/uc_DAAI_TV.m3u8
 
 
 
@@ -3358,8 +3379,12 @@ https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mgitv.png" group-title="RELIGIOUS",MGI TV
 https://tv.rodja.live/tasik/mgitv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOUS",MQTV - UseeTV
+http://108.136.37.52/m3u8/uc_MQTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKJqhTN/mtatv.png" group-title="RELIGIOUS",MTA TV - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKJqhTN/mtatv.png" group-title="RELIGIOUS",MTA TV - UseeTV
+http://108.136.37.52/m3u8/uc_MTA_TV.m3u8
 
 
 
@@ -3387,7 +3412,8 @@ http://108.136.37.52/m3u8/vid_Reformed_21.m3u8
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_198x60.png" group-title="RELIGIOUS",Rodja TV - UseeTV
+http://108.136.37.52/m3u8/uc_Rodja_TV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2020/04/rodjatv_198x60.png" group-title="RELIGIOUS",Rodja TV - Maxstream
@@ -3401,7 +3427,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-4
 http://119.235.249.58:1935/surautv/live/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="RELIGIOUS",Tawaf TV - UseeTV
+http://108.136.37.52/m3u8/uc_Tawaf_TV.m3u8
 
 
 
@@ -3413,10 +3440,12 @@ http://119.235.249.58:1935/surautv/live/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://tvmu.tv/wp-content/uploads/2014/12/tvmu1-e1418461698456.png" group-title="RELIGIOUS",TV Muhammadiyah - UseeTV
+http://108.136.37.52/m3u8/uc_Muhammadiyah_TV.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png" group-title="RELIGIOUS",TV9 NU - UseeTV
+http://108.136.37.52/m3u8/uc_TV9_NU.m3u8
 
 
 
@@ -3429,7 +3458,8 @@ http://108.136.37.52/m3u8/vid_U_Channel.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="http://u-channel.tv/wp-content/uploads/2017/08/Logo.png" group-title="RELIGIOUS",U Channel - UseeTV
+http://108.136.37.52/m3u8/uc_UChannel.m3u8
 #EXTINF:-1 tvg-logo="http://u-channel.tv/wp-content/uploads/2017/08/Logo.png" group-title="RELIGIOUS",U Channel - Dens.tv
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #EXTINF:-1 tvg-logo="http://wesaltv.id/wp-content/uploads/2019/08/wesaltv-id-1024x376.png" group-title="RELIGIOUS",Wesal TV - Indostream
@@ -4037,7 +4067,8 @@ http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/320px-Outdoor_Channel_logo_2017.svg.png" group-title="SPORTS",Outdoor Channel - UseeTV
+http://108.136.37.52/m3u8/uc_Outdoor_Channel.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",QazSport
@@ -4814,6 +4845,8 @@ http://ivi.bupt.edu.cn/hls/cctv3.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0HX4ZrH.png" group-title="(EAST-ASIA)",[CHN] CCTV 4
 http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0HX4ZrH.png" group-title="(EAST-ASIA)",[CHN] CCTV 4 - UseeTV
+http://108.136.37.52/m3u8/uc_CCTV4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qB8F62v.png" group-title="(EAST-ASIA)",[CHN] CCTV 5
