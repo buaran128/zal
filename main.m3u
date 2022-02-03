@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="TEST",Test
+http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd?id=796b93c8d07b9ccd66495e43a6e98ac4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/h4rojdB.png" group-title="NATIONAL",Antara TV - UseeTV
 http://108.136.37.52/m3u8/uc_Antara.m3u8
