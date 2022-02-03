@@ -1,8 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="" group-title="TEST",Test
-http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/h4rojdB.png" group-title="NATIONAL",Antara TV - UseeTV
 http://108.136.37.52/m3u8/uc_Antara.m3u8
@@ -832,8 +831,12 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwild-use.png" group-title="DOCUMENTARY",Inwild TV
+#EXTINF:-1 tvg-logo="https://i0.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwild-use.png" group-title="DOCUMENTARY",InWild TV
 https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwild-use.png" group-title="DOCUMENTARY",InWild TV (2)
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",InWonder TV
+https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
 
 
 
@@ -846,6 +849,8 @@ http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Manoto TV
+https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dccu/images/c/c0/NASA.png" group-title="DOCUMENTARY",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dccu/images/c/c0/NASA.png" group-title="DOCUMENTARY",NASA TV - Ustream
@@ -911,8 +916,12 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/PBS_America_logo.png" group-title="DOCUMENTARY",PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Real Stories
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Silence TV
@@ -1133,6 +1142,8 @@ http://210.210.155.35/dr9445/h/h04/01.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Comedy Channel
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/667658/dc4ec60cc6dc7bdd4180cd4d71bd478359fa00a3.png" group-title="ENTERTAINMENT",Con TV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 
@@ -1750,7 +1761,7 @@ http://108.136.37.52/m3u8/plex_Yahoo_Finance.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT (V-Sys)",Discovery Giallo
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/1898
-#EXTINF:-1 tvg-logo="http://about.edgefactor.com/wp-content/uploads/2016/06/Fox-Logo-v1-300x200.png (V-Sys)" group-title="ENTERTAINMENT",Fox
+#EXTINF:-1 tvg-logo="http://about.edgefactor.com/wp-content/uploads/2016/06/Fox-Logo-v1-300x200.png" group-title="ENTERTAINMENT (V-Sys)",Fox
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/2142
 
 
@@ -2465,6 +2476,8 @@ http://210.210.155.35/uq2663/h/h19/01.m3u8
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/b83MXKz.png" group-title="LIFESTYLE",HD Fashion Lifestyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",Gusto TV
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/243px-HSN_logo.svg.png" group-title="LIFESTYLE",HSN
 https://html5-lh.akamaihd.net/i/html5_01@182967/index_600_av-p.m3u8?sd=10&rebase=on
@@ -2473,8 +2486,9 @@ https://html5-lh.akamaihd.net/i/html5_01@182967/index_600_av-p.m3u8?sd=10&rebase
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indishopping_small.png" group-title="LIFESTYLE",Indihome Shopping - UseeTV
 http://108.136.37.52/m3u8/uc_Indihome_Shopping.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1227191653770911744/cziXjKsV_400x400.jpg" group-title="LIFESTYLE",InSight TV
+#http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tSfnjXQ.png" group-title="LIFESTYLE",Jasmin TV
@@ -2780,6 +2794,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/index.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",Stingray Qello
+https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Strana FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_09/large.1611336780_12.1-XHSAWTeleritmo.png.29062bd50ea09887c6c4e42cecfff260.png" group-title="MUSIC",Teleritmo
@@ -2884,6 +2900,8 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dealood.com/content/uploads/images/November2019/Australia-channel-300x169[1]-large.jpg" group-title="NEWS",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/320px-BBC_News.svg.png" group-title="NEWS",BBC News
+http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd
 
 
 
@@ -3000,8 +3018,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo-host-cheddar/CDN/master.m3u8
 http://ott-cdn.ucom.am/s65/04.m3u8
 #EXTINF:-1 tvg-logo="https://images.news18.com/ibnlive/uploads/2013/07/cnbctv18-logo1.jpg" group-title="NEWS",CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="NEWS",CNN
-http://62.182.81.111:8000/stef01/stef01/16530
 
 
 
@@ -3012,6 +3028,10 @@ http://62.182.81.111:8000/stef01/stef01/16530
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="NEWS",CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="NEWS",CNN Philippines
 http://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
@@ -3019,8 +3039,9 @@ http://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS",DW
 
-
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NEWS",DW - Vidio
@@ -3268,8 +3289,8 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/AhlulbaytTV.png/320px-AhlulbaytTV.png" group-title="RELIGIOUS",Ahlulbayt
+http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
 
 
 
@@ -3768,6 +3789,8 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XlDu8aW.png" group-title="SPORTS",Edge Sport
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XlDu8aW.png" group-title="SPORTS",Edge Sport (2)
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
 
 
 
@@ -3838,6 +3861,8 @@ http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/2126
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Fight TV
+http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/711.png" group-title="SPORTS",Fight TV Plus
 https://playout4multirtmp.tulix.tv/live5/Stream1/chunklist_w1909072387.m3u8
 
@@ -3907,6 +3932,8 @@ https://chostv.mobie.in/choos/sports/qyt2.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="SPORTS",Free Sports TV
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",FTF Sports
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Galatasaray TV
 http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cokkw7Z.png" group-title="SPORTS",Golf Channel
@@ -3920,10 +3947,14 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Horse and Country
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Horse TV - V-Sys
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4406
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Inter TV - V-Sys
 http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4180
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",InTrouble TV
+https://introuble-samsung.amagi.tv/playlist.m3u8
 
 
 
@@ -4072,6 +4103,8 @@ http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 http://108.136.37.52/m3u8/uc_Outdoor_Channel.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Players TV
+https://playerstv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",QazSport
 http://92.46.127.146:8080/qazsport/index.m3u8
 
@@ -4425,8 +4458,9 @@ http://cdn02.upstream-cloud.ch/sstvlinear/sstvlinear/chunklist.m3u8
 https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/183px-Tennis_Channel_logo.svg.png" group-title="SPORTS",Tennis Channel
 
-
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 
 
