@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="TEST",TEST
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1
+http://108.136.37.52/m3u8/okru_FS1.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/h4rojdB.png" group-title="NATIONAL",Antara TV - UseeTV
 http://108.136.37.52/m3u8/uc_Antara.m3u8
