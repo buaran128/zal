@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="" group-title="TEST",TEST
 http://108.136.37.52/m3u8/ok.php
 #EXTINF:-1 tvg-logo="" group-title="TEST",TEST2
-https://vsd75.mycdn.me/hls/2229094713939.m3u8/sig/JfxDFLjJmik/expires/1644100742509/srcIp/108.136.37.52/clientType/0/srcAg/UNKNOWN/mid/4448037314131/video.m3u8
+http://vsd75.mycdn.me/hls/2229094713939.m3u8/sig/JfxDFLjJmik/expires/1644100742509/srcIp/108.136.37.52/clientType/0/srcAg/UNKNOWN/mid/4448037314131/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/h4rojdB.png" group-title="NATIONAL",Antara TV - UseeTV
 http://108.136.37.52/m3u8/uc_Antara.m3u8
