@@ -3881,7 +3881,7 @@ https://edgesport-samsungus.amagi.tv/playlist.m3u8
 https://dqm8bvwrahfi8.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDJpIpn.png" group-title="SPORTS",ESPN (2)
 http://45.148.26.86/hls/n8.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",ESPN - Ok.ru
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDJpIpn.png" group-title="SPORTS",ESPN - Ok.ru
 http://108.136.37.52/m3u8/okru_ESPN.php
 
 
@@ -4147,6 +4147,8 @@ http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/140825
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/240px-NBA_TV.svg.png" group-title="SPORTS",NBA TV - Ok.ru
+http://108.136.37.52/m3u8/okru_NBA.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/240px-NBA_TV.svg.png" group-title="SPORTS",NBA TV - V-Sys
 http://cdn.ayproviders.xyz:80/RELk7tQ2Dk/25RzJ9rsY8/146556
 
