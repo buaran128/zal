@@ -3,48 +3,14 @@
 #EXTINF:-1 tvg-logo="" group-title="TEST",Test
 http://190.115.29.22:8080/carter/GUV1bMq2VK/1638
 
-#EXTINF:-1 tvg-logo="" group-title="TEST",KBS-1
-http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-#EXTINF:-1 tvg-logo="" group-title="TEST",KBS-2
-http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 #EXTINF:-1 tvg-logo="" group-title="TEST",KBS-WORLD
 http://ye23.vip/z7z8/2021/kbs2020.php?id=3
-#EXTINF:-1 tvg-logo="" group-title="TEST",KBS-24
-http://ye23.vip/z7z8/2021/kbs2020.php?id=4
-#EXTINF:-1 tvg-logo="" group-title="TEST",KBS drama
-http://ye23.vip/z7z8/2021/kbs2020.php?id=5
-#EXTINF:-1 tvg-logo="" group-title="TEST",KBS JOY
-http://ye23.vip/z7z8/2021/kbs2020.php?id=6
-#EXTINF:-1 tvg-logo="" group-title="TEST",KBS N
-http://ye23.vip/z7z8/2021/kbs2020.php?id=7
-#EXTINF:-1 tvg-logo="" group-title="TEST",KBS W
-http://ye23.vip/z7z8/2021/kbs2020.php?id=8
-#EXTINF:-1 tvg-logo="" group-title="TEST",KBS Kids
-http://ye23.vip/z7z8/2021/kbs2020.php?id=9
-
-#EXTINF:-1 tvg-logo="" group-title="TEST",MBC-Drama
-http://ye23.win/iptv/mbc2020.php?id=1
-#EXTINF:-1 tvg-logo="" group-title="TEST",MBC-Every1
-http://ye23.win/iptv/mbc2020.php?id=2
-#EXTINF:-1 tvg-logo="" group-title="TEST",MBC-M
-http://ye23.win/iptv/mbc2020.php?id=3
-#EXTINF:-1 tvg-logo="" group-title="TEST",MBC-Kpop
-http://ye23.win/iptv/mbc2020.php?id=4
-#EXTINF:-1 tvg-logo="" group-title="TEST",MBC-On
-http://ye23.win/iptv/mbc2020.php?id=5
-#EXTINF:-1 tvg-logo="" group-title="TEST",MBC
-http://ye23.win/iptv/mbc2020.php?id=6
-#EXTINF:-1 tvg-logo="" group-title="TEST",MBC
-http://ye23.win/iptv/mbc2020.php?id=7
-
 #EXTINF:-1 tvg-logo="" group-title="TEST",SBS
-http://ye23.win/iptv/korea2021.php?id=SBS
+http://hls.ye23.vip/hk/sbs2020.php?id=1
 #EXTINF:-1 tvg-logo="" group-title="TEST",TJB SBS
-http://ye23.win/iptv/korea2021.php?id=TJB
-#EXTINF:-1 tvg-logo="" group-title="TEST",CJB SBS
-http://ye23.win/iptv/korea2021.php?id=CJB
+http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",KBC SBS
-http://ye23.win/iptv/korea2021.php?id=KBC
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",SBS
 http://ye23.win/iptv/sbs5.1.php?id=S01
 #EXTINF:-1 tvg-logo="" group-title="TEST",SBS-Sports
@@ -59,81 +25,46 @@ http://ye23.win/iptv/sbs5.1.php?id=S05
 http://ye23.win/iptv/sbs5.1.php?id=S06
 #EXTINF:-1 tvg-logo="" group-title="TEST",SBS-MTV
 http://ye23.win/iptv/sbs5.1.php?id=S09
-#EXTINF:-1 tvg-logo="" group-title="TEST",SBS-GorealraM
+#EXTINF:-1 tvg-logo="" group-title="TEST",SBS-GorealraM (radio?)
 http://ye23.win/iptv/sbs5.1.php?id=S19
-#EXTINF:-1 tvg-logo="" group-title="TEST",SBS-POWER
+#EXTINF:-1 tvg-logo="" group-title="TEST",SBS-POWER (radio?)
 http://ye23.win/iptv/sbs5.1.php?id=S07
-#EXTINF:-1 tvg-logo="" group-title="TEST",SBS-LOVE
+#EXTINF:-1 tvg-logo="" group-title="TEST",SBS-LOVE (radio?)
 http://ye23.win/iptv/sbs5.1.php?id=S08
-
-#EXTINF:-1 tvg-logo="" group-title="TEST",OBS
-http://ye23.win/iptv/korea2021.php?id=OBS
-#EXTINF:-1 tvg-logo="" group-title="TEST",OBSW
-http://ye23.win/iptv/korea2021.php?id=OBSW
-#EXTINF:-1 tvg-logo="" group-title="TEST",Arirang
-http://ye23.win/iptv/korea2021.php?id=Arirang
 #EXTINF:-1 tvg-logo="" group-title="TEST",Good TV
-http://ye23.win/iptv/korea2021.php?id=Good
-#EXTINF:-1 tvg-logo="" group-title="TEST",cgntv
-http://ye23.win/iptv/korea2021.php?id=cgntv
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",cpbc
-http://ye23.win/iptv/korea2021.php?id=cpbc
+http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",bbstv
-http://ye23.win/iptv/korea2021.php?id=bbstv
-#EXTINF:-1 tvg-logo="" group-title="TEST",CTS
-http://ye23.win/iptv/korea2021.php?id=CTS
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",myStream
-http://ye23.win/iptv/korea2021.php?id=myStream
+http://112.175.51.214:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",MTN
-http://ye23.win/iptv/korea2021.php?id=MTN
-#EXTINF:-1 tvg-logo="" group-title="TEST",TBS
-http://ye23.win/iptv/korea2021.php?id=tbstv
+http://moneytoday1.ktcdn.co.kr/mtnlive/_definst_/480/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",FTV
-http://ye23.win/iptv/korea2021.php?id=FTV
+http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",Channel A
-http://ye23.win/iptv/korea2021.php?id=Channela
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",korea TV
-http://ye23.win/iptv/korea2021.php?id=korea
-#EXTINF:-1 tvg-logo="" group-title="TEST",YTN
-http://ye23.win/iptv/korea2021.php?id=ytn
-#EXTINF:-1 tvg-logo="" group-title="TEST",YTN 2
-http://ye23.win/iptv/korea2021.php?id=YTN_2
-#EXTINF:-1 tvg-logo="" group-title="TEST",YTN
-http://ye23.win/iptv/korea2021.php?id=YTN_b
-#EXTINF:-1 tvg-logo="" group-title="TEST",YTN DMB
-http://ye23.win/iptv/korea2021.php?id=YTN-D
-#EXTINF:-1 tvg-logo="" group-title="TEST",YTN A
-http://ye23.win/iptv/korea2021.php?id=YTN_a
-#EXTINF:-1 tvg-logo="" group-title="TEST",MBN
-http://ye23.win/iptv/korea2021.php?id=MBN
-#EXTINF:-1 tvg-logo="" group-title="TEST",Channel A
-http://ye23.win/iptv/korea2021.php?id=Channel
+https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w397380413.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",TBS
-http://ye23.win/iptv/korea2021.php?id=TBS-a
-#EXTINF:-1 tvg-logo="" group-title="TEST",TBS
-http://ye23.win/iptv/korea2021.php?id=TBS-B
+http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",KCTV
-http://ye23.win/iptv/korea2021.php?id=KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",EBS 1
-http://ye23.win/iptv/korea2021.php?id=EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",EBS 2
-http://ye23.win/iptv/korea2021.php?id=EBS2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",EBS i
-http://ye23.win/iptv/korea2021.php?id=EBSi
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",EBS+2
-http://ye23.win/iptv/korea2021.php?id=EBS_2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",EBS E
-http://ye23.win/iptv/korea2021.php?id=EBS_E
+http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",EBS KIDS
-http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
-#EXTINF:-1 tvg-logo="" group-title="TEST",flive
-http://ye23.win/iptv/korea2021.php?id=flive
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/ebsutablet500k.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TEST",dema
-http://ye23.win/iptv/korea2021.php?id=dema
-#EXTINF:-1 tvg-logo="" group-title="TEST",WORLD
-http://ye23.win/iptv/korea2021.php?id=arirang_1
-#EXTINF:-1 tvg-logo="" group-title="TEST",WORLD
-http://ye23.win/iptv/korea2021.php?id=arirang_2
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/h4rojdB.png" group-title="NATIONAL",Antara TV - UseeTV
 http://108.136.37.52/m3u8/uc_Antara.m3u8
