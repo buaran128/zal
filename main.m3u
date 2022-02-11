@@ -82,7 +82,7 @@ http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.garuda.tv/wp-content/uploads/2021/11/logo-garuda-tv-putih.svg" group-title="NATIONAL",Garuda TV
+#EXTINF:-1 tvg-logo="https://imgur.com/a/ar3TBO9.png" group-title="NATIONAL",Garuda TV
 https://ms.digdaya.tv/live/digdayatv/playlist.m3u8
 
 
@@ -116,7 +116,7 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="NATIONAL",Indonesiana TV - UseeTV
+#EXTINF:-1 tvg-logo="https://indonesiana.tv/frontend/images/logo-indonesiana.png" group-title="NATIONAL",Indonesiana TV - UseeTV
 http://108.136.37.52/m3u8/uc_Indonesiana_TV.m3u8
 
 
@@ -146,11 +146,11 @@ http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://ssr.rctiplus.com/assets/image/elements/logo-inews.png" group-title="NATIONAL",iNews TV - UseeTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/INews_TV_logo.svg/246px-INews_TV_logo.svg.png" group-title="NATIONAL",iNews TV - UseeTV
 
 http://108.136.37.52/m3u8/uc_iNews.m3u8
 
-#EXTINF:-1 tvg-logo="https://ssr.rctiplus.com/assets/image/elements/logo-inews.png" group-title="NATIONAL",iNews TV - RCTIplus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/INews_TV_logo.svg/246px-INews_TV_logo.svg.png" group-title="NATIONAL",iNews TV - RCTIplus
 
 
 
@@ -245,7 +245,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40
 
 http://210.210.155.35/uq2663/h/h12/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NATIONAL",MNC News - UseeTV
+#EXTINF:-1 tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1638784381_logo_MNCnews[newlogo].png" group-title="NATIONAL",MNC News - UseeTV
 http://108.136.37.52/m3u8/uc_MNC_News.m3u8
 
 
@@ -471,7 +471,7 @@ http://108.136.37.52/m3u8/dm_TV_Tempo.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/TvOne_logo_%282010%29.png/320px-TvOne_logo_%282010%29.png" group-title="NATIONAL",TVOne - Dens.tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/1200px-TvOne_Logo%282011%29.svg.png" group-title="NATIONAL",TVOne - Dens.tv
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1784749061/01_metro_blackberry_01_copy_400x400.jpg" group-title="NATIONAL",TVR Parlemen
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
@@ -600,7 +600,7 @@ http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="LOCAL",DigiOne - Maxstream
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_lld79xch/banner_xhdpi.jpg" group-title="LOCAL",DigiOne - Maxstream
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
 
@@ -740,7 +740,7 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 http://108.136.37.52/m3u8/uc_CGTN_Documentary.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Crime 360
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/crime-360-logo.png" group-title="DOCUMENTARY",Crime 360
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
@@ -845,7 +845,7 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/axiommedia.co/wp-content/uploads/2020/12/inwild-use.png" group-title="DOCUMENTARY",InWild TV (2)
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",InWonder TV
+#EXTINF:-1 tvg-logo="https://npo.digital/tvlive/uploads/tv_image/inwonder-tv.png" group-title="DOCUMENTARY",InWonder TV
 https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
 
 
@@ -859,7 +859,7 @@ http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Manoto TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/LOGO_Manoto-Rebrand_2018.png" group-title="DOCUMENTARY",Manoto TV
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dccu/images/c/c0/NASA.png" group-title="DOCUMENTARY",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
@@ -934,7 +934,7 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Silence TV
+#EXTINF:-1 tvg-logo="https://uploads-ssl.webflow.com/5922b29b7c0c797ddd087a63/5922b3b2d15666501252db97_logo50.png" group-title="DOCUMENTARY",Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
 
@@ -946,7 +946,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Spark TV
+#EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/5eb16433a6d4d835be73dedb/t/5ebd2060e4c0660c5b734293/1589452898540/SPARK_LOGOTYPE_ORNG_RGB.png" group-title="DOCUMENTARY",Spark TV
 https://sparktv-samsunguk.amagi.tv/playlist.m3u8
 
 
@@ -969,9 +969,9 @@ https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARY",Weather Spy
+#EXTINF:-1 tvg-logo="https://v.fastcdn.co/u/ce0680fc/50673365-0-WEATHERSPY-LOGO-WHIT.png" group-title="DOCUMENTARY",Weather Spy
 https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fjukin_weatherspy_2.jpg" group-title="DOCUMENTARY",Weather Spy - Plex TV
+#EXTINF:-1 tvg-logo="https://v.fastcdn.co/u/ce0680fc/50673365-0-WEATHERSPY-LOGO-WHIT.png" group-title="DOCUMENTARY",Weather Spy - Plex TV
 http://108.136.37.52/m3u8/plex_Weather_Spy.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27GGJdJ/w.jpg" group-title="DOCUMENTARY",Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
@@ -1017,8 +1017,6 @@ http://cdn.ayproviders.xyz/RELk7tQ2Dk/25RzJ9rsY8/4409
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Adrenaline Rush
-https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/26/AFHV_new_logo.png" group-title="ENTERTAINMENT",AFV Family
@@ -1029,9 +1027,9 @@ https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",AMC IFC Films Picks
+#EXTINF:-1 tvg-logo="https://freestreamstv.live/upload/source/AMC%20IFC%20Film%20Picks%20Live%20TV%20Channel.png" group-title="ENTERTAINMENT",AMC IFC Films Picks
 https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",AMC Presents
+#EXTINF:-1 tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjM0MjczNjJf?inline=1" group-title="ENTERTAINMENT",AMC Presents
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",AMC Slightly Off
 https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
@@ -1246,6 +1244,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playl
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",Filmrise Western - Xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png" group-title="ENTERTAINMENT",Flix
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 
@@ -1432,6 +1432,8 @@ http://210.210.155.35/dr9445/h/h07/01.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/a/VHgulCC.png" group-title="ENTERTAINMENT",Local Now Adrenaline Rush
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 
 
 
@@ -1460,8 +1462,6 @@ http://210.210.155.35/dr9445/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/2e25ed9d39cb1d1712f11da7415a75478b7e960598f828f4af7aa87862d955d2.png" group-title="ENTERTAINMENT",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png" group-title="ENTERTAINMENT",Flix
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 
